@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-mx">
+	<title type="text">Consumibles - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/mx/productos/oficina/consumibles/299-perforadora.feed</id>
+	<updated>2025-04-10T12:56:43+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/mx/productos/oficina/consumibles/299-perforadora.feed?type=atom"/>
+	<entry>
+		<title>Perforadora</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/productos/oficina/consumibles/299-perforadora/1352-perforadora.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/mx/productos/oficina/consumibles/299-perforadora/1352-perforadora.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Productos/Oficina/ProductosdeEscritorio/Perforadora/product_detail_features_front_Pelinotas.png&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;p&gt;Perforadora ergonómica metálica de acero inoxidable de 1 orificio con suave grip que ayuda a tener un mayor control y facilidad al perforar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mango de goma con agarre suave y cómodo&lt;/li&gt;
+&lt;li&gt;Disponible en 3 diferentes y atractivos colores&lt;/li&gt;
+&lt;li&gt;Perforación precisa de 6mm&lt;/li&gt;
+&lt;li&gt;Perfora hasta 8 hojas a la vez&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Productos/Oficina/ProductosdeEscritorio/Perforadora/product_detail_features_front_Pelinotas.png&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;p&gt;Perforadora ergonómica metálica de acero inoxidable de 1 orificio con suave grip que ayuda a tener un mayor control y facilidad al perforar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mango de goma con agarre suave y cómodo&lt;/li&gt;
+&lt;li&gt;Disponible en 3 diferentes y atractivos colores&lt;/li&gt;
+&lt;li&gt;Perforación precisa de 6mm&lt;/li&gt;
+&lt;li&gt;Perfora hasta 8 hojas a la vez&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Perforadora" />
+	</entry>
+</feed>

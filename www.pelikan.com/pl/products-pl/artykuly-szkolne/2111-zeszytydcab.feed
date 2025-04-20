@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Artykuły szkolne - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:22:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty.feed?type=rss"/>
+		<language>pl-pl</language>
+		<item>
+			<title>Notatnik na spirali A5</title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1800-notatnik-na-spirali-a5.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1800-notatnik-na-spirali-a5.html</guid>
+			<description><![CDATA[<p>Nowe notatniki na spirali są idealnym towarzyszem w podróży. Niezależnie od tego, czy są w linie, czy w kratkę - jest tu wystarczająco dużo miejsca, aby o niczym nie zapomnieć.</p>]]></description>
+			<category>Zeszyty</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Notatnik na spirali A4</title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1801-notatnik-na-spirali-a4.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1801-notatnik-na-spirali-a4.html</guid>
+			<description><![CDATA[<p>Wielkie idee potrzebują dużo miejsca. Dzięki notatnikowi na spirali od Pelikana zawsze masz przy sobie niezawodnego towarzysza.</p>]]></description>
+			<category>Zeszyty</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Notatnik A4</title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1802-notatnik-a4.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1802-notatnik-a4.html</guid>
+			<description><![CDATA[<p>Artykuły szkolne są częścią podstawowego wyposażenia w szkole, na uczelni, a czasem nawet i w codziennej pracy. Asortyment papierniczy marki Pelikan obejmuje zeszyty szkolne oraz różne notatniki na spirali w formatach A4 i A5.</p>]]></description>
+			<category>Zeszyty</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Inicio - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/co/2272-colombia/servicios.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:30:44 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/co/2272-colombia/servicios.feed?type=rss"/>
+		<language>es-co</language>
+		<item>
+			<title>Catálogo</title>
+			<link>https://www.pelikan.com/co/servicios/catalogo.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/co/servicios/catalogo.html</guid>
+			<description><![CDATA[<div class="row justify-content-center">
+<div class="col-sm-8 text-center">
+<div class="py-3 my-2">
+<h1 class="text-blue-title my-3 mb-sm-5 mt-sm-4">Catálogo</h1>
+<h3 class="text-blue-flex my-2 my-sm-4">El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.</h3>
+</div>
+<div class="justify-content-center row">
+<div class="col-sm-9">
+<div class="my-3">
+<p>Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="my-3 my-sm-4">&nbsp;</div>
+<div class="row justify-content-center">
+<div class="col-sm-11">
+<div class="row justify-content-center">
+<div class="order-1 order-sm-0 col-sm-4 my-auto">
+<h4 class="text-blue mb-4 mt-2 mt-sm-0">Catálogo de productos</h4>
+<p>Aquí puede descargar nuestro <br />catálogo actual.</p>
+<a href="https://www.pelikan.com//images/assets/catalogs/catalogo_colombia_2023_digital.pdf" target="_blank" class="btn btn-outlined-flex">Descargar</a></div>
+<div class="order-0 order-sm-1 col-sm-4"><img src="https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2023.png" alt="imagencatalogo" width="2329" height="1796" class="img-fluid" /></div>
+</div>
+<div class="my-2 my-sm-3">&nbsp;</div>
+<div class="my-2 my-sm-3">&nbsp;</div>
+</div>
+</div>]]></description>
+			<category>Servicios</category>
+			<pubDate>Sun, 20 Jun 2021 20:39:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>El doctor Quitamanchas de Pelikan</title>
+			<link>https://www.pelikan.com/co/2272-colombia/servicios/1925-el-doctor-quitamanchas-de-pelikan.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/co/2272-colombia/servicios/1925-el-doctor-quitamanchas-de-pelikan.html</guid>
+			<description><![CDATA[<div class="bg_light py-4 my-3">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-5">
+<div class="py-3 mb-sm-4 mb-2 text-center">
+<h1 class="text-blue-title">El Doctor Quitamanchas</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg_light_blue_3 p-0 my-4">
+<div class="container">
+<div class="row">
+<div class="col-sm-5"><img src="https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png" alt="" width="537" height="451" class="img-fluid" /></div>
+<div class="col-sm-7 my-auto">
+<div class="py-3">
+<ul>
+<li>Cuanto antes se trate la mancha, más fácil será eliminarla.</li>
+<li>Trabaje siempre con las manchas desde fuera hacia dentro para evitar que se extiendan.</li>
+<li>Antes de utilizar un producto de limpieza, debe comprobarse en un lugar discreto de la superficie la solidez del color y/o la resistencia del material.</li>
+<li>Deben respetarse las instrucciones de uso del producto de limpieza.</li>
+<li>El éxito de la limpieza depende de una serie de factores en cada caso individual (por ejemplo, el tamaño / la antigüedad de la mancha, las propiedades exactas de la superficie -especialmente en el caso de los textiles y las alfombras-, el producto de limpieza utilizado y su dosificación). Por lo tanto, no podemos garantizar el éxito y no aceptamos ninguna responsabilidad por cualquier daño.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description>
+			<category>Servicios</category>
+			<pubDate>Sun, 20 Jun 2021 20:16:55 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

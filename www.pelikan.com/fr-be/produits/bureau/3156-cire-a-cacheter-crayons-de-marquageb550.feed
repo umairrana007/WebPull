@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-be">
+	<title type="text">Bureau - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage.feed</id>
+	<updated>2025-04-10T13:27:29+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage.feed?type=atom"/>
+	<entry>
+		<title>Crayon à marquer 762</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage/3342-crayon-a-marquer-762.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage/3342-crayon-a-marquer-762.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Pour écrire sur des surfaces lisses.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Pour écrire sur des surfaces lisses.&lt;/p&gt;
+</content>
+		<category term="Cire à cacheter &amp; crayons de marquage" />
+	</entry>
+	<entry>
+		<title>Cire à cacheter</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage/3343-cire-a-cacheter.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-be/produits/bureau/3156-cire-a-cacheter-crayons-de-marquage/3343-cire-a-cacheter.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Cire à cacheter pour les sous-couches en papier granuleux. &lt;br /&gt;Facile à fondre.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Cire à cacheter pour les sous-couches en papier granuleux. &lt;br /&gt;Facile à fondre.&lt;/p&gt;</content>
+		<category term="Cire à cacheter &amp; crayons de marquage" />
+	</entry>
+</feed>

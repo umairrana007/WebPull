@@ -1,0 +1,12 @@
+/* Remove Pelikan-specific font references */
+@font-face {
+    font-family: "DollarSans";
+    src: url("../fonts/DollarSans-Regular.woff2") format("woff2");
+}
+
+body {
+    font-family: "DollarSans", sans-serif;
+    /* Remove Pelikan-specific color variables */
+    --brand-primary: #0067B9; /* Dollar's brand blue */
+    --brand-secondary: #FFD100; /* Dollar's brand yellow */
+}

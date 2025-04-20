@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pelikan – een sterk merk aan je zijde. - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/nl-be/33-belgie.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:19:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/nl-be/33-belgie.feed?type=rss"/>
+		<language>nl-be</language>
+		<item>
+			<title>Startpagina</title>
+			<link>https://www.pelikan.com/nl-be/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/nl-be/</guid>
+			<description><![CDATA[<p>{loadmoduleid 502}</p>
+<section class="_bg-blue pt-sm-5 pt-0 pb-5 mt-3 mb-3">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="row">
+<div class="col-sm-5 pt-sm-0 pt-4"><img src="https://www.pelikan.com//images/pelikan/pelikan_company.png" alt="pelikan company" width="376" height="395" class="img-fluid" /></div>
+<div class="col-sm-1">&nbsp;</div>
+<div class="col-sm-6 my-auto">
+<h2 class="text-yellow">De firma Pelikan</h2>
+<p>&nbsp;</p>
+De Pelikan Group GmbH, met hoofdkantoor in Falkensee bij Berlijn, is een toonaangevende leverancier van hoogwaardige papier-, school- en kantoorartikelen. Het productassortiment omvat meer dan 12.000 artikelen, van puntenslijpers en servetten tot schooltassen en hoogwaardige schrijfinstrumenten.<br />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.pelikan.com//bedrijf" class="btn btn-outline-blue text-white">Meer lezen</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>]]></description>
+			<category>België</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

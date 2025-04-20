@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Artykuły szkolne - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty.feed</id>
+	<updated>2025-04-10T13:22:53+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty.feed?type=atom"/>
+	<entry>
+		<title>Notatnik na spirali A5</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1800-notatnik-na-spirali-a5.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1800-notatnik-na-spirali-a5.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Nowe notatniki na spirali są idealnym towarzyszem w podróży. Niezależnie od tego, czy są w linie, czy w kratkę - jest tu wystarczająco dużo miejsca, aby o niczym nie zapomnieć.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Nowe notatniki na spirali są idealnym towarzyszem w podróży. Niezależnie od tego, czy są w linie, czy w kratkę - jest tu wystarczająco dużo miejsca, aby o niczym nie zapomnieć.&lt;/p&gt;</content>
+		<category term="Zeszyty" />
+	</entry>
+	<entry>
+		<title>Notatnik na spirali A4</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1801-notatnik-na-spirali-a4.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1801-notatnik-na-spirali-a4.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Wielkie idee potrzebują dużo miejsca. Dzięki notatnikowi na spirali od Pelikana zawsze masz przy sobie niezawodnego towarzysza.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Wielkie idee potrzebują dużo miejsca. Dzięki notatnikowi na spirali od Pelikana zawsze masz przy sobie niezawodnego towarzysza.&lt;/p&gt;</content>
+		<category term="Zeszyty" />
+	</entry>
+	<entry>
+		<title>Notatnik A4</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1802-notatnik-a4.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/pl/products-pl/artykuly-szkolne/2111-zeszyty/1802-notatnik-a4.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Artykuły szkolne są częścią podstawowego wyposażenia w szkole, na uczelni, a czasem nawet i w codziennej pracy. Asortyment papierniczy marki Pelikan obejmuje zeszyty szkolne oraz różne notatniki na spirali w formatach A4 i A5.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Artykuły szkolne są częścią podstawowego wyposażenia w szkole, na uczelni, a czasem nawet i w codziennej pracy. Asortyment papierniczy marki Pelikan obejmuje zeszyty szkolne oraz różne notatniki na spirali w formatach A4 i A5.&lt;/p&gt;</content>
+		<category term="Zeszyty" />
+	</entry>
+</feed>

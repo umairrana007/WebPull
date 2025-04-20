@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Escritura profesional - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/mx/productos/escritura-profesional.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 11:32:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/mx/productos/escritura-profesional.feed?type=rss"/>
+		<language>es-mx</language>
+		<item>
+			<title>Jazz® Noble Elegance</title>
+			<link>https://www.pelikan.com/mx/productos/escritura-profesional/jazz.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/productos/escritura-profesional/jazz.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/professional_writing/product/jazz/noble/jazz_noble_intro.png" /></p><div class="_intro_pwriting">
+<h2 class="text-gray_professional">Jazz<sup>®&nbsp;</sup>Noble Elegance</h2>
+<p>El elegante bolígrafo Jazz® de metal se caracteriza por sus líneas curvas, que le confieren ligereza y viveza.</p>
+</div>]]></description>
+			<category>Escritura profesional</category>
+			<pubDate>Fri, 16 Jul 2021 19:36:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ineo®</title>
+			<link>https://www.pelikan.com/mx/productos/escritura-profesional/ineo.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/productos/escritura-profesional/ineo.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/professional_writing/product/ineo/intro_ineo.jpg" /></p><h2 class="text-gray_professional">Ineo<sup>®</sup></h2>
+<h6 class="text-bold">Único y llamativo.</h6>
+<p>El bolígrafo de metal Ineo® es un instrumento de escritura aerodinámico con un estilo purista y minimalista.</p>
+<p class="p1">La principal característica de este dispositivo es su diseño sin clip. Un detalle que lo distingue de otros instrumentos de su tipo, siendo un punto de atracción en la vida cotidiana.&nbsp;</p>]]></description>
+			<category>Escritura profesional</category>
+			<pubDate>Sat, 17 Jul 2021 16:32:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

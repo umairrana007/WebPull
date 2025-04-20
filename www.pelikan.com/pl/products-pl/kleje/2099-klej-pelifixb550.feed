@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Kleje - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix.feed</id>
+	<updated>2025-04-10T13:22:37+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix.feed?type=atom"/>
+	<entry>
+		<title>PELIFIX® klej w sztyfcie</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix/1337-pelifix-klej-w-sztyfcie.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix/1337-pelifix-klej-w-sztyfcie.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Nasz doskonały 10 g klej PELIFIX&lt;sup&gt;®&lt;/sup&gt; posiada kolorowe wzory na opakowaniu. Idealny w pracach kreatywnych, dla dziewczynek i chłopców.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Nasz doskonały 10 g klej PELIFIX&lt;sup&gt;®&lt;/sup&gt; posiada kolorowe wzory na opakowaniu. Idealny w pracach kreatywnych, dla dziewczynek i chłopców.&lt;/p&gt;</content>
+		<category term="Klej Pelifix" />
+	</entry>
+	<entry>
+		<title>PELIFIX® klej</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix/1338-pelifix-klej.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/pl/products-pl/kleje/2099-klej-pelifix/1338-pelifix-klej.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;W ten sposób majsterkowanie staje się zabawą! PELIFIX&lt;sup&gt;®&lt;/sup&gt; firmy Pelikan jest doskonałym klejem do wielu różnych materiałów: przykleja papier, karton, skórę, drewno, korek i styropian. Klej jest biały podczas obróbki i przezroczysty po wyschnięciu, dzięki temu nie pozostaje widoczny! Butelka posiada obrotową końcówkę dla szczególnie precyzyjnego klejenia.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;W ten sposób majsterkowanie staje się zabawą! PELIFIX&lt;sup&gt;®&lt;/sup&gt; firmy Pelikan jest doskonałym klejem do wielu różnych materiałów: przykleja papier, karton, skórę, drewno, korek i styropian. Klej jest biały podczas obróbki i przezroczysty po wyschnięciu, dzięki temu nie pozostaje widoczny! Butelka posiada obrotową końcówkę dla szczególnie precyzyjnego klejenia.&lt;/p&gt;</content>
+		<category term="Klej Pelifix" />
+	</entry>
+</feed>

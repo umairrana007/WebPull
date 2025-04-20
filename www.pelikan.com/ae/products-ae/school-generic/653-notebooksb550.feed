@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-ae">
+	<title type="text">School generic - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks.feed</id>
+	<updated>2025-04-10T13:30:04+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks.feed?type=atom"/>
+	<entry>
+		<title>Spiral pad A4</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2065-spiralblock-a4-80-120-sheets.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2065-spiralblock-a4-80-120-sheets.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;Spiral pad A4, 80/120 Sheets&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;Big ideas need a lot of space. With a spiral pad from Pelikan you always have a reliable companion with you.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;Spiral pad A4, 80/120 Sheets&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;Big ideas need a lot of space. With a spiral pad from Pelikan you always have a reliable companion with you.&lt;/p&gt;
+</content>
+		<category term="Notebooks" />
+	</entry>
+	<entry>
+		<title>Spiral pad A5</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2066-spiralblock-a5-80-120-blatt.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2066-spiralblock-a5-80-120-blatt.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;Spiral pad A5, 80 Sheets&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;The new spiral pads are the perfect companions for on the go. Regardless of whether it is lined or checked: there is enough space here not to forget anything.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;Spiral pad A5, 80 Sheets&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;The new spiral pads are the perfect companions for on the go. Regardless of whether it is lined or checked: there is enough space here not to forget anything.&lt;/p&gt;
+</content>
+		<category term="Notebooks" />
+	</entry>
+	<entry>
+		<title>School pad A4</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2067-school-pad-a4.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2067-school-pad-a4.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;School pad A4, 50 Blatt&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;The practical school blocks from Pelikan are ideal for demanding school days. This way, records can be quickly pinned away.&lt;/p&gt;</summary>
+		<content type="html">&lt;h2 class=&quot;text-yellow&quot;&gt;School pad A4, 50 Blatt&lt;/h2&gt;
+&lt;p class=&quot;w-50 mx-auto&quot;&gt;The practical school blocks from Pelikan are ideal for demanding school days. This way, records can be quickly pinned away.&lt;/p&gt;</content>
+		<category term="Notebooks" />
+	</entry>
+</feed>

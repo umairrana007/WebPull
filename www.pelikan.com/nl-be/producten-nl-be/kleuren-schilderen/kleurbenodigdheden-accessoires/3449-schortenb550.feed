@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="nl-be">
+	<title type="text">Kleurbenodigdheden &amp; accessoires - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/nl-be/producten-nl-be/kleuren-schilderen/kleurbenodigdheden-accessoires/3449-schorten.feed</id>
+	<updated>2025-04-10T12:34:40+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/nl-be/producten-nl-be/kleuren-schilderen/kleurbenodigdheden-accessoires/3449-schorten.feed?type=atom"/>
+	<entry>
+		<title>Kinderschorten</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/nl-be/producten-nl-be/kleuren-schilderen/kleurbenodigdheden-accessoires/3449-schorten/4142-kinderschorten.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/nl-be/producten-nl-be/kleuren-schilderen/kleurbenodigdheden-accessoires/3449-schorten/4142-kinderschorten.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/painting_aprons_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Schilderschort om de kleding te beschermen&lt;/li&gt;
+&lt;li&gt;Universele maat voor kinderen van 6 tot 9 jaar&lt;/li&gt;
+&lt;li&gt;Zelfstandig aan en uit te trekken dankzij klittenbandsluiting&lt;/li&gt;
+&lt;li&gt;Zachte boorden aan de mouwen en hals&lt;/li&gt;
+&lt;li&gt;Sneldrogend dankzij lus om op te hangen&lt;/li&gt;
+&lt;li&gt;Ideaal voor school en vrije tijd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/painting_aprons_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Schilderschort om de kleding te beschermen&lt;/li&gt;
+&lt;li&gt;Universele maat voor kinderen van 6 tot 9 jaar&lt;/li&gt;
+&lt;li&gt;Zelfstandig aan en uit te trekken dankzij klittenbandsluiting&lt;/li&gt;
+&lt;li&gt;Zachte boorden aan de mouwen en hals&lt;/li&gt;
+&lt;li&gt;Sneldrogend dankzij lus om op te hangen&lt;/li&gt;
+&lt;li&gt;Ideaal voor school en vrije tijd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Schorten" />
+	</entry>
+</feed>

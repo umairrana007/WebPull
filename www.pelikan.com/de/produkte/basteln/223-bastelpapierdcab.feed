@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Basteln - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/de/produkte/basteln/223-bastelpapier.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:20:15 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/de/produkte/basteln/223-bastelpapier.feed?type=rss"/>
+		<language>de-de</language>
+		<item>
+			<title>Transparentpapier</title>
+			<link>https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/233-transparentpapier.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/233-transparentpapier.html</guid>
+			<description><![CDATA[<p>Das Transparentpapier von Pelikan ist in 10 Farben erhältlich und eignet sich besonders zum Basteln von Windlichtern.</p>]]></description>
+			<category>Bastelpapier</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gummiertes Glanzpapier</title>
+			<link>https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/232-gummiertes-glanzpapier.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/232-gummiertes-glanzpapier.html</guid>
+			<description><![CDATA[<p>Das gummierte Glanzpapier von Pelikan ist in 10 Farben erhältlich und ist selbstklebend, wenn es befeuchtet wird. Es ist für eine Vielzahl von Bastelarbeiten geeignet.</p>]]></description>
+			<category>Bastelpapier</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Tonpapier</title>
+			<link>https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/224-tonpapier.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/produkte/basteln/223-bastelpapier/224-tonpapier.html</guid>
+			<description><![CDATA[<p>Das Pelikan Tonpapier eignet sich perfekt zum Basteln und für kreatives Gestalten. Bei dem Tonpapier wird im Gegensatz zu bedrucktem, weißem Papier die Farbe direkt bei der Herstellung in das Papier eingearbeitet. So bleiben die Schnittkanten auch beim Ausschneiden farbig.</p>]]></description>
+			<category>Bastelpapier</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

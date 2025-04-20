@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-lu">
+	<title type="text">Ecole - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas.feed</id>
+	<updated>2025-04-10T13:27:15+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-lu/produits/ecole/3293-compas.feed?type=atom"/>
+	<entry>
+		<title>Compas dans un étui en plastique</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3641-compas-dans-un-etui-en-plastique.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3641-compas-dans-un-etui-en-plastique.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Compas de base en métal avec des bras réglables pour réaliser des cercles parfaits. Un instrument résistant fabriqué à partir de matériaux très durables. Comprend des mines de rechange et un étui en plastique pour un transport facile.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Compas de base en métal avec des bras réglables pour réaliser des cercles parfaits. Un instrument résistant fabriqué à partir de matériaux très durables. Comprend des mines de rechange et un étui en plastique pour un transport facile.&lt;/p&gt;
+</content>
+		<category term="Compas" />
+	</entry>
+	<entry>
+		<title>Compas de précision</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3642-compas-de-precision.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3642-compas-de-precision.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Metal precision compass with adjustable knob. An ideal drawing instrument to&lt;br /&gt; create perfect circles, can be used in mathematics and technical drawing.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Metal precision compass with adjustable knob. An ideal drawing instrument to&lt;br /&gt; create perfect circles, can be used in mathematics and technical drawing.&lt;/p&gt;
+</content>
+		<category term="Compas" />
+	</entry>
+</feed>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kleben - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/de/produkte/kleben/231-kleber.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:32:25 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/de/produkte/kleben/231-kleber.feed?type=rss"/>
+		<language>de-de</language>
+		<item>
+			<title>PELIFIX® Sekundenkleber</title>
+			<link>https://www.pelikan.com/de/produkte/kleben/231-kleber/266-pelifix-sekundenkleber.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/produkte/kleben/231-kleber/266-pelifix-sekundenkleber.html</guid>
+			<description><![CDATA[<p>Der PELIFIX<sup>®</sup>&nbsp;Sekundenkleber ist kristallklar und trocknet sehr schnell. Geeignet für Keramik, Porzellan, Gummi, Holz und vielen weiteren Materialien</p>]]></description>
+			<category>Flüssigkleber</category>
+			<pubDate>Fri, 23 Jul 2021 02:47:47 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

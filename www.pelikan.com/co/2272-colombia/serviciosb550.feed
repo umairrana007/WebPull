@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-co">
+	<title type="text">Inicio - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/co/2272-colombia/servicios.feed</id>
+	<updated>2025-04-10T13:30:45+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/co/2272-colombia/servicios.feed?type=atom"/>
+	<entry>
+		<title>Catálogo</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/servicios/catalogo.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/co/servicios/catalogo.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catálogo&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-9&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catálogo de productos&lt;/h4&gt;
+&lt;p&gt;Aquí puede descargar nuestro &lt;br /&gt;catálogo actual.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com//images/assets/catalogs/catalogo_colombia_2023_digital.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Descargar&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2023.png&quot; alt=&quot;imagencatalogo&quot; width=&quot;2329&quot; height=&quot;1796&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catálogo&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-9&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catálogo de productos&lt;/h4&gt;
+&lt;p&gt;Aquí puede descargar nuestro &lt;br /&gt;catálogo actual.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com//images/assets/catalogs/catalogo_colombia_2023_digital.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Descargar&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2023.png&quot; alt=&quot;imagencatalogo&quot; width=&quot;2329&quot; height=&quot;1796&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servicios" />
+	</entry>
+	<entry>
+		<title>El doctor Quitamanchas de Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/2272-colombia/servicios/1925-el-doctor-quitamanchas-de-pelikan.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/co/2272-colombia/servicios/1925-el-doctor-quitamanchas-de-pelikan.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;El Doctor Quitamanchas&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Cuanto antes se trate la mancha, más fácil será eliminarla.&lt;/li&gt;
+&lt;li&gt;Trabaje siempre con las manchas desde fuera hacia dentro para evitar que se extiendan.&lt;/li&gt;
+&lt;li&gt;Antes de utilizar un producto de limpieza, debe comprobarse en un lugar discreto de la superficie la solidez del color y/o la resistencia del material.&lt;/li&gt;
+&lt;li&gt;Deben respetarse las instrucciones de uso del producto de limpieza.&lt;/li&gt;
+&lt;li&gt;El éxito de la limpieza depende de una serie de factores en cada caso individual (por ejemplo, el tamaño / la antigüedad de la mancha, las propiedades exactas de la superficie -especialmente en el caso de los textiles y las alfombras-, el producto de limpieza utilizado y su dosificación). Por lo tanto, no podemos garantizar el éxito y no aceptamos ninguna responsabilidad por cualquier daño.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;El Doctor Quitamanchas&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Cuanto antes se trate la mancha, más fácil será eliminarla.&lt;/li&gt;
+&lt;li&gt;Trabaje siempre con las manchas desde fuera hacia dentro para evitar que se extiendan.&lt;/li&gt;
+&lt;li&gt;Antes de utilizar un producto de limpieza, debe comprobarse en un lugar discreto de la superficie la solidez del color y/o la resistencia del material.&lt;/li&gt;
+&lt;li&gt;Deben respetarse las instrucciones de uso del producto de limpieza.&lt;/li&gt;
+&lt;li&gt;El éxito de la limpieza depende de una serie de factores en cada caso individual (por ejemplo, el tamaño / la antigüedad de la mancha, las propiedades exactas de la superficie -especialmente en el caso de los textiles y las alfombras-, el producto de limpieza utilizado y su dosificación). Por lo tanto, no podemos garantizar el éxito y no aceptamos ninguna responsabilidad por cualquier daño.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servicios" />
+	</entry>
+</feed>

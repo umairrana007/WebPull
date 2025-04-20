@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Handicraft - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:20:27 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Plastilin quality modeling clay</title>
+			<link>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/82-plastilin.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/82-plastilin.html</guid>
+			<description><![CDATA[<p>The Plastilin modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 2 colours.</p>]]></description>
+			<category>Modelling clays &amp; doughs</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Creaplast®  modelling clay for children</title>
+			<link>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/83-creaplast.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/83-creaplast.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/categories/handcraft/intro_image.png" /></p><h2 class="text-blue-title">Creaplast<sup>®</sup> modelling clay for children</h2>
+<p>Creaplast® is a high-quality, durable plasticine for modelling and designing. It is particularly soft and supple from the start.</p>
+]]></description>
+			<category>Modelling clays &amp; doughs</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nakiplast® moulding dough</title>
+			<link>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/86-nakiplast-block.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/86-nakiplast-block.html</guid>
+			<description><![CDATA[<p>The Nakiplast<sup>®</sup> modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 4 colors.</p>
+]]></description>
+			<category>Modelling clays &amp; doughs</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="cs-cz">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/cs/1779-ceska-republika/sluzby.feed</id>
+	<updated>2025-04-10T13:28:50+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/cs/1779-ceska-republika/sluzby.feed?type=atom"/>
+	<entry>
+		<title>Catalogues</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/cs/sluzby/katalog.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/cs/sluzby/katalog.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalog&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Stáhněte si náš katalog jako dokument PDF. Najdete v něm přehled nejnovějších produktů Pelikan a Herlitz.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _space_generic&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot; style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://shop.herlitz.cz/userfiles/Katalog_2023_pelikan_group.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;text-blue-flex&quot; title=&quot;Katalog&quot;&gt;Katalog v PDF ke stažení&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 text-center pt-lg-5 pt-2&quot;&gt;&lt;a href=&quot;https://shop.herlitz.cz/userfiles/Katalog_2023_pelikan_group.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;text-blue-flex&quot; title=&quot;Katalog&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/Katalog_2023.jpeg&quot; alt=&quot;Katalog&quot; width=&quot;271&quot; height=&quot;379&quot; class=&quot;mx-auto d-block&quot; loading=&quot;lazy&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4 text-center pt-lg-5 pt-2&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalog&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Stáhněte si náš katalog jako dokument PDF. Najdete v něm přehled nejnovějších produktů Pelikan a Herlitz.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _space_generic&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot; style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://shop.herlitz.cz/userfiles/Katalog_2023_pelikan_group.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;text-blue-flex&quot; title=&quot;Katalog&quot;&gt;Katalog v PDF ke stažení&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 text-center pt-lg-5 pt-2&quot;&gt;&lt;a href=&quot;https://shop.herlitz.cz/userfiles/Katalog_2023_pelikan_group.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;text-blue-flex&quot; title=&quot;Katalog&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/Katalog_2023.jpeg&quot; alt=&quot;Katalog&quot; width=&quot;271&quot; height=&quot;379&quot; class=&quot;mx-auto d-block&quot; loading=&quot;lazy&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4 text-center pt-lg-5 pt-2&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Služby" />
+	</entry>
+	<entry>
+		<title>Pelikan doktor na skvrny </title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/cs/1779-ceska-republika/sluzby/3682-pelikan-doktor-na-skvrny.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/cs/1779-ceska-republika/sluzby/3682-pelikan-doktor-na-skvrny.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Doktor skvrn&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Čím dříve skvrnu ošetříte, tím snadněji ji odstraníte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skvrny vždy odstraňujte zvenčí dovnitř, aby se nerozšiřovaly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Před použitím čisticího prostředku je třeba na nenápadném místě povrchu zkontrolovat stálost barvy a/nebo odolnost materiálu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Je třeba dodržovat návod k použití čisticího prostředku.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Úspěšnost čištění závisí v každém jednotlivém případě na řadě faktorů (např. na velikosti / stáří skvrny, přesných vlastnostech povrchu - zejména v případě textilií a koberců, použitém čisticím prostředku a jeho dávkování). Nemůžeme proto zaručit úspěch a neneseme žádnou odpovědnost za případné škody.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Doktor skvrn&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Čím dříve skvrnu ošetříte, tím snadněji ji odstraníte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skvrny vždy odstraňujte zvenčí dovnitř, aby se nerozšiřovaly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Před použitím čisticího prostředku je třeba na nenápadném místě povrchu zkontrolovat stálost barvy a/nebo odolnost materiálu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Je třeba dodržovat návod k použití čisticího prostředku.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Úspěšnost čištění závisí v každém jednotlivém případě na řadě faktorů (např. na velikosti / stáří skvrny, přesných vlastnostech povrchu - zejména v případě textilií a koberců, použitém čisticím prostředku a jeho dávkování). Nemůžeme proto zaručit úspěch a neneseme žádnou odpovědnost za případné škody.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Služby" />
+	</entry>
+</feed>

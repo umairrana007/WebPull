@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Kategorie - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pl/allcategories-pl-pl/2128-polska/inne.feed</id>
+	<updated>2025-04-10T13:23:16+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pl/allcategories-pl-pl/2128-polska/inne.feed?type=atom"/>
+	<entry>
+		<title>Najczęściej zadawane pytania</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/uslugi/faq.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/pl/uslugi/faq.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<category term="Inne" />
+	</entry>
+	<entry>
+		<title>Katalogi</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/uslugi/katalogi.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/pl/uslugi/katalogi.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalogi&lt;/h1&gt;
+&lt;h3 class=&quot;py-3 my-2&quot;&gt;Katalogi Pelikan jako dokumenty PDF do pobrania z wieloma pomocnymi informacjami oraz nowymi i innowacyjnymi produktami&lt;/h3&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Pobierz nasze katalogi w formie dokumentu PDF. Znajdziesz tam przegląd najnowszych produktów, jak również przybory piśmienne z limitowanej profesjonalnej edycji. Ponadto Pelikan udostępnia wiele pomocnych informacji o produktach, takich jak informacje o funkcji napełniania piór wiecznych lub piór wiecznych z tłoczkiem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Katalog do pobrania&lt;/h4&gt;
+&lt;p&gt;Tutaj możesz pobrać nasz katalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/Pelikan_katalog_pl_mob_2023.pdf&quot; target=&quot;_blank&quot; hreflang=&quot;pl&quot; class=&quot;btn btn-outlined-flex&quot; lang=&quot;pl&quot; title=&quot;Pelikan Katalog 2023&quot;&gt;Pobierz&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/doc_1.png&quot; alt=&quot;pelikan catalog 1&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/doc_3.png&quot; alt=&quot;fwi catalog 1&quot; width=&quot;436&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Profesjonalne artykuły piśmienne&lt;/h4&gt;
+&lt;p&gt;Tutaj możesz pobrać katalog z profesjonalnymi artykułami piśmiennymi.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/FWI_katalog_pl_mob_2022.pdf&quot; target=&quot;_blank&quot; hreflang=&quot;pl&quot; class=&quot;btn btn-outlined-flex&quot; lang=&quot;pl&quot; title=&quot;Ekskluzywne Pisanie Katalog 2022&quot;&gt;Pobierz&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalogi&lt;/h1&gt;
+&lt;h3 class=&quot;py-3 my-2&quot;&gt;Katalogi Pelikan jako dokumenty PDF do pobrania z wieloma pomocnymi informacjami oraz nowymi i innowacyjnymi produktami&lt;/h3&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Pobierz nasze katalogi w formie dokumentu PDF. Znajdziesz tam przegląd najnowszych produktów, jak również przybory piśmienne z limitowanej profesjonalnej edycji. Ponadto Pelikan udostępnia wiele pomocnych informacji o produktach, takich jak informacje o funkcji napełniania piór wiecznych lub piór wiecznych z tłoczkiem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Katalog do pobrania&lt;/h4&gt;
+&lt;p&gt;Tutaj możesz pobrać nasz katalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/Pelikan_katalog_pl_mob_2023.pdf&quot; target=&quot;_blank&quot; hreflang=&quot;pl&quot; class=&quot;btn btn-outlined-flex&quot; lang=&quot;pl&quot; title=&quot;Pelikan Katalog 2023&quot;&gt;Pobierz&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/doc_1.png&quot; alt=&quot;pelikan catalog 1&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/doc_3.png&quot; alt=&quot;fwi catalog 1&quot; width=&quot;436&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Profesjonalne artykuły piśmienne&lt;/h4&gt;
+&lt;p&gt;Tutaj możesz pobrać katalog z profesjonalnymi artykułami piśmiennymi.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/FWI_katalog_pl_mob_2022.pdf&quot; target=&quot;_blank&quot; hreflang=&quot;pl&quot; class=&quot;btn btn-outlined-flex&quot; lang=&quot;pl&quot; title=&quot;Ekskluzywne Pisanie Katalog 2022&quot;&gt;Pobierz&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Inne" />
+	</entry>
+	<entry>
+		<title>Wyszukiwarka</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/2128-polska/inne/1201-retail-search.html"/>
+		<published>2021-06-20T20:22:44+00:00</published>
+		<updated>2021-06-20T20:22:44+00:00</updated>
+		<id>https://www.pelikan.com/pl/2128-polska/inne/1201-retail-search.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;div class=&quot;py-3 mb-3 mt-2 text-center&quot;&gt;
+&lt;h1 class=&quot;mb-3 text-blue-title&quot;&gt;Wyszukiwarka sprzedawców&lt;/h1&gt;
+&lt;p&gt;Szukasz sprzedawcy Pelikan w pobliżu? Pomoże Ci w tym nasza wyszukiwarka.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;{loadmoduleid 156}&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;div class=&quot;py-3 mb-3 mt-2 text-center&quot;&gt;
+&lt;h1 class=&quot;mb-3 text-blue-title&quot;&gt;Wyszukiwarka sprzedawców&lt;/h1&gt;
+&lt;p&gt;Szukasz sprzedawcy Pelikan w pobliżu? Pomoże Ci w tym nasza wyszukiwarka.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;{loadmoduleid 156}&lt;/div&gt;</content>
+		<category term="Inne" />
+	</entry>
+	<entry>
+		<title>Odplamiacz</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/2128-polska/inne/1202-the-pelikan-stain-doctor.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/pl/2128-polska/inne/1202-the-pelikan-stain-doctor.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Odplamiacz&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Im wcześniej plama jest traktowana, tym łatwiej jest ją usunąć.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plamy należy zawsze usuwać od zewnątrz do wewnątrz, aby uniknąć ich rozprzestrzeniania się.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Przed użyciem środka czyszczącego należy sprawdzić w niewidocznym miejscu na powierzchni trwałość koloru i/lub odporność materiału.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Należy przestrzegać instrukcji użycia środka czyszczącego.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skuteczność czyszczenia zależy w każdym indywidualnym przypadku od wielu czynników (np. wielkość / wiek plamy, dokładne właściwości powierzchni - szczególnie w przypadku tekstyliów i dywanów, zastosowany środek czyszczący i jego dozowanie). Dlatego nie możemy zagwarantować sukcesu i nie ponosimy odpowiedzialności za ewentualne szkody.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Odplamiacz&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Im wcześniej plama jest traktowana, tym łatwiej jest ją usunąć.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plamy należy zawsze usuwać od zewnątrz do wewnątrz, aby uniknąć ich rozprzestrzeniania się.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Przed użyciem środka czyszczącego należy sprawdzić w niewidocznym miejscu na powierzchni trwałość koloru i/lub odporność materiału.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Należy przestrzegać instrukcji użycia środka czyszczącego.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skuteczność czyszczenia zależy w każdym indywidualnym przypadku od wielu czynników (np. wielkość / wiek plamy, dokładne właściwości powierzchni - szczególnie w przypadku tekstyliów i dywanów, zastosowany środek czyszczący i jego dozowanie). Dlatego nie możemy zagwarantować sukcesu i nie ponosimy odpowiedzialności za ewentualne szkody.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Inne" />
+	</entry>
+</feed>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/hu/1712-magyarorszag/szerviz.feed</id>
+	<updated>2025-04-10T13:30:58+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/hu/1712-magyarorszag/szerviz.feed?type=atom"/>
+	<entry>
+		<title>Gyakran ismételt kérdések</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/szolgaltatasok/gyik.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/hu/szolgaltatasok/gyik.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<category term="Szervíz" />
+	</entry>
+	<entry>
+		<title>Katalógusok</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/szolgaltatasok/katalogusok.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/hu/szolgaltatasok/katalogusok.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalógusok&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;PDF dokumentumként letölhető Pelikan katalógusok sok hasznos infomrációval és új, innovatív termékekkel.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Töltsd le katalógusainkat PDF formátumban. Nemcsak legújabb termékeink találhatóak meg bennük, hanem a limitált kiadású fine writing tollainkra vonatkozó információk is. Ezen kívül számos hasznos információ is rendelkezésre áll kiadványainkban, mint például a töltőtollaink utántöltési lehetőségei illetve újdonságaink egyedi tulajdonságai.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Papír- írószer katalógus letöltése&lt;/h4&gt;
+&lt;p&gt;Itt tudja letölteni&amp;nbsp;aktuális papír- írószer katalógusunkat.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan-stationery-2023-catalog-de.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Letöltés&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;Itt tudja letölteni nemes írószereink katalógusát.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Letöltés&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Katalógusok&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;PDF dokumentumként letölhető Pelikan katalógusok sok hasznos infomrációval és új, innovatív termékekkel.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Töltsd le katalógusainkat PDF formátumban. Nemcsak legújabb termékeink találhatóak meg bennük, hanem a limitált kiadású fine writing tollainkra vonatkozó információk is. Ezen kívül számos hasznos információ is rendelkezésre áll kiadványainkban, mint például a töltőtollaink utántöltési lehetőségei illetve újdonságaink egyedi tulajdonságai.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Papír- írószer katalógus letöltése&lt;/h4&gt;
+&lt;p&gt;Itt tudja letölteni&amp;nbsp;aktuális papír- írószer katalógusunkat.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan-stationery-2023-catalog-de.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Letöltés&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;Itt tudja letölteni nemes írószereink katalógusát.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Letöltés&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Szervíz" />
+	</entry>
+	<entry>
+		<title>A Pelikan folt-doktor</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/1712-magyarorszag/szerviz/1852-a-pelikan-folt-doktor.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/hu/1712-magyarorszag/szerviz/1852-a-pelikan-folt-doktor.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;A folt-doktor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;A foltot annál könnyebb eltávolítani, minél hamarabb kezelik.&lt;/li&gt;
+&lt;li&gt;Mindig kívülről befelé dolgozzon a foltokon, hogy elkerülje a terjedést.&lt;/li&gt;
+&lt;li&gt;A tisztítószer használata előtt mindig ellenőrizni kell az anyag egy nem látható részén, hogy hogyan reagál az anyag az adott tisztítószerre, például megőrzi-e a színét.&lt;/li&gt;
+&lt;li&gt;A tisztítószer használati utasítását be kell tartani.&lt;/li&gt;
+&lt;li&gt;A tisztítás sikere minden esetben számos tényezőtől függ (pl. a folt mérete/kora, pontos felületi tulajdonságok – különösen textilek és szőnyegek esetében – a használt tisztítószer és annak adagolása). Ezért nem tudjuk garantálni a sikert, és nem vállalunk felelősséget semmilyen kárért.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;A folt-doktor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;A foltot annál könnyebb eltávolítani, minél hamarabb kezelik.&lt;/li&gt;
+&lt;li&gt;Mindig kívülről befelé dolgozzon a foltokon, hogy elkerülje a terjedést.&lt;/li&gt;
+&lt;li&gt;A tisztítószer használata előtt mindig ellenőrizni kell az anyag egy nem látható részén, hogy hogyan reagál az anyag az adott tisztítószerre, például megőrzi-e a színét.&lt;/li&gt;
+&lt;li&gt;A tisztítószer használati utasítását be kell tartani.&lt;/li&gt;
+&lt;li&gt;A tisztítás sikere minden esetben számos tényezőtől függ (pl. a folt mérete/kora, pontos felületi tulajdonságok – különösen textilek és szőnyegek esetében – a használt tisztítószer és annak adagolása). Ezért nem tudjuk garantálni a sikert, és nem vállalunk felelősséget semmilyen kárért.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Szervíz" />
+	</entry>
+</feed>

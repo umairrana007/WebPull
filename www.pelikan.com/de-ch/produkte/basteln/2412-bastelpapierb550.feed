@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-ch">
+	<title type="text">Basteln - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier.feed</id>
+	<updated>2025-04-10T13:20:21+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier.feed?type=atom"/>
+	<entry>
+		<title>Transparentpapier</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2281-transparentpapier.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2281-transparentpapier.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Das Transparentpapier von Pelikan ist in 10 Farben erhältlich und eignet sich besonders zum Basteln von Windlichtern.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Das Transparentpapier von Pelikan ist in 10 Farben erhältlich und eignet sich besonders zum Basteln von Windlichtern.&lt;/p&gt;</content>
+		<category term="Bastelpapier" />
+	</entry>
+	<entry>
+		<title>Glanzpapier</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2282-glanzpapier.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2282-glanzpapier.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Das gummierte Glanzpapier von Pelikan ist in 10 Farben erhältlich und ist selbstklebend, wenn es befeuchtet wird. Es ist für eine Vielzahl von Bastelarbeiten geeignet.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Das gummierte Glanzpapier von Pelikan ist in 10 Farben erhältlich und ist selbstklebend, wenn es befeuchtet wird. Es ist für eine Vielzahl von Bastelarbeiten geeignet.&lt;/p&gt;</content>
+		<category term="Bastelpapier" />
+	</entry>
+	<entry>
+		<title>Tonpapier</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2283-tonpapier.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/de-ch/produkte/basteln/2412-bastelpapier/2283-tonpapier.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Das Pelikan Tonpapier eignet sich perfekt zum Basteln und für kreatives Gestalten. Bei dem Tonpapier wird im Gegensatz zu bedrucktem, weissem Papier die Farbe direkt bei der Herstellung in das Papier eingearbeitet. So bleiben die Schnittkanten auch beim Ausschneiden farbig.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Das Pelikan Tonpapier eignet sich perfekt zum Basteln und für kreatives Gestalten. Bei dem Tonpapier wird im Gegensatz zu bedrucktem, weissem Papier die Farbe direkt bei der Herstellung in das Papier eingearbeitet. So bleiben die Schnittkanten auch beim Ausschneiden farbig.&lt;/p&gt;</content>
+		<category term="Bastelpapier" />
+	</entry>
+</feed>

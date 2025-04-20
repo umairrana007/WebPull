@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Contact - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/ro/contact.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 11:53:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/ro/contact.feed?type=rss"/>
+		<language>ro-ro</language>
+		<item>
+			<title>Relații clienți</title>
+			<link>https://www.pelikan.com/ro/contact/23.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ro/contact/23.html</guid>
+			<description><![CDATA[romania@pelikangroup.zendesk.com]]></description>
+			<category>România</category>
+			<pubDate>Wed, 09 Feb 2022 10:12:20 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

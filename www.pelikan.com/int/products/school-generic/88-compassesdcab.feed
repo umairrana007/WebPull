@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>School generic - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/products/school-generic/88-compasses.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:27:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/products/school-generic/88-compasses.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Compass case</title>
+			<link>https://www.pelikan.com/int/products/school-generic/88-compasses/538-compass-case.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/school-generic/88-compasses/538-compass-case.html</guid>
+			<description><![CDATA[<h2 class="text-yellow d-none">Compass case</h2>
+<p>Basic metal compass with adjustable arms to create perfect circles. <br />A resistant tool made of high durability materials. Includes spare leads and plastic carrying case<br /> for an easy transportation.</p>
+]]></description>
+			<category>Compasses</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Precision compass</title>
+			<link>https://www.pelikan.com/int/products/school-generic/88-compasses/539-precision-compass.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/school-generic/88-compasses/539-precision-compass.html</guid>
+			<description><![CDATA[<h2 class="text-yellow d-none">Precision compass</h2>
+<p>Metal precision compass with adjustable knob. An ideal drawing instrument to<br /> create perfect circles, can be used in mathematics and technical drawing.</p>
+]]></description>
+			<category>Compasses</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Compass set</title>
+			<link>https://www.pelikan.com/int/products/school-generic/88-compasses/137-compass-set.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/school-generic/88-compasses/137-compass-set.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/products/compasses/compass_blue_ini.png" /></p><h2 class="text-purple-main">Compass set</h2>
+<p>Pelikan compasses draw all circles with precision. With millimeter precision when pulling the arms of the compass, which allows a very easy adjustment. The specially shaped pin ensures an optimal grip. This way, you will achieve better results.</p>
+]]></description>
+			<category>Compasses</category>
+			<pubDate>Mon, 08 Feb 2021 15:35:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

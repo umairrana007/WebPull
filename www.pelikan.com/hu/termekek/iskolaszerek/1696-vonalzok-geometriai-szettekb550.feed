@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Iskolaszerek - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek.feed</id>
+	<updated>2025-04-10T13:32:39+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek.feed?type=atom"/>
+	<entry>
+		<title>Combino® vonalzó</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek/1552-combino-vonalzo.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek/1552-combino-vonalzo.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;A Pelikan combino® vonalzó tökéletesen kombinálható a többi &lt;br /&gt;Pelikan combino® termékkel az állatmotívumoknak köszönhetően.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;A Pelikan combino® vonalzó tökéletesen kombinálható a többi &lt;br /&gt;Pelikan combino® termékkel az állatmotívumoknak köszönhetően.&lt;/p&gt;
+</content>
+		<category term="Vonalzók &amp; geometriai szettek" />
+	</entry>
+	<entry>
+		<title>Vonalzó szett</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek/1553-vonalzo-szett.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/hu/termekek/iskolaszerek/1696-vonalzok-geometriai-szettek/1553-vonalzo-szett.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/school/Mask_Group_219.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Átlátszó készlet, iskolai rajzokhoz és szerkesztéshez ideális.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/school/Mask_Group_219.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Átlátszó készlet, iskolai rajzokhoz és szerkesztéshez ideális.&lt;/p&gt;
+</content>
+		<category term="Vonalzók &amp; geometriai szettek" />
+	</entry>
+</feed>

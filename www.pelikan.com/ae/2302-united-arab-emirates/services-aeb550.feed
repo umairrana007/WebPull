@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-ae">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ae/2302-united-arab-emirates/services-ae.feed</id>
+	<updated>2025-04-10T13:30:14+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ae/2302-united-arab-emirates/services-ae.feed?type=atom"/>
+	<entry>
+		<title>Frequently asked questions</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/services/faq.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/ae/services/faq.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<category term="Services" />
+	</entry>
+	<entry>
+		<title>Catalogs</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/services/catalogues.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/ae/services/catalogues.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catalogs&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Pelikan catalogues as PDF documents for download with lots of helpful information and new and innovative products.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Download our catalogues as a PDF document. There you will find an overview of the latest products, as well as writing instruments from the limited edition in fine writing. In addition, Pelikan provides a lot of helpful product information, such as information on the refill function of the fountain pens or piston fountain pens, or you can easily convince yourself of the new and innovative products.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;PBS Catalogue for Download&lt;/h4&gt;
+&lt;p&gt;Here you can download our&amp;nbsp;2023&amp;nbsp;PBS&amp;nbsp;catalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan-stationery-general_2023-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;Here you can download our current noble writing instruments catalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catalogs&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Pelikan catalogues as PDF documents for download with lots of helpful information and new and innovative products.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Download our catalogues as a PDF document. There you will find an overview of the latest products, as well as writing instruments from the limited edition in fine writing. In addition, Pelikan provides a lot of helpful product information, such as information on the refill function of the fountain pens or piston fountain pens, or you can easily convince yourself of the new and innovative products.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;PBS Catalogue for Download&lt;/h4&gt;
+&lt;p&gt;Here you can download our&amp;nbsp;2023&amp;nbsp;PBS&amp;nbsp;catalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan-stationery-general_2023-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;Here you can download our current noble writing instruments catalog.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Services" />
+	</entry>
+	<entry>
+		<title>The Pelikan Stain Doctor</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/2302-united-arab-emirates/services-ae/2118-the-pelikan-stain-doctor.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/ae/2302-united-arab-emirates/services-ae/2118-the-pelikan-stain-doctor.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;The Stain Doctor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;The sooner the stain is treated, the easier it is to remove it.&lt;/li&gt;
+&lt;li&gt;Always work on stains from the outside in to avoid spreading.&lt;/li&gt;
+&lt;li&gt;Before using a cleaning agent, an inconspicuous spot on the surface should be checked for colour-fastness and / or resistance of the material.&lt;/li&gt;
+&lt;li&gt;The instructions for use of the cleaning agent must be observed.&lt;/li&gt;
+&lt;li&gt;The success of cleaning depends on a number of factors in each individual case (e.g. size / age of the stain, exact surface properties - especially in the case of textiles and carpets, cleaning agent used and its dosage). We can therefore not guarantee success and accept no liability for any damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;The Stain Doctor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;The sooner the stain is treated, the easier it is to remove it.&lt;/li&gt;
+&lt;li&gt;Always work on stains from the outside in to avoid spreading.&lt;/li&gt;
+&lt;li&gt;Before using a cleaning agent, an inconspicuous spot on the surface should be checked for colour-fastness and / or resistance of the material.&lt;/li&gt;
+&lt;li&gt;The instructions for use of the cleaning agent must be observed.&lt;/li&gt;
+&lt;li&gt;The success of cleaning depends on a number of factors in each individual case (e.g. size / age of the stain, exact surface properties - especially in the case of textiles and carpets, cleaning agent used and its dosage). We can therefore not guarantee success and accept no liability for any damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Services" />
+	</entry>
+</feed>

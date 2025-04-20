@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-mx">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/mx/253-mexico/producto-es-es-2.feed</id>
+	<updated>2025-04-10T13:23:46+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/mx/253-mexico/producto-es-es-2.feed?type=atom"/>
+	<entry>
+		<title>Sets</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/253-mexico/producto-es-es-2/4592-sets.html"/>
+		<published>2023-09-25T17:50:14+00:00</published>
+		<updated>2023-09-25T17:50:14+00:00</updated>
+		<id>https://www.pelikan.com/mx/253-mexico/producto-es-es-2/4592-sets.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Descubre una infinidad de posibilidades para tus creaciones gracias a nuestros sets: gran variedad de colores, formas, tamaños, puntas… ¡Todo en un sólo empaque!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Descubre una infinidad de posibilidades para tus creaciones gracias a nuestros sets: gran variedad de colores, formas, tamaños, puntas… ¡Todo en un sólo empaque!&lt;/p&gt;</content>
+		<category term="Productos" />
+	</entry>
+	<entry>
+		<title>Catálogo</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/servicio/catalogo.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/mx/servicio/catalogo.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catálogo&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-9&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _space_generic&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-3 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catálogo de productos&lt;/h4&gt;
+&lt;p&gt;Aquí puede descargar nuestro &lt;br /&gt;catálogo actual.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com//images/assets/catalogs/2025/pelikan_mx_2025_WEB.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Descargar&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4 offset-sm-1 mb-sm-0 mb-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2025_v2.png&quot; alt=&quot;Catalogo 2024&quot; width=&quot;100%&quot; height=&quot;auto&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Catálogo&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-9&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _space_generic&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-3 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catálogo de productos&lt;/h4&gt;
+&lt;p&gt;Aquí puede descargar nuestro &lt;br /&gt;catálogo actual.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com//images/assets/catalogs/2025/pelikan_mx_2025_WEB.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Descargar&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4 offset-sm-1 mb-sm-0 mb-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2025_v2.png&quot; alt=&quot;Catalogo 2024&quot; width=&quot;100%&quot; height=&quot;auto&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Productos" />
+	</entry>
+	<entry>
+		<title>Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/"/>
+		<published>2021-02-04T14:34:22+00:00</published>
+		<updated>2021-02-04T14:34:22+00:00</updated>
+		<id>https://www.pelikan.com/mx/</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;{loadmoduleid 188}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;{loadmoduleid 188}&lt;/p&gt;</content>
+		<category term="Productos" />
+	</entry>
+	<entry>
+		<title>Article (es-mx)</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/253-mexico/producto-es-es-2/349-article-es-mx.html"/>
+		<published>2020-12-25T06:30:19+00:00</published>
+		<updated>2020-12-25T06:30:19+00:00</updated>
+		<id>https://www.pelikan.com/mx/253-mexico/producto-es-es-2/349-article-es-mx.html</id>
+		<author>
+			<name>Pelikan</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senseritdefiniebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latineequidem dolores. Quo no falli viris intellegam, ut fugit veritus placeratper. Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eosdebet libris consulatu.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senseritdefiniebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latineequidem dolores. Quo no falli viris intellegam, ut fugit veritus placeratper. Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eosdebet libris consulatu.&lt;/p&gt;</content>
+		<category term="Productos" />
+	</entry>
+</feed>

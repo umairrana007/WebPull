@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Coloriage &amp; peinture - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/fr-ch/produits/coloriage-peinture.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 10:45:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/fr-ch/produits/coloriage-peinture.feed?type=rss"/>
+		<language>fr-ch</language>
+		<item>
+			<title>Crayons de cire épais et ronds</title>
+			<link>https://www.pelikan.com/fr-ch/produits/coloriage-peinture/3762-crayons-de-cire-epais-et-ronds.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-ch/produits/coloriage-peinture/3762-crayons-de-cire-epais-et-ronds.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">Des crayons de cire épais et ronds</h2>
+<p>Les crayons de cire sont disponibles dans de nombreuses couleurs vives et sont idéaux pour les mains des enfants, ce qui les rend parfaits pour apprendre à écrire et à peindre.</p>
+]]></description>
+			<category>Coloriage &amp; peinture</category>
+			<pubDate>Mon, 02 Aug 2021 22:42:59 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ecole - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:27:15 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/fr-lu/produits/ecole/3293-compas.feed?type=rss"/>
+		<language>fr-lu</language>
+		<item>
+			<title>Compas dans un étui en plastique</title>
+			<link>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3641-compas-dans-un-etui-en-plastique.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3641-compas-dans-un-etui-en-plastique.html</guid>
+			<description><![CDATA[<p>Compas de base en métal avec des bras réglables pour réaliser des cercles parfaits. Un instrument résistant fabriqué à partir de matériaux très durables. Comprend des mines de rechange et un étui en plastique pour un transport facile.</p>
+]]></description>
+			<category>Compas</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Compas de précision</title>
+			<link>https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3642-compas-de-precision.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-lu/produits/ecole/3293-compas/3642-compas-de-precision.html</guid>
+			<description><![CDATA[<p>Metal precision compass with adjustable knob. An ideal drawing instrument to<br /> create perfect circles, can be used in mathematics and technical drawing.</p>
+]]></description>
+			<category>Compas</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

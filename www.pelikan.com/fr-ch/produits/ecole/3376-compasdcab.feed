@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ecole - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/fr-ch/produits/ecole/3376-compas.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:27:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/fr-ch/produits/ecole/3376-compas.feed?type=rss"/>
+		<language>fr-ch</language>
+		<item>
+			<title>Compas griffix®</title>
+			<link>https://www.pelikan.com/fr-ch/produits/ecole/3376-compas/3881-compas-griffix.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-ch/produits/ecole/3376-compas/3881-compas-griffix.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com//images/categories/school/DE_Zirkel_griffix_Blau_Winkeleinstellung_schmal-Zirkel_2a_25x25_20-07-03_dyn-highres.jpg" /></p><h2 id="_sc_1" class="text-blue text-bold">Compas griffix®</h2>
+<p>Afin de faciliter l’initiation au monde très varié de la géométrie, nous avons développé un compas scolaire griffix®.</p>
+]]></description>
+			<category>Compas</category>
+			<pubDate>Fri, 04 Feb 2022 19:25:09 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

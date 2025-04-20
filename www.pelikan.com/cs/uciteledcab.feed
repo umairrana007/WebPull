@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Učitelé - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/cs/ucitele.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 11:35:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/cs/ucitele.feed?type=rss"/>
+		<language>cs-cz</language>
+		<item>
+			<title>Leváci</title>
+			<link>https://www.pelikan.com/cs/ucitele/4559-levaci.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/ucitele/4559-levaci.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/linkshaender-2.group.jpg" /></p><p>Proč někteří lidé píší pravou a jiní levou?<br />Pelikán shrnuje odborné znalosti, tipy, cvičení a zvláštnosti na téma leváctví.</p>]]></description>
+			<category>Učitelé</category>
+			<pubDate>Mon, 16 Aug 2021 14:06:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Monochromatická červená</title>
+			<link>https://www.pelikan.com/cs/ucitele/4560-monochromaticka-cervena-vstup.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/ucitele/4560-monochromaticka-cervena-vstup.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/monochromie-rot.tv.jpg" /></p><p>Červená barva je často spojována s láskou nebo jako varovná barva. Barevné spektrum je stejně rozmanité jako význam této barvy. To z něj dělá ideální základ pro tuto lekci!</p>
+<p>&nbsp;</p>
+<p><img src="https://www.pelikan.com/images/teachers/MC29.png" alt="MonochromieStart" width="384" height="421" style="font-size: 1rem; caret-color: auto;" loading="lazy" /></p>]]></description>
+			<category>Učitelé</category>
+			<pubDate>Thu, 12 Aug 2021 17:09:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kreativní lucerny</title>
+			<link>https://www.pelikan.com/cs/ucitele/4561-kreativni-lucerny.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/ucitele/4561-kreativni-lucerny.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/creative-lanterns-1.tv.jpg" /></p><p>Kreativní lucerna, kterou si můžete sami navrhnout: Jak se z normálního obrázku stane samostatná lucerna.</p>
+<p><img src="https://www.pelikan.com/images/creative-lanterns_step5.jpg" alt="creative lanterns step5" width="300" height="300" style="font-size: 1rem; caret-color: auto;" loading="lazy" /></p>]]></description>
+			<category>Učitelé</category>
+			<pubDate>Thu, 12 Aug 2021 17:09:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kruhové umění</title>
+			<link>https://www.pelikan.com/cs/ucitele/4562-kruhove-umeni.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/ucitele/4562-kruhove-umeni.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/2021-12-13_13_38_44-Window.png" /></p><p>Kružítko je velmi univerzální kreslicí nástroj. Najde uplatnění nejen v hodinách matematiky nebo geometrie, ale i v umění, kružítko je také vhodným nástrojem pro tvorbu fascinujících uměleckých děl.</p>]]></description>
+			<category>Učitelé</category>
+			<pubDate>Thu, 12 Aug 2021 17:09:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bookletové etikety zdarma</title>
+			<link>https://www.pelikan.com/cs/ucitele/1769-vseobecna-studia/4558-bookletove-etikety-zdarma.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/ucitele/1769-vseobecna-studia/4558-bookletove-etikety-zdarma.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/diy/Vorschaubild_Heftetiketten.png" /></p><h5>Etikety</h5>
+<p>10 různých bookletových etiket griffix® k tisku - zdarma ve formátu PDF. Ideální pro každého školáka.</p>]]></description>
+			<category>Všeobecná studia</category>
+			<pubDate>Fri, 21 Jul 2023 11:04:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

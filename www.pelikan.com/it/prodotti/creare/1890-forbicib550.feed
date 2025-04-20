@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="it-it">
+	<title type="text">Creare - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/it/prodotti/creare/1890-forbici.feed</id>
+	<updated>2025-04-10T13:21:04+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/it/prodotti/creare/1890-forbici.feed?type=atom"/>
+	<entry>
+		<title>Forbici Easy handle</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/prodotti/creare/1890-forbici/3124-forbici-easy-handle.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/it/prodotti/creare/1890-forbici/3124-forbici-easy-handle.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_easy_handle.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici Easy handle&lt;/h2&gt;
+&lt;p&gt;Comoda impugnatura ergonomica&lt;br /&gt; Forbici per la scuola in quattro colori assortiti con impugnatura ergonomica.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_easy_handle.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici Easy handle&lt;/h2&gt;
+&lt;p&gt;Comoda impugnatura ergonomica&lt;br /&gt; Forbici per la scuola in quattro colori assortiti con impugnatura ergonomica.&lt;/p&gt;
+</content>
+		<category term="Forbici" />
+	</entry>
+	<entry>
+		<title>Forbici ergonomiche fancy</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/prodotti/creare/1890-forbici/3125-forbici-ergonomiche-fancy.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/it/prodotti/creare/1890-forbici/3125-forbici-ergonomiche-fancy.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_fancy_scissors.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici ergonomiche fancy&lt;/h2&gt;
+&lt;p&gt;Coloratissime forbici per la scuola per ritagliare con precisione. Sicure per i bambini.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_fancy_scissors.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici ergonomiche fancy&lt;/h2&gt;
+&lt;p&gt;Coloratissime forbici per la scuola per ritagliare con precisione. Sicure per i bambini.&lt;/p&gt;
+</content>
+		<category term="Forbici" />
+	</entry>
+	<entry>
+		<title>Forbici griffix®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/prodotti/creare/1890-forbici/3527-forbici-griffix.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/it/prodotti/creare/1890-forbici/3527-forbici-griffix.html</id>
+		<author>
+			<name>Kristina Bublitz</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/griffix_scissors_round_intro.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici griffix&lt;sup&gt;®&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;Innovative. Ergonomiche. Ultra resistenti. Scopri un nuovo modo di ritagliare.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/griffix_scissors_round_intro.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Forbici griffix&lt;sup&gt;®&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;Innovative. Ergonomiche. Ultra resistenti. Scopri un nuovo modo di ritagliare.&lt;/p&gt;
+</content>
+		<category term="Forbici" />
+	</entry>
+</feed>

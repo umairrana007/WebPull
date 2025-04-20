@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-ae">
+	<title type="text">Handicraft - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ae/products-ae/handicraft/628-scissors.feed</id>
+	<updated>2025-04-10T13:29:54+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ae/products-ae/handicraft/628-scissors.feed?type=atom"/>
+	<entry>
+		<title>Ergonomic fancy scissor</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2068-ergonomic-fancy-scissor.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2068-ergonomic-fancy-scissor.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_fancy_scissors.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Ergonomic fancy scissor&lt;/h2&gt;
+&lt;p&gt;School scissor in two assorted colours with an ergonomic handle.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_fancy_scissors.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Ergonomic fancy scissor&lt;/h2&gt;
+&lt;p&gt;School scissor in two assorted colours with an ergonomic handle.&lt;/p&gt;
+</content>
+		<category term="Scissors" />
+	</entry>
+	<entry>
+		<title>All-round scissor </title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2069-all-round-scissor.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2069-all-round-scissor.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/handcraft/product/all_round_scissor/intro_img_all_round_scissor.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;All-round scissor&lt;/h2&gt;
+&lt;p&gt;Fancy office scissor with a soft ergonomic handle.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/handcraft/product/all_round_scissor/intro_img_all_round_scissor.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;All-round scissor&lt;/h2&gt;
+&lt;p&gt;Fancy office scissor with a soft ergonomic handle.&lt;/p&gt;
+</content>
+		<category term="Scissors" />
+	</entry>
+	<entry>
+		<title>Supersoft grip</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2070-supersoft-grip-scissor.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/handicraft/628-scissors/2070-supersoft-grip-scissor.html</id>
+		<author>
+			<name>PMEJanine</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_supersoft.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Supersoft grip&lt;/h2&gt;
+&lt;p&gt;School scissor with a soft ergonomic and flexible handle.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/scissors/intro_img_supersoft.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Supersoft grip&lt;/h2&gt;
+&lt;p&gt;School scissor with a soft ergonomic and flexible handle.&lt;/p&gt;
+</content>
+		<category term="Scissors" />
+	</entry>
+</feed>

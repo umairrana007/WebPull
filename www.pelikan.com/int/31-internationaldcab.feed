@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>  - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/31-international.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:19:03 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/31-international.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>HAPPY_HOLIDAY_TITLE</title>
+			<link>https://www.pelikan.com/int/happy-holiday.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/happy-holiday.html</guid>
+			<description><![CDATA[]]></description>
+			<category>International</category>
+			<pubDate>Wed, 06 Dec 2023 16:40:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Posters</title>
+			<link>https://www.pelikan.com/int/posters.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/posters.html</guid>
+			<description><![CDATA[]]></description>
+			<category>International</category>
+			<pubDate>Thu, 20 Apr 2023 16:13:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>Home</title>
+			<link>https://www.pelikan.com/int/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/</guid>
+			<description><![CDATA[<p>{loadmoduleid 161}</p>]]></description>
+			<category>International</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

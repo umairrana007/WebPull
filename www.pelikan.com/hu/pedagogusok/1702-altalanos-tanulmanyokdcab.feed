@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pedagógusok - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:03:47 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok.feed?type=rss"/>
+		<language>hu-hu</language>
+		<item>
+			<title>Feladatlapok a diákoknak</title>
+			<link>https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok/1824-feladatlapok-a-diakoknak.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok/1824-feladatlapok-a-diakoknak.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/intros/teacher-material.png" /></p><p>A diákok számára készült anyag többek között tartalmaz egy "Álmaim szakmájának profilja" nevű feladatlapot, valamint egy szabadon választható szakmához tartozó interjúsablont.</p>
+]]></description>
+			<category>Általános tanulmányok</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Oktatási anyagok &amp; témák összefoglalása</title>
+			<link>https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok/1828-oktatasi-anyagok-temak-osszefoglalasa.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/hu/pedagogusok/1702-altalanos-tanulmanyok/1828-oktatasi-anyagok-temak-osszefoglalasa.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/intros/teacher-material.png" /></p><p>A tanároknak szánt oktatási anyagok részletes projekt információkat tartalmaznak, amelyek felhasználhatók az órákon.</p>
+]]></description>
+			<category>Általános tanulmányok</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

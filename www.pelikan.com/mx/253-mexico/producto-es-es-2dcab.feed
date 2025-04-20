@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pelikan - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/mx/253-mexico/producto-es-es-2.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:23:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/mx/253-mexico/producto-es-es-2.feed?type=rss"/>
+		<language>es-mx</language>
+		<item>
+			<title>Sets</title>
+			<link>https://www.pelikan.com/mx/253-mexico/producto-es-es-2/4592-sets.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/253-mexico/producto-es-es-2/4592-sets.html</guid>
+			<description><![CDATA[<p>Descubre una infinidad de posibilidades para tus creaciones gracias a nuestros sets: gran variedad de colores, formas, tamaños, puntas… ¡Todo en un sólo empaque!</p>]]></description>
+			<category>Productos</category>
+			<pubDate>Mon, 25 Sep 2023 17:50:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Catálogo</title>
+			<link>https://www.pelikan.com/mx/servicio/catalogo.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/servicio/catalogo.html</guid>
+			<description><![CDATA[<div class="row justify-content-center">
+<div class="col-sm-8 text-center">
+<div class="py-3 my-2">
+<h1 class="text-blue-title my-3 mb-sm-5 mt-sm-4">Catálogo</h1>
+<h3 class="text-blue-flex my-2 my-sm-4">El catálogo de Pelikan en formato PDF para descargar con mucha información útil y productos nuevos e innovadores.</h3>
+</div>
+<div class="justify-content-center row">
+<div class="col-sm-9">
+<div class="my-3">
+<p>Descargue nuestro catálogo como documento PDF. En él encontrará una visión general de los últimos productos. Además, Pelikan le ofrece mucha información útil sobre los productos, como la información sobre la función de recarga de las plumas estilográficas o las plumas de émbolo, o puede convencerse fácilmente de los productos nuevos e innovadores.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row justify-content-center _space_generic">
+<div class="col-sm-11">
+<div class="row justify-content-center">
+<div class="order-1 order-sm-0 col-sm-3 my-auto col-10">
+<h4 class="text-blue mb-4 mt-2 mt-sm-0">Catálogo de productos</h4>
+<p>Aquí puede descargar nuestro <br />catálogo actual.</p>
+<a href="https://www.pelikan.com//images/assets/catalogs/2025/pelikan_mx_2025_WEB.pdf" target="_blank" class="btn btn-outlined-flex">Descargar</a></div>
+<div class="order-0 order-sm-1 col-sm-4 offset-sm-1 mb-sm-0 mb-5"><img src="https://www.pelikan.com/images/PelikanMX/Banners/Catalogo/Catalogo_2025_v2.png" alt="Catalogo 2024" width="100%" height="auto" class="img-fluid" /></div>
+</div>
+</div>
+</div>]]></description>
+			<category>Productos</category>
+			<pubDate>Sun, 20 Jun 2021 20:39:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pelikan</title>
+			<link>https://www.pelikan.com/mx/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/</guid>
+			<description><![CDATA[<p>{loadmoduleid 188}</p>]]></description>
+			<category>Productos</category>
+			<pubDate>Thu, 04 Feb 2021 14:34:22 +0000</pubDate>
+		</item>
+		<item>
+			<title>Article (es-mx)</title>
+			<link>https://www.pelikan.com/mx/253-mexico/producto-es-es-2/349-article-es-mx.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/253-mexico/producto-es-es-2/349-article-es-mx.html</guid>
+			<description><![CDATA[<p>Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senseritdefiniebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latineequidem dolores. Quo no falli viris intellegam, ut fugit veritus placeratper. Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eosdebet libris consulatu.</p>]]></description>
+			<category>Productos</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-ch">
+	<title type="text">Coller - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-ch/produits/coller/3370-batons-de-colle.feed</id>
+	<updated>2025-04-10T13:26:55+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-ch/produits/coller/3370-batons-de-colle.feed?type=atom"/>
+	<entry>
+		<title>PELIFIX® bâton de colle</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/coller/3370-batons-de-colle/3791-pelifix-baton-de-colle.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/coller/3370-batons-de-colle/3791-pelifix-baton-de-colle.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Bâton de colle PELIFIX &lt;sup&gt;®&lt;/sup&gt; C'est ainsi que l'artisanat devient un plaisir ! La colle PELIFIX® de Pelikan est parfaite pour de nombreux matériaux de bricolage : elle colle le papier, le carton, le cuir, le bois, le liège et le polystyrène. La colle est blanche une fois collée et transparente une fois sèche - il n'y a donc pas de résidus de colle visibles ! Le bâtonnet est doté d'une pointe tournante pour un collage particulièrement précis.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Bâton de colle PELIFIX &lt;sup&gt;®&lt;/sup&gt; C'est ainsi que l'artisanat devient un plaisir ! La colle PELIFIX® de Pelikan est parfaite pour de nombreux matériaux de bricolage : elle colle le papier, le carton, le cuir, le bois, le liège et le polystyrène. La colle est blanche une fois collée et transparente une fois sèche - il n'y a donc pas de résidus de colle visibles ! Le bâtonnet est doté d'une pointe tournante pour un collage particulièrement précis.&lt;/p&gt;</content>
+		<category term="Bâtons de colle" />
+	</entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pelikan - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/mx/305-mexico/servicios.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:28:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/mx/305-mexico/servicios.feed?type=rss"/>
+		<language>es-mx</language>
+		<item>
+			<title>El doctor Quitamanchas de Pelikan</title>
+			<link>https://www.pelikan.com/mx/servicio/el-doctor-quitamanchas-de-pelikan.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/servicio/el-doctor-quitamanchas-de-pelikan.html</guid>
+			<description><![CDATA[<div class="bg_light py-4 my-3">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-5">
+<div class="py-3 mb-sm-4 mb-2 text-center">
+<h1 class="text-blue-title">El Doctor Quitamanchas</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg_light_blue_3 p-0 my-4">
+<div class="container">
+<div class="row">
+<div class="col-sm-5"><img src="https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png" alt="" width="537" height="451" class="img-fluid" /></div>
+<div class="col-sm-7 my-auto">
+<div class="py-3">
+<ul>
+<li>Cuanto antes se trate la mancha, más fácil será eliminarla.</li>
+<li>Trabaje siempre con las manchas desde fuera hacia dentro para evitar que se extiendan.</li>
+<li>Antes de utilizar un producto de limpieza, debe comprobarse en un lugar discreto de la superficie la solidez del color y/o la resistencia del material.</li>
+<li>Deben respetarse las instrucciones de uso del producto de limpieza.</li>
+<li>El éxito de la limpieza depende de una serie de factores en cada caso individual (por ejemplo, el tamaño / la antigüedad de la mancha, las propiedades exactas de la superficie -especialmente en el caso de los textiles y las alfombras-, el producto de limpieza utilizado y su dosificación). Por lo tanto, no podemos garantizar el éxito y no aceptamos ninguna responsabilidad por cualquier daño.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description>
+			<category>Servicios</category>
+			<pubDate>Sun, 20 Jun 2021 20:16:55 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

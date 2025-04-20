@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kategorie - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:09:10 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/pl/allcategories-pl-pl/2116-polska/teachers/lekcje-pisania.feed?layout=pelikan:subcateacher&amp;type=rss"/>
+		<language>pl-pl</language>
+		<item>
+			<title>Leworęczni</title>
+			<link>https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1741-left-handed.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1741-left-handed.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/general_studies/210812_left-handed/210812_1.jpg" /></p><p>Pelikan wprowadził na rynek dwa specjalne pióra wieczne dla leworęcznych uczniów: Pelikano i Pelikano Junior. W większości przypadków nasze pismo jest zdominowane przez osoby praworęczne, ponieważ sporządzamy notatki od lewej do prawej strony.</p>
+]]></description>
+			<category>Lekcje pisania</category>
+			<pubDate>Thu, 12 Aug 2021 18:47:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nauka pisania w praktyce</title>
+			<link>https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1742-learning-to-write-in-practice.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1742-learning-to-write-in-practice.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/writing/learn_to_write_practice/en_GB_article_1_learning-to-write-in-practice.tv.jpg" /></p><p>W tej broszurze uczniowie, opiekunowie i nauczyciele znajdą zrozumiałe informacje, sprawdzone sugestie i pomoce do nauki pisania w szkole.</p>
+]]></description>
+			<category>Lekcje pisania</category>
+			<pubDate>Thu, 12 Aug 2021 17:09:49 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-pt">
+	<title type="text">Categorias - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pt/allcategories-pt-pt/17-portugal/produtos-pt-pt.feed</id>
+	<updated>2025-04-10T13:24:03+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pt/allcategories-pt-pt/17-portugal/produtos-pt-pt.feed?type=atom"/>
+	<entry>
+		<title>Artigo (pt-pt)</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pt/17-portugal/produtos-pt-pt/10-artigo-pt-pt.html"/>
+		<published>2020-12-25T06:30:19+00:00</published>
+		<updated>2020-12-25T06:30:19+00:00</updated>
+		<id>https://www.pelikan.com/pt/17-portugal/produtos-pt-pt/10-artigo-pt-pt.html</id>
+		<author>
+			<name>Joomla</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senseritdefiniebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latineequidem dolores. Quo no falli viris intellegam, ut fugit veritus placeratper. Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eosdebet libris consulatu.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senseritdefiniebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latineequidem dolores. Quo no falli viris intellegam, ut fugit veritus placeratper. Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eosdebet libris consulatu.&lt;/p&gt;</content>
+		<category term="Produtos" />
+	</entry>
+</feed>

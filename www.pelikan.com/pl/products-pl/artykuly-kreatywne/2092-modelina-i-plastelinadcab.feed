@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Artykuły kreatywne - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:20:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina.feed?type=rss"/>
+		<language>pl-pl</language>
+		<item>
+			<title>Plastelina do formowania Nakiplast®</title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1577-plastelina-do-formowania-nakiplast.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1577-plastelina-do-formowania-nakiplast.html</guid>
+			<description><![CDATA[<p>Modelina Nakiplast® jest miękka, elastyczna, trwale plastyczna oraz intensywnie kolorowa. Nie brudzi rąk i występuje w 4 kolorach.</p>]]></description>
+			<category>Modelina i plastelina</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Modelina dla dzieci Creaplast® </title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1578-creaplast.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1578-creaplast.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/categories/handcraft/intro_image.png" /></p><h2 class="text-blue-title">Modelina dla dzieci Creaplast<sup>®</sup></h2>
+<p>Creaplast<sup>®</sup> to trwała plastelina o wysokiej jakości przeznaczona do modelowania oraz projektowania. Od samego początku jest szczególnie miękka i elastyczna.</p>
+]]></description>
+			<category>Modelina i plastelina</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Wysokiej jakości modelina Plastilin</title>
+			<link>https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1579-wysokiej-jakosci-modelina-plastilin.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/artykuly-kreatywne/2092-modelina-i-plastelina/1579-wysokiej-jakosci-modelina-plastilin.html</guid>
+			<description><![CDATA[<p>Modelina Plastilin jest miękka, plastyczna, trwale odkształcalna oraz intensywnie kolorowa. Nie brudzi rąk i występuje w 2 kolorach.</p>]]></description>
+			<category>Modelina i plastelina</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

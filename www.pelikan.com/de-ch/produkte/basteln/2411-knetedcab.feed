@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Basteln - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/de-ch/produkte/basteln/2411-knete.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:20:38 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/de-ch/produkte/basteln/2411-knete.feed?type=rss"/>
+		<language>de-ch</language>
+		<item>
+			<title>Nakiplast® Knete</title>
+			<link>https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2278-nakiplast-knete.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2278-nakiplast-knete.html</guid>
+			<description><![CDATA[<p>Die Nakiplast® Knete ist eine dauerplastische, hochwertige Wachsknete, die von Anfang an geschmeidig und weich ist. Sie ist in leuchtend bunten Farben erhältlich und färbt nicht an den Händen.&nbsp;&nbsp;</p>]]></description>
+			<category>Knete</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Creaplast®</title>
+			<link>https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2279-creaplast.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2279-creaplast.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/categories/handcraft/intro_image.png" /></p><h2 class="text-blue-title">Creaplast<sup>®</sup> Kinderknete</h2>
+<p>Creaplast® ist eine hochwertige, dauerplastische Knetmasse zum Modellieren und Gestalten. Sie ist von Anfang an besonders weich und geschmeidig.</p>
+]]></description>
+			<category>Knete</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Plastilin</title>
+			<link>https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2280-plastilin.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de-ch/produkte/basteln/2411-knete/2280-plastilin.html</guid>
+			<description><![CDATA[<p>Die Plastilin® Qualitätsknetmasse ist weich, biegsam und dauerplastisch. Sie färbt nicht ab und ist speziell für den Modellbau geeignet.&nbsp;</p>]]></description>
+			<category>Knete</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

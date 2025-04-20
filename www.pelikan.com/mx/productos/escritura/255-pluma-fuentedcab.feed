@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Escritura - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/mx/productos/escritura/255-pluma-fuente.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:24:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/mx/productos/escritura/255-pluma-fuente.feed?type=rss"/>
+		<language>es-mx</language>
+		<item>
+			<title>Twist®</title>
+			<link>https://www.pelikan.com/mx/productos/escritura/255-pluma-fuente/363-twist.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/productos/escritura/255-pluma-fuente/363-twist.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/PelikanMX/Productos/Escritura/PlumaFuente/Productintro/Twist_intro_description_400x400.png" /></p><h2 class="text-blue-title">Pluma fuente Twist<sup>®</sup></h2>
+<p>Gracias a su forma ergonómica, la pluma fuente Twist asegura una postura de escritura relajada y sujeción universal para diestros y zurdos.&nbsp;</p>
+]]></description>
+			<category>Pluma fuente</category>
+			<pubDate>Mon, 08 Feb 2021 15:35:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

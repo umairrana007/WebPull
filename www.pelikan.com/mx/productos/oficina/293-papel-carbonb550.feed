@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-mx">
+	<title type="text">Oficina - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/mx/productos/oficina/293-papel-carbon.feed</id>
+	<updated>2025-04-10T13:27:39+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/mx/productos/oficina/293-papel-carbon.feed?type=atom"/>
+	<entry>
+		<title>Interplastic® 1022 G®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/399-interplastic-1022-g.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/399-interplastic-1022-g.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Papel carbón para copias mecanográficas con capa interplastic que evita el manchado de los dedos. &lt;br /&gt;Escritura en tinta color negra, dorso protector rojo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Papel carbón para copias mecanográficas con capa interplastic que evita el manchado de los dedos. &lt;br /&gt;Escritura en tinta color negra, dorso protector rojo.&lt;/p&gt;
+</content>
+		<category term="Papel carbón" />
+	</entry>
+	<entry>
+		<title>Plenticopy® 200 H®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/400-plenticopy-200-h.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/400-plenticopy-200-h.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Papel ideal para copias escritas a mano con una gran intensidad de color. &lt;br /&gt;Escritura en tinta color azul, dorso azul con sello dorado.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Papel ideal para copias escritas a mano con una gran intensidad de color. &lt;br /&gt;Escritura en tinta color azul, dorso azul con sello dorado.&lt;/p&gt;
+</content>
+		<category term="Papel carbón" />
+	</entry>
+	<entry>
+		<title>Papel carbón 1015 G®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/1324-papel-carbon-1015-g.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/1324-papel-carbon-1015-g.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Papel carbón para copias mecanográficas. &lt;br /&gt;Escritura en tinta color negra, dorso negro con sello plata.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Papel carbón para copias mecanográficas. &lt;br /&gt;Escritura en tinta color negra, dorso negro con sello plata.&lt;/p&gt;
+</content>
+		<category term="Papel carbón" />
+	</entry>
+	<entry>
+		<title>Papel Carbón 1010®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/1325-papel-carbon-1010.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/mx/productos/oficina/293-papel-carbon/1325-papel-carbon-1010.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Papel soporte con tinta base cera, para fijar la escritura al instante. &lt;br /&gt;Permite duplicar escritos manuales y mecanográficos.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Papel soporte con tinta base cera, para fijar la escritura al instante. &lt;br /&gt;Permite duplicar escritos manuales y mecanográficos.&lt;/p&gt;
+</content>
+		<category term="Papel carbón" />
+	</entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="it-it">
+	<title type="text">Colorare e dipingere  - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/it/prodotti/colorare-e-dipingere/3250-wachsmalstifte.feed</id>
+	<updated>2025-04-10T13:21:39+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/it/prodotti/colorare-e-dipingere/3250-wachsmalstifte.feed?type=atom"/>
+	<entry>
+		<title>Pastelli a cera griffix®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/prodotti/colorare-e-dipingere/3250-wachsmalstifte/3529-pastelli-a-cera-griffix.html"/>
+		<published>2021-08-02T22:42:59+00:00</published>
+		<updated>2021-08-02T22:42:59+00:00</updated>
+		<id>https://www.pelikan.com/it/prodotti/colorare-e-dipingere/3250-wachsmalstifte/3529-pastelli-a-cera-griffix.html</id>
+		<author>
+			<name>Kristina Bublitz</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/Wachsmaler/Product_intro_description_400x400_Malen_griffix_Wachsmaler.jpg&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-yellow&quot;&gt;Pastelli a cera griffix®&lt;/h2&gt;
+&lt;p&gt;Grazie al desig ergonomico sono ideali per sviluppare la motricità fine e imparare a scrivere.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/Wachsmaler/Product_intro_description_400x400_Malen_griffix_Wachsmaler.jpg&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-yellow&quot;&gt;Pastelli a cera griffix®&lt;/h2&gt;
+&lt;p&gt;Grazie al desig ergonomico sono ideali per sviluppare la motricità fine e imparare a scrivere.&lt;/p&gt;
+</content>
+		<category term="Wachsmalstifte" />
+	</entry>
+</feed>

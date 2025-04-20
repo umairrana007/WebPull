@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kleje - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/pl/products-pl/kleje/2101-klej-standardowy.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:22:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/pl/products-pl/kleje/2101-klej-standardowy.feed?type=rss"/>
+		<language>pl-pl</language>
+		<item>
+			<title>PELIFIX® superklej</title>
+			<link>https://www.pelikan.com/pl/products-pl/kleje/2101-klej-standardowy/1599-pelifix-superklej.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/pl/products-pl/kleje/2101-klej-standardowy/1599-pelifix-superklej.html</guid>
+			<description><![CDATA[<p>Superklej PELIFIX<sup>®</sup> firmy Pelikan jest krystalicznie czysty i bardzo szybko schnie. Knot wewnątrz nasadki zapobiega zamknięciu otworu kleju. Nadaje się m.in. do klejenia ceramiki, porcelany, gumy, kamienia, drewna i wielu innych materiałów.</p>]]></description>
+			<category>Klej standardowy</category>
+			<pubDate>Fri, 23 Jul 2021 02:47:47 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

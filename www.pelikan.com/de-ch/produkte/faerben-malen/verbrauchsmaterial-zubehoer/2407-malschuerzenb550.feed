@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-ch">
+	<title type="text">Zubehör - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/de-ch/produkte/faerben-malen/verbrauchsmaterial-zubehoer/2407-malschuerzen.feed</id>
+	<updated>2025-04-10T12:39:39+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/de-ch/produkte/faerben-malen/verbrauchsmaterial-zubehoer/2407-malschuerzen.feed?type=atom"/>
+	<entry>
+		<title>Malschürzen</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-ch/produkte/faerben-malen/verbrauchsmaterial-zubehoer/2407-malschuerzen/2274-malschuerzen.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/de-ch/produkte/faerben-malen/verbrauchsmaterial-zubehoer/2407-malschuerzen/2274-malschuerzen.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/painting_aprons_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Praktische Malschürze zum Schutz der Kleidung&lt;/li&gt;
+&lt;li&gt;Ideal für Schule und Freizeit&lt;/li&gt;
+&lt;li&gt;Eine Grösse, für Kinder von ca. 6 - 9 Jahren&lt;/li&gt;
+&lt;li&gt;Durch Klettverschluss einfach anzuziehen&lt;/li&gt;
+&lt;li&gt;Weiche Bündchen an den Ärmeln und am Hals&lt;/li&gt;
+&lt;li&gt;Schnell trocknend dank Aufhängeschlaufe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/painting_aprons_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Praktische Malschürze zum Schutz der Kleidung&lt;/li&gt;
+&lt;li&gt;Ideal für Schule und Freizeit&lt;/li&gt;
+&lt;li&gt;Eine Grösse, für Kinder von ca. 6 - 9 Jahren&lt;/li&gt;
+&lt;li&gt;Durch Klettverschluss einfach anzuziehen&lt;/li&gt;
+&lt;li&gt;Weiche Bündchen an den Ärmeln und am Hals&lt;/li&gt;
+&lt;li&gt;Schnell trocknend dank Aufhängeschlaufe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Malschürzen" />
+	</entry>
+</feed>

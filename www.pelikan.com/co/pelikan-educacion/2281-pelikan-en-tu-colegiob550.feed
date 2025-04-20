@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-co">
+	<title type="text">Pelikan Educación - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio.feed</id>
+	<updated>2025-04-10T13:03:05+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio.feed?type=atom"/>
+	<entry>
+		<title>Con Pelikan Nada es Imposible</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/1929-educacion.html"/>
+		<published>2023-05-30T21:46:24+00:00</published>
+		<updated>2023-05-30T21:46:24+00:00</updated>
+		<id>https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/1929-educacion.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/socialnetwork/header.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A través de nuestros videos, tanto maestros como alumnos tendrán la posibilidad de acceder a información, ejercicios y ayuda para la clase de arte&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/socialnetwork/header.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A través de nuestros videos, tanto maestros como alumnos tendrán la posibilidad de acceder a información, ejercicios y ayuda para la clase de arte&lt;/p&gt;</content>
+		<category term="Pelikan en tu colegio" />
+	</entry>
+	<entry>
+		<title>Torneo Colegio La Salle</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/4440-torneo-colegio-la-salle.html"/>
+		<published>2021-08-12T19:00:24+00:00</published>
+		<updated>2021-08-12T19:00:24+00:00</updated>
+		<id>https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/4440-torneo-colegio-la-salle.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Pelikan_Educación/PELIKAN_EDUCACIÓN._COLORS.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Torneo&amp;nbsp; la Salle.&amp;nbsp; Pelikan presente.&amp;nbsp;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Pelikan_Educación/PELIKAN_EDUCACIÓN._COLORS.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Torneo&amp;nbsp; la Salle.&amp;nbsp; Pelikan presente.&amp;nbsp;&lt;/p&gt;
+</content>
+		<category term="Pelikan en tu colegio" />
+	</entry>
+	<entry>
+		<title>Entrega de tablets Colegio Abraham Castellanos</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/4441-entrega-de-tablets-colegio-abraham-castellanos.html"/>
+		<published>2021-08-12T19:00:24+00:00</published>
+		<updated>2021-08-12T19:00:24+00:00</updated>
+		<id>https://www.pelikan.com/co/pelikan-educacion/2281-pelikan-en-tu-colegio/4441-entrega-de-tablets-colegio-abraham-castellanos.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Pelikan_Educación/PELIKAN_EDUCACIÓN._COLORS.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrega de tablets y balones Colegio Abraham Castellanos&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/PelikanMX/Pelikan_Educación/PELIKAN_EDUCACIÓN._COLORS.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrega de tablets y balones Colegio Abraham Castellanos&lt;/p&gt;
+</content>
+		<category term="Pelikan en tu colegio" />
+	</entry>
+</feed>

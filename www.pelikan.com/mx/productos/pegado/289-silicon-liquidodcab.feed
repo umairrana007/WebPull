@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pegado - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:27:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido.feed?type=rss"/>
+		<language>es-mx</language>
+		<item>
+			<title>Silicón líquido base agua</title>
+			<link>https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido/1135-silicon-liquido-base-agua.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido/1135-silicon-liquido-base-agua.html</guid>
+			<description><![CDATA[<p>Crea increíbles manualidades y decoraciones sin preocupaciones gracias a su fórmula a base de agua, no tóxica ideal para uso escolar.</p>
+]]></description>
+			<category>Silicón líquido</category>
+			<pubDate>Fri, 23 Jul 2021 18:44:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Silicón líquido base solvente</title>
+			<link>https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido/1140-silicon-liquido-base-solvente.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/mx/productos/pegado/289-silicon-liquido/1140-silicon-liquido-base-solvente.html</guid>
+			<description><![CDATA[<p>Realiza trabajos manuales fácilmente con el silicón líquido base solvente ideal para pegar papel bond, cartón, tela, foamy, lentejuela, madera, unicel, vidrio y fotos.</p>]]></description>
+			<category>Silicón líquido</category>
+			<pubDate>Fri, 23 Jul 2021 18:44:37 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

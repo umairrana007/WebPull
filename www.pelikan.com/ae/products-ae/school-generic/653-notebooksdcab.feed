@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>School generic - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:30:04 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks.feed?type=rss"/>
+		<language>en-ae</language>
+		<item>
+			<title>Spiral pad A4</title>
+			<link>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2065-spiralblock-a4-80-120-sheets.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2065-spiralblock-a4-80-120-sheets.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">Spiral pad A4, 80/120 Sheets</h2>
+<p class="w-50 mx-auto">Big ideas need a lot of space. With a spiral pad from Pelikan you always have a reliable companion with you.</p>
+]]></description>
+			<category>Notebooks</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Spiral pad A5</title>
+			<link>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2066-spiralblock-a5-80-120-blatt.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2066-spiralblock-a5-80-120-blatt.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">Spiral pad A5, 80 Sheets</h2>
+<p class="w-50 mx-auto">The new spiral pads are the perfect companions for on the go. Regardless of whether it is lined or checked: there is enough space here not to forget anything.</p>
+]]></description>
+			<category>Notebooks</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>School pad A4</title>
+			<link>https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2067-school-pad-a4.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ae/products-ae/school-generic/653-notebooks/2067-school-pad-a4.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">School pad A4, 50 Blatt</h2>
+<p class="w-50 mx-auto">The practical school blocks from Pelikan are ideal for demanding school days. This way, records can be quickly pinned away.</p>]]></description>
+			<category>Notebooks</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

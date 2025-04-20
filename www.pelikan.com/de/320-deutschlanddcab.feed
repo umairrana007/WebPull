@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pelikan - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/de/320-deutschland.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:19:07 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/de/320-deutschland.feed?type=rss"/>
+		<language>de-de</language>
+		<item>
+			<title>Gewinnspiel Lastenfahrrad</title>
+			<link>https://www.pelikan.com/de/gewinnspiel-lastenfahrrad.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/gewinnspiel-lastenfahrrad.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/inspiration/gewinnspiel_lastenfahrrad/Startbild_mobil_Lastenrad_ohneBanner.jpg" /></p>]]></description>
+			<category>Deutschland</category>
+			<pubDate>Mon, 03 Jul 2023 09:56:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Schulstartkalender</title>
+			<link>https://www.pelikan.com/de/schulstartkalender.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/schulstartkalender.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/inspiration/schulstartkalender/Startbild_mobil_ohne_Button_schulstartkalender_01.jpg" /></p>]]></description>
+			<category>Deutschland</category>
+			<pubDate>Wed, 31 May 2023 11:57:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Plakatwettbewerb 2023</title>
+			<link>https://www.pelikan.com/de/plakatwettbewerb2023.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/plakatwettbewerb2023.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/inspiration/plakatwettbewerb2023/Startbild_mobil_ohne_Button_Plakatwettbewerb_02.jpg" /></p>]]></description>
+			<category>Deutschland</category>
+			<pubDate>Wed, 26 Apr 2023 15:11:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>DIY</title>
+			<link>https://www.pelikan.com/de/320-deutschland/4060-diy.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/320-deutschland/4060-diy.html</guid>
+			<description><![CDATA[]]></description>
+			<category>Deutschland</category>
+			<pubDate>Wed, 28 Sep 2022 14:42:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Basteltipps zum Schulstart</title>
+			<link>https://www.pelikan.com/de/tuerchen.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/tuerchen.html</guid>
+			<description><![CDATA[]]></description>
+			<category>Deutschland</category>
+			<pubDate>Wed, 28 Sep 2022 14:42:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Landing page demo</title>
+			<link>https://www.pelikan.com/de/landing-page-demo.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/landing-page-demo.html</guid>
+			<description><![CDATA[]]></description>
+			<category>Deutschland</category>
+			<pubDate>Mon, 13 Jun 2022 16:35:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Landing page 1</title>
+			<link>https://www.pelikan.com/de/320-deutschland/3846-landing-page-1.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/320-deutschland/3846-landing-page-1.html</guid>
+			<description><![CDATA[]]></description>
+			<category>Deutschland</category>
+			<pubDate>Thu, 09 Jun 2022 16:19:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>griffix® Radierer</title>
+			<link>https://www.pelikan.com/de/320-deutschland/4587-griffix-radierer.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/320-deutschland/4587-griffix-radierer.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/categories/scissors/DE_Product_intro_description_400x400_Basteln_griffix_Schere.png" /></p><h2 class="text-blue-title">griffix<sup>®</sup> Radierer</h2>
+<p>Die ergonomische griffix<sup>®</sup>&nbsp;Radierer von Pelikan darf in keinem Schüleretui fehlen.&nbsp;</p>]]></description>
+			<category>Deutschland</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beitrag</title>
+			<link>https://www.pelikan.com/de/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/de/</guid>
+			<description><![CDATA[<p>{loadmoduleid 175}</p>]]></description>
+			<category>Deutschland</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

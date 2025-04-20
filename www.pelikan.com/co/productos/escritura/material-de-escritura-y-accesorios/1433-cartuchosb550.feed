@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-co">
+	<title type="text"> Material de escritura y accesorios - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos.feed</id>
+	<updated>2025-04-10T12:27:24+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos.feed?type=atom"/>
+	<entry>
+		<title> Pelikan 4001® TP / 6</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos/1031-pelikan-4001-tp-6.html"/>
+		<published>2021-07-09T18:46:44+00:00</published>
+		<updated>2021-07-09T18:46:44+00:00</updated>
+		<id>https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos/1031-pelikan-4001-tp-6.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/accessories/cartridges_4001_tp_6_black.webp&quot; /&gt;&lt;/p&gt;&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Cartucho de tinta grande para todos los rellenos de cartuchos Pelikan y muchos otros&lt;/li&gt;
+&lt;li&gt;Colores disponibles: negro, azul-negro, azul real, verde oscuro, rosa, rojo, turquesa y violeta&lt;/li&gt;
+&lt;li&gt;La tinta azul real es borrable y lavable.&lt;/li&gt;
+&lt;li&gt;6 cartuchos de tinta por caja&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/accessories/cartridges_4001_tp_6_black.webp&quot; /&gt;&lt;/p&gt;&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Cartucho de tinta grande para todos los rellenos de cartuchos Pelikan y muchos otros&lt;/li&gt;
+&lt;li&gt;Colores disponibles: negro, azul-negro, azul real, verde oscuro, rosa, rojo, turquesa y violeta&lt;/li&gt;
+&lt;li&gt;La tinta azul real es borrable y lavable.&lt;/li&gt;
+&lt;li&gt;6 cartuchos de tinta por caja&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Cartuchos" />
+	</entry>
+	<entry>
+		<title>Pelikan 4001® GTP / 5</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos/1032-pelikan-4001-gtp-5.html"/>
+		<published>2021-07-09T18:46:44+00:00</published>
+		<updated>2021-07-09T18:46:44+00:00</updated>
+		<id>https://www.pelikan.com/co/productos/escritura/material-de-escritura-y-accesorios/1433-cartuchos/1032-pelikan-4001-gtp-5.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/accessories/cartridges_4001_gtp_5_blue_black.webp&quot; /&gt;&lt;/p&gt;&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Cartucho de tinta grande para todos los rellenos de cartuchos Pelikan y muchos otros&lt;/li&gt;
+&lt;li&gt;Colores disponibles: negro, azul-negro, azul real, verde oscuro, rosa, rojo, turquesa y violeta&lt;/li&gt;
+&lt;li&gt;La tinta azul real es borrable y lavable.&lt;/li&gt;
+&lt;li&gt;5 cartuchos de tinta por caja&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/accessories/cartridges_4001_gtp_5_blue_black.webp&quot; /&gt;&lt;/p&gt;&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Cartucho de tinta grande para todos los rellenos de cartuchos Pelikan y muchos otros&lt;/li&gt;
+&lt;li&gt;Colores disponibles: negro, azul-negro, azul real, verde oscuro, rosa, rojo, turquesa y violeta&lt;/li&gt;
+&lt;li&gt;La tinta azul real es borrable y lavable.&lt;/li&gt;
+&lt;li&gt;5 cartuchos de tinta por caja&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Cartuchos" />
+	</entry>
+</feed>

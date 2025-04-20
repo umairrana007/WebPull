@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>  - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:10:53 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler.feed?type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Pâte à modeler de qualité Plastilin</title>
+			<link>https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler/3525-plastilin.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler/3525-plastilin.html</guid>
+			<description><![CDATA[<p>La pâte à modeler Plastilin est douce, souple, élastique en permanence et de couleur vive. Il ne tache pas vos mains et est disponible en 2 couleurs.</p>]]></description>
+			<category>Pâte à modeler</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nakiplast® Pâte à modeler</title>
+			<link>https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler/3526-nakiplast-pate-a-modeler.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr/3210-france/product-en-gb/artisanat/pate-a-modeler/3526-nakiplast-pate-a-modeler.html</guid>
+			<description><![CDATA[<p>La pâte à modeler Nakiplast<sup>®</sup> est douce, souple, élastique en permanence et de couleur vive. Il ne tache pas vos mains et est disponible en 2 couleurs.</p>
+]]></description>
+			<category>Pâte à modeler</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

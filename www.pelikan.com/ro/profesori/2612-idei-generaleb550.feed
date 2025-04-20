@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ro-ro">
+	<title type="text">Profesori - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ro/profesori/2612-idei-generale.feed</id>
+	<updated>2025-04-10T13:04:00+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ro/profesori/2612-idei-generale.feed?type=atom"/>
+	<entry>
+		<title>Materiale pentru elevi</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ro/profesori/2612-idei-generale/2822-materiale-pentru-elevi.html"/>
+		<published>2021-08-12T19:00:24+00:00</published>
+		<updated>2021-08-12T19:00:24+00:00</updated>
+		<id>https://www.pelikan.com/ro/profesori/2612-idei-generale/2822-materiale-pentru-elevi.html</id>
+		<author>
+			<name>Corina Bakas</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_students-material/210812_2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Materialul pentru elevi conține o fișă de lucru numită &quot;profilul profesiei mele ideale&quot; și șabloane pentru interviuri pentru diferite profesii.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_students-material/210812_2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Materialul pentru elevi conține o fișă de lucru numită &quot;profilul profesiei mele ideale&quot; și șabloane pentru interviuri pentru diferite profesii.&lt;/p&gt;
+</content>
+		<category term="Idei generale" />
+	</entry>
+	<entry>
+		<title>Materiale pentru profesori &amp; rezumatul subiectelor</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ro/profesori/2612-idei-generale/2826-materiale-pentru-profesori-rezumatul-subiectelor.html"/>
+		<published>2021-08-12T19:00:24+00:00</published>
+		<updated>2021-08-12T19:00:24+00:00</updated>
+		<id>https://www.pelikan.com/ro/profesori/2612-idei-generale/2826-materiale-pentru-profesori-rezumatul-subiectelor.html</id>
+		<author>
+			<name>Corina Bakas</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_teachers-material-summary-of-topics/210812_2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Materialele pentru profesori conțin informații detaliate despre proiecte, ce pot fi folosite în clasă.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_teachers-material-summary-of-topics/210812_2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Materialele pentru profesori conțin informații detaliate despre proiecte, ce pot fi folosite în clasă.&lt;/p&gt;
+</content>
+		<category term="Idei generale" />
+	</entry>
+</feed>

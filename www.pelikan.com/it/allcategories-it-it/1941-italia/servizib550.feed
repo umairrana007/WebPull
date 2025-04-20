@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="it-it">
+	<title type="text">Categorie - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/it/allcategories-it-it/1941-italia/servizi.feed</id>
+	<updated>2025-04-10T13:22:00+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/it/allcategories-it-it/1941-italia/servizi.feed?type=atom"/>
+	<entry>
+		<title>Domande frequenti</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/servizi/domande-frequenti.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/it/servizi/domande-frequenti.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<category term="Servizi" />
+	</entry>
+	<entry>
+		<title>Cataloghi</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/servizi/cataloghi.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/it/servizi/cataloghi.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Cataloghi&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Un viaggio negli strumenti di scrittura più innovativi, i prodotti per la scuola e per gli appassionati di penne pregiate.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Sfoglia i nostri cataloghi in formato PDF.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catalogo Cartoleria&lt;/h4&gt;
+&lt;p&gt;Sfoglia il catalogo in formato pdf.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan_catalogo_cartoleria_2023_pagine_affiancate.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine writing Instruments&lt;/h4&gt;
+&lt;p&gt;Sfoglia il nostro catalogo Penne Pregiate.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Cataloghi&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Un viaggio negli strumenti di scrittura più innovativi, i prodotti per la scuola e per gli appassionati di penne pregiate.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Sfoglia i nostri cataloghi in formato PDF.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;Catalogo Cartoleria&lt;/h4&gt;
+&lt;p&gt;Sfoglia il catalogo in formato pdf.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan_catalogo_cartoleria_2023_pagine_affiancate.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine writing Instruments&lt;/h4&gt;
+&lt;p&gt;Sfoglia il nostro catalogo Penne Pregiate.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servizi" />
+	</entry>
+	<entry>
+		<title>Ricerca Rivenditore</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/1941-italia/servizi/3069-ricerca-rivenditore.html"/>
+		<published>2021-06-20T20:22:44+00:00</published>
+		<updated>2021-06-20T20:22:44+00:00</updated>
+		<id>https://www.pelikan.com/it/1941-italia/servizi/3069-ricerca-rivenditore.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;div class=&quot;py-3 mb-3 mt-2 text-center&quot;&gt;
+&lt;h1 class=&quot;mb-3 text-blue-title&quot;&gt;Ricerca Rivenditore&lt;/h1&gt;
+&lt;p&gt;State cercando un rivenditore Pelikan vicino a voi? Utilizzate il nostro.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;{loadmoduleid 156}&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;div class=&quot;py-3 mb-3 mt-2 text-center&quot;&gt;
+&lt;h1 class=&quot;mb-3 text-blue-title&quot;&gt;Ricerca Rivenditore&lt;/h1&gt;
+&lt;p&gt;State cercando un rivenditore Pelikan vicino a voi? Utilizzate il nostro.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;{loadmoduleid 156}&lt;/div&gt;</content>
+		<category term="Servizi" />
+	</entry>
+	<entry>
+		<title>Il Dottore delle Macchie Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/it/1941-italia/servizi/3070-il-dottore-delle-macchie-pelikan.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/it/1941-italia/servizi/3070-il-dottore-delle-macchie-pelikan.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Il Dottore delle Macchie Pelikan&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Prima viene trattata la macchia, più facile è rimuoverla.&lt;/li&gt;
+&lt;li&gt;Lavorare sempre sulle macchie dall'esterno verso l'interno per evitare che si diffondano.&lt;/li&gt;
+&lt;li&gt;Prima di usare un detergente, controllare un punto poco visibile della superficie per verificare la resistenza del colore e/o del materiale.&lt;/li&gt;
+&lt;li&gt;Le istruzioni per l'uso del detergente devono essere rispettate.&lt;/li&gt;
+&lt;li&gt;Il successo della pulizia dipende da una serie di fattori in ogni singolo caso (ad es. dimensioni / età della macchia, proprietà esatte del materiale da trattare - soprattutto nel caso di tessuti e tappeti, il detergente utilizzato e il suo dosaggio). Non possiamo quindi garantire il successo e non ci assumiamo alcuna responsabilità per eventuali danni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Il Dottore delle Macchie Pelikan&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Prima viene trattata la macchia, più facile è rimuoverla.&lt;/li&gt;
+&lt;li&gt;Lavorare sempre sulle macchie dall'esterno verso l'interno per evitare che si diffondano.&lt;/li&gt;
+&lt;li&gt;Prima di usare un detergente, controllare un punto poco visibile della superficie per verificare la resistenza del colore e/o del materiale.&lt;/li&gt;
+&lt;li&gt;Le istruzioni per l'uso del detergente devono essere rispettate.&lt;/li&gt;
+&lt;li&gt;Il successo della pulizia dipende da una serie di fattori in ogni singolo caso (ad es. dimensioni / età della macchia, proprietà esatte del materiale da trattare - soprattutto nel caso di tessuti e tappeti, il detergente utilizzato e il suo dosaggio). Non possiamo quindi garantire il successo e non ci assumiamo alcuna responsabilità per eventuali danni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servizi" />
+	</entry>
+</feed>

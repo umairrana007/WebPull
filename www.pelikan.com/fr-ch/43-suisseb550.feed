@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-ch">
+	<title type="text">Accueil - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-ch/43-suisse.feed</id>
+	<updated>2025-04-10T13:19:13+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-ch/43-suisse.feed?type=atom"/>
+	<entry>
+		<title>griffix®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/griffix.html"/>
+		<published>2022-08-05T09:03:25+00:00</published>
+		<updated>2022-08-05T09:03:25+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/griffix.html</id>
+		<author>
+			<name>Franziska Puetter</name>
+		</author>
+		<category term="Suisse" />
+	</entry>
+	<entry>
+		<title>Accueil</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/"/>
+		<published>2020-12-25T06:30:19+00:00</published>
+		<updated>2020-12-25T06:30:19+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/</id>
+		<author>
+			<name>Joomla</name>
+		</author>
+		<summary type="html">&lt;p&gt;{loadmoduleid 488}&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;section class=&quot;_bg-blue pt-sm-5 pt-0 pb-5 mt-3 mb-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-12&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 pt-sm-0 pt-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/pelikan_company.png&quot; alt=&quot;pelikan company&quot; width=&quot;376&quot; height=&quot;395&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;La société Pelikan&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Le Group Pelikan GmbH, dont le siège se trouve à Falkensee près de Berlin, est l'un des principaux fournisseurs d'articles de haute qualité d'école, de bureau et de papeterie. La gamme de produits comprend plus de 12 000 articles, des taille-crayons et serviettes de table aux cartables et instruments d'écriture de haute qualité.&lt;br /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=3816&amp;amp;Itemid=2600&amp;amp;lang=fr-ch&quot; class=&quot;btn btn-outline-blue text-white&quot;&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</summary>
+		<content type="html">&lt;p&gt;{loadmoduleid 488}&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;section class=&quot;_bg-blue pt-sm-5 pt-0 pb-5 mt-3 mb-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-12&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 pt-sm-0 pt-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/pelikan_company.png&quot; alt=&quot;pelikan company&quot; width=&quot;376&quot; height=&quot;395&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;La société Pelikan&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+Le Group Pelikan GmbH, dont le siège se trouve à Falkensee près de Berlin, est l'un des principaux fournisseurs d'articles de haute qualité d'école, de bureau et de papeterie. La gamme de produits comprend plus de 12 000 articles, des taille-crayons et serviettes de table aux cartables et instruments d'écriture de haute qualité.&lt;br /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=3816&amp;amp;Itemid=2600&amp;amp;lang=fr-ch&quot; class=&quot;btn btn-outline-blue text-white&quot;&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content>
+		<category term="Suisse" />
+	</entry>
+</feed>

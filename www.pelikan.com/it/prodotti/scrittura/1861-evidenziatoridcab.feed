@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Scrittura - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:21:19 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori.feed?type=rss"/>
+		<language>it-it</language>
+		<item>
+			<title>Textmarker 490® Pastel</title>
+			<link>https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3169-textmarker-490-pastel.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3169-textmarker-490-pastel.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/writing/product/textmarker_490_pastel/textmarker_490_product_intro.jpg" /></p><h2 class="text-blue">Textmarker 490<sup>®</sup> Pastel</h2>
+<p>I Textmarker 490® Pastel portano freschezza!</p>
+]]></description>
+			<category>Evidenziatori</category>
+			<pubDate>Tue, 20 Jul 2021 21:27:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Signal® </title>
+			<link>https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3154-signal.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3154-signal.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/writing/product/textmarker_signal/highlighters_signal_product_intro.jpg" /></p><h2 class="text-blue-title">Signal<sup>®</sup></h2>
+<p>Evidenziatore con cappuccio a clip da portare dove vuoi. Inchiostro speciale a base d'acqua con ottima resa sulla maggior parte delle superfici di carta.</p>
+]]></description>
+			<category>Evidenziatori</category>
+			<pubDate>Tue, 20 Jul 2021 21:27:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Textmarker 490® Neon</title>
+			<link>https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3168-textmarker-490-neon.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/it/prodotti/scrittura/1861-evidenziatori/3168-textmarker-490-neon.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/writing/product/textmarker_490_neon/highlighters_neon_product_intro.jpg" /></p><h2 class="text-blue">Textmarker 490<sup>®</sup> Neon</h2>
+<p>Be Brilliant, Be Positive, Highlight what matters!</p>
+]]></description>
+			<category>Evidenziatori</category>
+			<pubDate>Tue, 20 Jul 2021 21:27:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

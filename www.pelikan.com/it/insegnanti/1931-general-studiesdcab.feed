@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Insegnanti - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/it/insegnanti/1931-general-studies.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:03:27 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/it/insegnanti/1931-general-studies.feed?type=rss"/>
+		<language>it-it</language>
+		<item>
+			<title>Materiali per gli studenti</title>
+			<link>https://www.pelikan.com/it/insegnanti/1931-general-studies/3087-materiali-per-gli-studenti.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/it/insegnanti/1931-general-studies/3087-materiali-per-gli-studenti.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/general_studies/210812_students-material/210812_2.jpg" /></p><article>
+<article>
+<p>Il materiale per gli studenti contiene un foglio di lavoro chiamato "il lavoro dei miei sogni" ed un modello di intervista liberamente selezionabile di una professione.</p>
+]]></description>
+			<category>General Studies</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Materiali per gli insegnanti &amp; Sommario degli argomenti</title>
+			<link>https://www.pelikan.com/it/insegnanti/1931-general-studies/3090-materiali-per-gli-insegnanti-sommario-degli-argomenti.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/it/insegnanti/1931-general-studies/3090-materiali-per-gli-insegnanti-sommario-degli-argomenti.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/general_studies/210812_teachers-material-summary-of-topics/210812_2.jpg" /></p><p>Materiale didattico per gli insegnanti da utilizzare in classe.</p>
+]]></description>
+			<category>General Studies</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

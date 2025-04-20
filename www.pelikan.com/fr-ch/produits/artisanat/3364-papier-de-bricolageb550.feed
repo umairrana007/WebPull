@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-ch">
+	<title type="text">Artisanat - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage.feed</id>
+	<updated>2025-04-10T13:20:18+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage.feed?type=atom"/>
+	<entry>
+		<title>Papier transparent, non gommé</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/3805-transparent.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/3805-transparent.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Le papier transparent de Pelikan est disponible en 10 couleurs et convient parfaitement à la fabrication de lanternes.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Le papier transparent de Pelikan est disponible en 10 couleurs et convient parfaitement à la fabrication de lanternes.&lt;/p&gt;</content>
+		<category term="Papier de bricolage" />
+	</entry>
+	<entry>
+		<title>Papier brillant, gommé</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/3806-glossy-paper.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/3806-glossy-paper.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Le papier gommé et brillant de Pelikan est disponible en 10 couleurs et est auto-adhésif une fois humidifié. Convient à de nombreux projets d'artisanat.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Le papier gommé et brillant de Pelikan est disponible en 10 couleurs et est auto-adhésif une fois humidifié. Convient à de nombreux projets d'artisanat.&lt;/p&gt;</content>
+		<category term="Papier de bricolage" />
+	</entry>
+	<entry>
+		<title>Papier de couleur</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/4027-papier-de-couleur.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/artisanat/3364-papier-de-bricolage/4027-papier-de-couleur.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;Le papier de couleur est parfait pour le bricolage et les activités créatives. Contrairement au papier blanc imprimé, la couleur est directement intégrée dans le papier lors de sa fabrication. Ainsi, les bords découpés restent colorés même lors du découpage.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Le papier de couleur est parfait pour le bricolage et les activités créatives. Contrairement au papier blanc imprimé, la couleur est directement intégrée dans le papier lors de sa fabrication. Ainsi, les bords découpés restent colorés même lors du découpage.&lt;/p&gt;</content>
+		<category term="Papier de bricolage" />
+	</entry>
+</feed>

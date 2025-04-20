@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Kategorie - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pl/allcategories-pl-pl/2119-polska/teachers/od-nauczycieli-dla-nauczycieli.feed</id>
+	<updated>2025-04-10T13:17:20+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pl/allcategories-pl-pl/2119-polska/teachers/od-nauczycieli-dla-nauczycieli.feed?type=atom"/>
+	<entry>
+		<title>Dodatkowa wskazówka. Znak siedzenia</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/2119-polska/teachers/od-nauczycieli-dla-nauczycieli/1740-extra-tip-the-sitting-sign.html"/>
+		<published>2021-08-12T19:18:29+00:00</published>
+		<updated>2021-08-12T19:18:29+00:00</updated>
+		<id>https://www.pelikan.com/pl/2119-polska/teachers/od-nauczycieli-dla-nauczycieli/1740-extra-tip-the-sitting-sign.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/from_teachers_for_teachers/210812_extra-tip-the-sitting-sign/210812_3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Oba znaki służą komunikacji niewerbalnej i mogą być efektywnie stosowane z dziećmi w wieku od 6 do 7 lat. Po objaśnieniu tych znaków, dzieci z reguły dość szybko się do nich przyzwyczajają.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/from_teachers_for_teachers/210812_extra-tip-the-sitting-sign/210812_3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Oba znaki służą komunikacji niewerbalnej i mogą być efektywnie stosowane z dziećmi w wieku od 6 do 7 lat. Po objaśnieniu tych znaków, dzieci z reguły dość szybko się do nich przyzwyczajają.&lt;/p&gt;
+</content>
+		<category term="Od nauczycieli dla nauczycieli" />
+	</entry>
+</feed>

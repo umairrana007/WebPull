@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pelikan - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/ro/506-romania.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:19:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/ro/506-romania.feed?type=rss"/>
+		<language>ro-ro</language>
+		<item>
+			<title>Acasă</title>
+			<link>https://www.pelikan.com/ro/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ro/</guid>
+			<description><![CDATA[<p>{loadmoduleid 405}</p>]]></description>
+			<category>România</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

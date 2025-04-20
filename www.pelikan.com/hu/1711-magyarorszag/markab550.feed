@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/hu/1711-magyarorszag/marka.feed</id>
+	<updated>2025-04-10T13:30:57+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/hu/1711-magyarorszag/marka.feed?type=atom"/>
+	<entry>
+		<title>A márka</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/marka.html"/>
+		<published>2021-06-08T21:18:06+00:00</published>
+		<updated>2021-06-08T21:18:06+00:00</updated>
+		<id>https://www.pelikan.com/hu/marka.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_com_brand _content-history&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5 order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h3 class=&quot;text-blue-title&quot;&gt;Történetünk&lt;/h3&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Több, mint 180 &lt;br /&gt; &lt;span class=&quot;text-yellow&quot;&gt;eves örökség.&lt;/span&gt;&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Az 1838-ban Carl Hornemann vegyész által Hannoverben, Németországban alapított Pelikan nagy múltra tekint vissza a tinták és festékek gyártásában.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=32&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Tovább&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;&quot; width=&quot;1056&quot; height=&quot;818&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;_com_brand _content-history&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5 order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h3 class=&quot;text-blue-title&quot;&gt;Történetünk&lt;/h3&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Több, mint 180 &lt;br /&gt; &lt;span class=&quot;text-yellow&quot;&gt;eves örökség.&lt;/span&gt;&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Az 1838-ban Carl Hornemann vegyész által Hannoverben, Németországban alapított Pelikan nagy múltra tekint vissza a tinták és festékek gyártásában.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=32&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Tovább&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;&quot; width=&quot;1056&quot; height=&quot;818&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Márka" />
+	</entry>
+	<entry>
+		<title>A Pelikan márka</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/marka/a-pelikan-marka.html"/>
+		<published>2021-06-08T19:35:58+00:00</published>
+		<updated>2021-06-08T19:35:58+00:00</updated>
+		<id>https://www.pelikan.com/hu/marka/a-pelikan-marka.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Évfordulónk van, &lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 éves&lt;/span&gt; a Pelikan!&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;A &lt;span class=&quot;text-blue_num&quot;&gt;nagy hagyományokkal rendelkező &lt;/span&gt; Pelikan immár &lt;span class=&quot;text-blue_num&quot;&gt;180 éve&lt;/span&gt; ír történelmet.&lt;/h3&gt;
+&lt;p&gt;A nagy hagyományokkal rendelkező Pelikan cég immár 180 éve ír történelmet. 1838. április 28-án, amikor kiadták festékgyárának első árlistáját, Carl Hornemann vegyész megalapozta e világhírű, tradicionális hannoveri cég sikerét.&lt;/p&gt;
+&lt;p&gt;2018 egy különleges év volt számunkra – április 28-án a Pelikan 180 éves lett, és immár nem csak nagyon hosszú, de eseménydús múltra is tekinthet vissza. Még régen kezdődött, amikor egy vegyész, Carl Hornemann festék- és tintagyárat alapított Hannoverben. Az üzleti tevékenység az első árlista 1838. április 28-ai megjelenésével indult meg – és ezzel együtt egy sikeres márka története is, amely ma már világszerte ismert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Mindenkinek &lt;span class=&quot;text-blue_num&quot;&gt;aki szeretne közelebbről is megismerkedni a&lt;/span&gt; Pelikan sikertörténetével&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Interaktív cégtörténetünk, valamint a márkatörténeti könyvünk teljes áttekintést nyújt a Pelikan elmúlt 180 évéről.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Új felfedezések a Pelikan archívumból&lt;/h1&gt;
+&lt;p&gt;A cég archívumából a márka ötletgazdájának, Günther Wagnernek az utódjához, Fritz Beindorffhoz intézett, eddig ismeretlen levelei kerültek elő. A felfedezések között szerepelt a Wagner család eredeti címere is, amelyet valószínűleg már 1873 előtt is használtak azonosító jelként a gyerekeknek szánt mézfestékeken.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-dark&quot;&gt;A Pelikan &lt;span class=&quot;text-yellow&quot;&gt;törődéssel és szenvedéllyel &lt;/span&gt; dolgozik azon, hogy a világot jobb hellyé tegye.&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Maga Günther Wagner volt az, aki családi címere alapján megtervezte a PELIKAN védjegyét az ő „Kicsi mézfestményeihez”. Wagner 3 fiókát helyezett a fészekbe a PELIKAN védjegyéhez. A mézfesték egy akkoriban elterjedt vízfesték volt, amelyben a mézet használták kötőanyagként. Egy 1873-as árlista szerint 12, 18 vagy 24 különböző színt tartalmazó bádogdobozokban kínálták a mézes festékből készült kis, kerek korongokat, és a festéklapokat a fémdoboz aljára ragasztották. A védjegy megtervezésekor Günther Wagner elhagyta a pajzs, általa „oválisnak” nevezett formáját, amelyen a pelikán szerepelt családi címerében.&lt;/p&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;A negyedik Wagner gyermek születése után egy újabb fióka jelent meg a fészekben – amint az az eddig ismert legrégebbi PELIKAN védjegyen is látszik, amelyet 1878. november 27-én jegyeztek be.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;A márka az idővel &lt;br /&gt;együtt változik&lt;/h2&gt;
+&lt;p&gt;A Pelikan márka egy teljes történetet mesél el egyetlen jelbe tömörítve. Ez a pelikán anya csibéje iránti szeretetének és ragaszkodásának története, amely, mint tudjuk, egy napon kinyitja szárnyait és elrepül. Így a Pelikan márka, a kezdetektől napjainkig, úgy is értelmezhető, mint e régi alapokon nyugvó német cég sikertörténetének szimbolizálása, és globális jelentőségű céggé való válása.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Ez a böngésző nem támogatja a HTML5 videót. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Évfordulónk van, &lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 éves&lt;/span&gt; a Pelikan!&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;A &lt;span class=&quot;text-blue_num&quot;&gt;nagy hagyományokkal rendelkező &lt;/span&gt; Pelikan immár &lt;span class=&quot;text-blue_num&quot;&gt;180 éve&lt;/span&gt; ír történelmet.&lt;/h3&gt;
+&lt;p&gt;A nagy hagyományokkal rendelkező Pelikan cég immár 180 éve ír történelmet. 1838. április 28-án, amikor kiadták festékgyárának első árlistáját, Carl Hornemann vegyész megalapozta e világhírű, tradicionális hannoveri cég sikerét.&lt;/p&gt;
+&lt;p&gt;2018 egy különleges év volt számunkra – április 28-án a Pelikan 180 éves lett, és immár nem csak nagyon hosszú, de eseménydús múltra is tekinthet vissza. Még régen kezdődött, amikor egy vegyész, Carl Hornemann festék- és tintagyárat alapított Hannoverben. Az üzleti tevékenység az első árlista 1838. április 28-ai megjelenésével indult meg – és ezzel együtt egy sikeres márka története is, amely ma már világszerte ismert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Mindenkinek &lt;span class=&quot;text-blue_num&quot;&gt;aki szeretne közelebbről is megismerkedni a&lt;/span&gt; Pelikan sikertörténetével&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Interaktív cégtörténetünk, valamint a márkatörténeti könyvünk teljes áttekintést nyújt a Pelikan elmúlt 180 évéről.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Új felfedezések a Pelikan archívumból&lt;/h1&gt;
+&lt;p&gt;A cég archívumából a márka ötletgazdájának, Günther Wagnernek az utódjához, Fritz Beindorffhoz intézett, eddig ismeretlen levelei kerültek elő. A felfedezések között szerepelt a Wagner család eredeti címere is, amelyet valószínűleg már 1873 előtt is használtak azonosító jelként a gyerekeknek szánt mézfestékeken.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-dark&quot;&gt;A Pelikan &lt;span class=&quot;text-yellow&quot;&gt;törődéssel és szenvedéllyel &lt;/span&gt; dolgozik azon, hogy a világot jobb hellyé tegye.&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Maga Günther Wagner volt az, aki családi címere alapján megtervezte a PELIKAN védjegyét az ő „Kicsi mézfestményeihez”. Wagner 3 fiókát helyezett a fészekbe a PELIKAN védjegyéhez. A mézfesték egy akkoriban elterjedt vízfesték volt, amelyben a mézet használták kötőanyagként. Egy 1873-as árlista szerint 12, 18 vagy 24 különböző színt tartalmazó bádogdobozokban kínálták a mézes festékből készült kis, kerek korongokat, és a festéklapokat a fémdoboz aljára ragasztották. A védjegy megtervezésekor Günther Wagner elhagyta a pajzs, általa „oválisnak” nevezett formáját, amelyen a pelikán szerepelt családi címerében.&lt;/p&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;A negyedik Wagner gyermek születése után egy újabb fióka jelent meg a fészekben – amint az az eddig ismert legrégebbi PELIKAN védjegyen is látszik, amelyet 1878. november 27-én jegyeztek be.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;A márka az idővel &lt;br /&gt;együtt változik&lt;/h2&gt;
+&lt;p&gt;A Pelikan márka egy teljes történetet mesél el egyetlen jelbe tömörítve. Ez a pelikán anya csibéje iránti szeretetének és ragaszkodásának története, amely, mint tudjuk, egy napon kinyitja szárnyait és elrepül. Így a Pelikan márka, a kezdetektől napjainkig, úgy is értelmezhető, mint e régi alapokon nyugvó német cég sikertörténetének szimbolizálása, és globális jelentőségű céggé való válása.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Ez a böngésző nem támogatja a HTML5 videót. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Márka" />
+	</entry>
+</feed>

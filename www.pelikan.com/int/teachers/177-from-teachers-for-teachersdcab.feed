@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Teachers - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/teachers/177-from-teachers-for-teachers.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 11:37:41 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/teachers/177-from-teachers-for-teachers.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Extra Tip: The sitting sign</title>
+			<link>https://www.pelikan.com/int/teachers/177-from-teachers-for-teachers/243-extra-tip-the-sitting-sign.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/teachers/177-from-teachers-for-teachers/243-extra-tip-the-sitting-sign.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/intros/manos_pelikan.png" /></p><p>Both signs serve non-verbal communication and can be used effectively with children aged 6 to 7. Once these signs have been explained, the children become accustomed to them quite quickly as a rule.</p>
+]]></description>
+			<category>From Teachers for Teachers</category>
+			<pubDate>Thu, 12 Aug 2021 19:18:29 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

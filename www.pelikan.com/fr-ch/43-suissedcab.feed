@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Accueil - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/fr-ch/43-suisse.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:19:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/fr-ch/43-suisse.feed?type=rss"/>
+		<language>fr-ch</language>
+		<item>
+			<title>griffix®</title>
+			<link>https://www.pelikan.com/fr-ch/produits/griffix.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-ch/produits/griffix.html</guid>
+			<description><![CDATA[]]></description>
+			<category>Suisse</category>
+			<pubDate>Fri, 05 Aug 2022 09:03:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Accueil</title>
+			<link>https://www.pelikan.com/fr-ch/</link>
+			<guid isPermaLink="true">https://www.pelikan.com/fr-ch/</guid>
+			<description><![CDATA[<p>{loadmoduleid 488}</p>
+<p>&nbsp;</p>
+<section class="_bg-blue pt-sm-5 pt-0 pb-5 mt-3 mb-3">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="row">
+<div class="col-sm-5 pt-sm-0 pt-4"><img src="https://www.pelikan.com//images/pelikan/pelikan_company.png" alt="pelikan company" width="376" height="395" class="img-fluid" /></div>
+<div class="col-sm-1">&nbsp;</div>
+<div class="col-sm-6 my-auto">
+<h2 class="text-yellow">La société Pelikan</h2>
+<p>&nbsp;</p>
+Le Group Pelikan GmbH, dont le siège se trouve à Falkensee près de Berlin, est l'un des principaux fournisseurs d'articles de haute qualité d'école, de bureau et de papeterie. La gamme de produits comprend plus de 12 000 articles, des taille-crayons et serviettes de table aux cartables et instruments d'écriture de haute qualité.<br />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.pelikan.com/fr-ch/societe/pelikan-groupe.html" class="btn btn-outline-blue text-white">En savoir plus</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>]]></description>
+			<category>Suisse</category>
+			<pubDate>Fri, 25 Dec 2020 06:30:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

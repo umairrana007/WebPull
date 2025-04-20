@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Handicraft - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs.feed</id>
+	<updated>2025-04-10T13:20:27+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs.feed?type=atom"/>
+	<entry>
+		<title>Plastilin quality modeling clay</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/82-plastilin.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/82-plastilin.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Plastilin modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 2 colours.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Plastilin modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 2 colours.&lt;/p&gt;</content>
+		<category term="Modelling clays &amp; doughs" />
+	</entry>
+	<entry>
+		<title>Creaplast®  modelling clay for children</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/83-creaplast.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/83-creaplast.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/handcraft/intro_image.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Creaplast&lt;sup&gt;®&lt;/sup&gt; modelling clay for children&lt;/h2&gt;
+&lt;p&gt;Creaplast® is a high-quality, durable plasticine for modelling and designing. It is particularly soft and supple from the start.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/categories/handcraft/intro_image.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue-title&quot;&gt;Creaplast&lt;sup&gt;®&lt;/sup&gt; modelling clay for children&lt;/h2&gt;
+&lt;p&gt;Creaplast® is a high-quality, durable plasticine for modelling and designing. It is particularly soft and supple from the start.&lt;/p&gt;
+</content>
+		<category term="Modelling clays &amp; doughs" />
+	</entry>
+	<entry>
+		<title>Nakiplast® moulding dough</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/86-nakiplast-block.html"/>
+		<published>2021-07-21T19:47:33+00:00</published>
+		<updated>2021-07-21T19:47:33+00:00</updated>
+		<id>https://www.pelikan.com/int/products/handicraft/69-modelling-clays-doughs/86-nakiplast-block.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Nakiplast&lt;sup&gt;®&lt;/sup&gt; modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 4 colors.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;The Nakiplast&lt;sup&gt;®&lt;/sup&gt; modeling clay is soft, pliable, permanently plastic and brightly colored. It doesn’t stain your hands and comes in 4 colors.&lt;/p&gt;
+</content>
+		<category term="Modelling clays &amp; doughs" />
+	</entry>
+</feed>

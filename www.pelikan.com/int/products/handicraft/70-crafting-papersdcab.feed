@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Handicraft - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/products/handicraft/70-crafting-papers.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:20:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/products/handicraft/70-crafting-papers.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Glossy paper, gummed</title>
+			<link>https://www.pelikan.com/int/products/handicraft/70-crafting-papers/87-glossy-paper.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/handicraft/70-crafting-papers/87-glossy-paper.html</guid>
+			<description><![CDATA[<p>The gummed glossy paper from Pelikan is available in 10 colours and is self-adhesive when moistened. It is suitable for a variety of handicrafts.</p>]]></description>
+			<category>Crafting papers</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Transparent paper, gummed</title>
+			<link>https://www.pelikan.com/int/products/handicraft/70-crafting-papers/88-transparent.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/products/handicraft/70-crafting-papers/88-transparent.html</guid>
+			<description><![CDATA[<p>The transparent paper from Pelikan is available in 10 colours and is particularly suitable for making lanterns.</p>]]></description>
+			<category>Crafting papers</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

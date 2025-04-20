@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Teachers - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/int/teachers/175-painting-crafting-gluing.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 11:37:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/int/teachers/175-painting-crafting-gluing.feed?type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>The Pelikan color mixer</title>
+			<link>https://www.pelikan.com/int/teachers/175-painting-crafting-gluing/3533-the-pelikan-color-mixer.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/teachers/175-painting-crafting-gluing/3533-the-pelikan-color-mixer.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/intros/K12_intro_teachers.jpg" /></p><h2 style="color: #11a9ed; text-align: center;">Mix colours on screen!</h2>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong style="color: #4562d8;">Pelikan’s interactive paint box makes it possible. So you can discover completely new colours.</strong></p>
+<p style="text-align: center;"><strong>It’s that easy</strong>: just click on a paint bowl or the opaque white tube and drag the full colour into the mixing field under the paint box. Have fun mixing colours!</p>
+]]></description>
+			<category>Painting, Crafting, Gluing</category>
+			<pubDate>Wed, 11 May 2022 20:07:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Motif Spindle</title>
+			<link>https://www.pelikan.com/int/teachers/175-painting-crafting-gluing/411-motif-spindle.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/int/teachers/175-painting-crafting-gluing/411-motif-spindle.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/intros/motif_spindel.png" /></p><p>This Christmas tree won't shed its needles, it doesn't need water and still it is an eyecatcher in the pre-Christmas season.</p>
+]]></description>
+			<category>Painting, Crafting, Gluing</category>
+			<pubDate>Thu, 12 Aug 2021 17:09:49 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

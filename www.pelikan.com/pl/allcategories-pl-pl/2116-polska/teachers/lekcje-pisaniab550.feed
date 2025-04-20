@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Kategorie - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/pl/allcategories-pl-pl/2116-polska/teachers/lekcje-pisania.feed</id>
+	<updated>2025-04-10T13:17:14+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/pl/allcategories-pl-pl/2116-polska/teachers/lekcje-pisania.feed?type=atom"/>
+	<entry>
+		<title>Leworęczni</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1741-left-handed.html"/>
+		<published>2021-08-12T18:47:32+00:00</published>
+		<updated>2021-08-12T18:47:32+00:00</updated>
+		<id>https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1741-left-handed.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_left-handed/210812_1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pelikan wprowadził na rynek dwa specjalne pióra wieczne dla leworęcznych uczniów: Pelikano i Pelikano Junior. W większości przypadków nasze pismo jest zdominowane przez osoby praworęczne, ponieważ sporządzamy notatki od lewej do prawej strony.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/general_studies/210812_left-handed/210812_1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pelikan wprowadził na rynek dwa specjalne pióra wieczne dla leworęcznych uczniów: Pelikano i Pelikano Junior. W większości przypadków nasze pismo jest zdominowane przez osoby praworęczne, ponieważ sporządzamy notatki od lewej do prawej strony.&lt;/p&gt;
+</content>
+		<category term="Lekcje pisania" />
+	</entry>
+	<entry>
+		<title>Nauka pisania w praktyce</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1742-learning-to-write-in-practice.html"/>
+		<published>2021-08-12T17:09:49+00:00</published>
+		<updated>2021-08-12T17:09:49+00:00</updated>
+		<id>https://www.pelikan.com/pl/2116-polska/teachers/lekcje-pisania/1742-learning-to-write-in-practice.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/writing/learn_to_write_practice/en_GB_article_1_learning-to-write-in-practice.tv.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;W tej broszurze uczniowie, opiekunowie i nauczyciele znajdą zrozumiałe informacje, sprawdzone sugestie i pomoce do nauki pisania w szkole.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/teachers/writing/learn_to_write_practice/en_GB_article_1_learning-to-write-in-practice.tv.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;W tej broszurze uczniowie, opiekunowie i nauczyciele znajdą zrozumiałe informacje, sprawdzone sugestie i pomoce do nauki pisania w szkole.&lt;/p&gt;
+</content>
+		<category term="Lekcje pisania" />
+	</entry>
+</feed>

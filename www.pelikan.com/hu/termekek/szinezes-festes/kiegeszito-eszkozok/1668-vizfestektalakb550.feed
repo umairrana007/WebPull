@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hu-hu">
+	<title type="text">Kiegészítő eszközök - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/hu/termekek/szinezes-festes/kiegeszito-eszkozok/1668-vizfestektalak.feed</id>
+	<updated>2025-04-10T12:42:53+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/hu/termekek/szinezes-festes/kiegeszito-eszkozok/1668-vizfestektalak.feed?type=atom"/>
+	<entry>
+		<title>Ecsettál Elefánt</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/hu/termekek/szinezes-festes/kiegeszito-eszkozok/1668-vizfestektalak/1322-ecsettal-elefant.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/hu/termekek/szinezes-festes/kiegeszito-eszkozok/1668-vizfestektalak/1322-ecsettal-elefant.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/water_tank_elephant_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Ecsettál, ami a Pelikan K12® és K24® vízfestékkészlethez hozzárögzíthető&lt;/li&gt;
+&lt;li&gt;Cuki elefánt forma&lt;/li&gt;
+&lt;li&gt;Víztartállyal és tárolóval az éppen nem használt ecseteknek&lt;/li&gt;
+&lt;li&gt;Stabil talppal, így nehezen borul fel&lt;/li&gt;
+&lt;li&gt;Ideális az iskolába és otthonra is&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/water_tank_elephant_blue.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;_ulNoGap&quot;&gt;
+&lt;li&gt;Ecsettál, ami a Pelikan K12® és K24® vízfestékkészlethez hozzárögzíthető&lt;/li&gt;
+&lt;li&gt;Cuki elefánt forma&lt;/li&gt;
+&lt;li&gt;Víztartállyal és tárolóval az éppen nem használt ecseteknek&lt;/li&gt;
+&lt;li&gt;Stabil talppal, így nehezen borul fel&lt;/li&gt;
+&lt;li&gt;Ideális az iskolába és otthonra is&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Vízfestéktálak" />
+	</entry>
+</feed>

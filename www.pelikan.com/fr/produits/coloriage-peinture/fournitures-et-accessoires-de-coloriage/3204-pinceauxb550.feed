@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Fournitures et accessoires de coloriage - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux.feed</id>
+	<updated>2025-04-10T12:42:08+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux.feed?type=atom"/>
+	<entry>
+		<title>Brosses série 613F</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux/3437-brosses-serie-613f.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux/3437-brosses-serie-613f.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/bristle_brush_613f_20.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Poils de porc purs&lt;/li&gt;
+&lt;li&gt;Embout en aluminium sans soudure&lt;/li&gt;
+&lt;li&gt;Manche en bois naturel&lt;/li&gt;
+&lt;li&gt;Brosse courte&lt;/li&gt;
+&lt;li&gt;Certifié FSC™&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/bristle_brush_613f_20.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Poils de porc purs&lt;/li&gt;
+&lt;li&gt;Embout en aluminium sans soudure&lt;/li&gt;
+&lt;li&gt;Manche en bois naturel&lt;/li&gt;
+&lt;li&gt;Brosse courte&lt;/li&gt;
+&lt;li&gt;Certifié FSC™&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Pinceaux" />
+	</entry>
+	<entry>
+		<title>Pinceaux série 23</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux/3438-pinceaux-serie-23.html"/>
+		<published>2021-07-29T20:46:02+00:00</published>
+		<updated>2021-07-29T20:46:02+00:00</updated>
+		<id>https://www.pelikan.com/fr/produits/coloriage-peinture/fournitures-et-accessoires-de-coloriage/3204-pinceaux/3438-pinceaux-serie-23.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/hair_brush_23_5.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Qualité standard&lt;/li&gt;
+&lt;li&gt;Poils de poney&lt;/li&gt;
+&lt;li&gt;Manche en aluminium sans soudure&lt;/li&gt;
+&lt;li&gt;Manche en bois orange&lt;/li&gt;
+&lt;li&gt;Certifié FSC™&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/coloring_painting/product/accessories/hair_brush_23_5.webp&quot; /&gt;&lt;/p&gt;&lt;div class=&quot;_features_accessories&quot;&gt;
+&lt;ul class=&quot;mt-4&quot;&gt;
+&lt;li&gt;Qualité standard&lt;/li&gt;
+&lt;li&gt;Poils de poney&lt;/li&gt;
+&lt;li&gt;Manche en aluminium sans soudure&lt;/li&gt;
+&lt;li&gt;Manche en bois orange&lt;/li&gt;
+&lt;li&gt;Certifié FSC™&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+		<category term="Pinceaux" />
+	</entry>
+</feed>

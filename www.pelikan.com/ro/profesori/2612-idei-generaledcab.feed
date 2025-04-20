@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Profesori - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/ro/profesori/2612-idei-generale.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:04:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/ro/profesori/2612-idei-generale.feed?type=rss"/>
+		<language>ro-ro</language>
+		<item>
+			<title>Materiale pentru elevi</title>
+			<link>https://www.pelikan.com/ro/profesori/2612-idei-generale/2822-materiale-pentru-elevi.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ro/profesori/2612-idei-generale/2822-materiale-pentru-elevi.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/general_studies/210812_students-material/210812_2.jpg" /></p><p>Materialul pentru elevi conține o fișă de lucru numită "profilul profesiei mele ideale" și șabloane pentru interviuri pentru diferite profesii.</p>
+]]></description>
+			<category>Idei generale</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Materiale pentru profesori &amp; rezumatul subiectelor</title>
+			<link>https://www.pelikan.com/ro/profesori/2612-idei-generale/2826-materiale-pentru-profesori-rezumatul-subiectelor.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ro/profesori/2612-idei-generale/2826-materiale-pentru-profesori-rezumatul-subiectelor.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/teachers/general_studies/210812_teachers-material-summary-of-topics/210812_2.jpg" /></p><p>Materialele pentru profesori conțin informații detaliate despre proiecte, ce pot fi folosite în clasă.</p>
+]]></description>
+			<category>Idei generale</category>
+			<pubDate>Thu, 12 Aug 2021 19:00:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

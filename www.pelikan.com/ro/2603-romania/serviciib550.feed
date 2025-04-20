@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ro-ro">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ro/2603-romania/servicii.feed</id>
+	<updated>2025-04-10T13:31:01+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ro/2603-romania/servicii.feed?type=atom"/>
+	<entry>
+		<title>Întrebări frecvente</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ro/servicii/intrebari-frecvente.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/ro/servicii/intrebari-frecvente.html</id>
+		<author>
+			<name>Corina Bakas</name>
+		</author>
+		<category term="Servicii" />
+	</entry>
+	<entry>
+		<title>Cataloage</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ro/servicii/cataloage.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/ro/servicii/cataloage.html</id>
+		<author>
+			<name>Corina Bakas</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Cataloage&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Puteți descoperi o mulțime de informații utile și produse noi și inovatoare în cataloagele Pelikan ce pot fi descărcate în format pdf&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descărcați cataloagele noastre în format PDF. Veți găsi o prezentare generală a celor mai noi produse, precum și instrumente de scris din ediția limitată de lux. În plus, Pelikan oferă o mulțime de informații utile despre produse, cum ar fi informații despre funcția de reumplere a stilourilor sau stilourilor cu piston, sau vă puteți convinge cu ușurință de produsele noi și inovatoare.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;PBS Catalog pentru Download&lt;/h4&gt;
+&lt;p&gt;De aici puteți descărca catalogul actual PBS.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan_catalog_romania_2023.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;De aici puteți descărca catalogul actual de instrumente de scris din seria Fine Wreiting.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Cataloage&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Puteți descoperi o mulțime de informații utile și produse noi și inovatoare în cataloagele Pelikan ce pot fi descărcate în format pdf&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;justify-content-center row&quot;&gt;
+&lt;div class=&quot;col-sm-10&quot;&gt;
+&lt;div class=&quot;my-3&quot;&gt;
+&lt;p&gt;Descărcați cataloagele noastre în format PDF. Veți găsi o prezentare generală a celor mai noi produse, precum și instrumente de scris din ediția limitată de lux. În plus, Pelikan oferă o mulțime de informații utile despre produse, cum ar fi informații despre funcția de reumplere a stilourilor sau stilourilor cu piston, sau vă puteți convinge cu ușurință de produsele noi și inovatoare.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;PBS Catalog pentru Download&lt;/h4&gt;
+&lt;p&gt;De aici puteți descărca catalogul actual PBS.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/pelikan_catalog_romania_2023.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_1.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/documents/doc_3.png&quot; alt=&quot;&quot; width=&quot;435&quot; height=&quot;290&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 my-auto&quot;&gt;
+&lt;h4 class=&quot;text-yellow mb-4 mt-2 mt-sm-0&quot;&gt;Pelikan Passion - Fine Writing&lt;/h4&gt;
+&lt;p&gt;De aici puteți descărca catalogul actual de instrumente de scris din seria Fine Wreiting.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/assets/catalogs/fine-writing-instruments-current-catalog-en.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servicii" />
+	</entry>
+	<entry>
+		<title>Ghidul nostru pentru îndepărtarea petelor</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ro/2603-romania/servicii/2820-ghidul-nostru-pentru-indepartarea-petelor.html"/>
+		<published>2021-06-20T20:16:55+00:00</published>
+		<updated>2021-06-20T20:16:55+00:00</updated>
+		<id>https://www.pelikan.com/ro/2603-romania/servicii/2820-ghidul-nostru-pentru-indepartarea-petelor.html</id>
+		<author>
+			<name>Corina Bakas</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Ghidul nostru pentru îndepărtarea petelor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Cu cât pata este curățată mai devreme, cu atât este mai ușor să o îndepărtezi.&lt;/li&gt;
+&lt;li&gt;Curățați întotdeauna petele din exterior spre interior pentru a evita răspândirea.&lt;/li&gt;
+&lt;li&gt;Înainte de a utiliza un agent de curățare, verificați rezistența culorii și/sau a materialului pe o suprafață mică.&lt;/li&gt;
+&lt;li&gt;Trebuie respectate instrucțiunile de utilizare a agentului de curățare.&lt;/li&gt;
+&lt;li&gt;Succesul curățării depinde de o serie de factori pentru fiecare caz în parte (de exemplu, dimensiunea / vechimea petei, proprietățile exacte ale suprafeței - în special în cazul textilelor și covoarelor, agentul de curățare utilizat și dozajul acestuia). Prin urmare, nu putem garanta succesul și nu ne asumăm răspunderea pentru orice daune.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;bg_light py-4 my-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;
+&lt;div class=&quot;py-3 mb-sm-4 mb-2 text-center&quot;&gt;
+&lt;h1 class=&quot;text-blue-title&quot;&gt;Ghidul nostru pentru îndepărtarea petelor&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_light_blue_3 p-0 my-4&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan_gral/stain_doctor_1.png&quot; alt=&quot;&quot; width=&quot;537&quot; height=&quot;451&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 my-auto&quot;&gt;
+&lt;div class=&quot;py-3&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Cu cât pata este curățată mai devreme, cu atât este mai ușor să o îndepărtezi.&lt;/li&gt;
+&lt;li&gt;Curățați întotdeauna petele din exterior spre interior pentru a evita răspândirea.&lt;/li&gt;
+&lt;li&gt;Înainte de a utiliza un agent de curățare, verificați rezistența culorii și/sau a materialului pe o suprafață mică.&lt;/li&gt;
+&lt;li&gt;Trebuie respectate instrucțiunile de utilizare a agentului de curățare.&lt;/li&gt;
+&lt;li&gt;Succesul curățării depinde de o serie de factori pentru fiecare caz în parte (de exemplu, dimensiunea / vechimea petei, proprietățile exacte ale suprafeței - în special în cazul textilelor și covoarelor, agentul de curățare utilizat și dozajul acestuia). Prin urmare, nu putem garanta succesul și nu ne asumăm răspunderea pentru orice daune.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Servicii" />
+	</entry>
+</feed>

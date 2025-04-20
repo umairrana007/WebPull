@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kantoor - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:16:08 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier.feed?type=rss"/>
+		<language>nl-nl</language>
+		<item>
+			<title>Plenticopy® 200 H®</title>
+			<link>https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier/4322-plenticopy-200-h.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier/4322-plenticopy-200-h.html</guid>
+			<description><![CDATA[<p>Het Plenticopy® 200H® carbonpapier is ideaal voor kleurintensieve, geschreven kopieën. Het is blauwschrijvend en heeft een waslaag op de rugzijde.</p>]]></description>
+			<category>Carbonpapier</category>
+			<pubDate>Fri, 23 Jul 2021 18:44:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Interplastic® 1022 G®</title>
+			<link>https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier/4323-interplastic-1022-g.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/nl/producten/kantoor/3537-carbonpapier/4323-interplastic-1022-g.html</guid>
+			<description><![CDATA[<p>Het Interplastic® 1022G® carbonpapier van Pelikan is ideaal voor documenten, kleurintensieve kopieën en gebruik in typemachines.</p>]]></description>
+			<category>Carbonpapier</category>
+			<pubDate>Fri, 23 Jul 2021 18:44:37 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-lu">
+	<title type="text">  - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-lu/3316-luxembourg/marque.feed</id>
+	<updated>2025-04-10T13:28:25+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-lu/3316-luxembourg/marque.feed?type=atom"/>
+	<entry>
+		<title>Certificats Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-lu/marque/certificats-pelikan.html"/>
+		<published>2021-06-20T20:39:46+00:00</published>
+		<updated>2021-06-20T20:39:46+00:00</updated>
+		<id>https://www.pelikan.com/fr-lu/marque/certificats-pelikan.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 col-10 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Certificats Pelikan&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Nos certificats Pelikan sont disponibles pour le téléchargement.&lt;/h3&gt;
+&lt;br /&gt;
+&lt;h4&gt;Certificat de l'usine Pelikan&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;ISO 9001:2024&lt;/h4&gt;
+&lt;p&gt;Vous pouvez télécharger ici la vérification de notre certificat ISO 9001 sous forme de document PDF.&lt;/p&gt;
+&lt;h6&gt;Portée :&lt;/h6&gt;
+&lt;ul class=&quot;small&quot;&gt;
+&lt;li&gt;Recherche, développement, production, distribution et commercialisation de produits scolaires et de bureau, d'instruments d'écriture de haute gamme et d'articles spécifiques aux clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-2 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/Certifications/Logo_tuev_2018.jpg&quot; alt=&quot;Logo tuev 2018&quot; width=&quot;198&quot; height=&quot;100&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;div style=&quot;min-height: 1vh;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/documents/Certifications/PPG_Zertifikat_9001_EN_2021-2024.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Télécharger&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;ISO 14001:2024&lt;/h4&gt;
+&lt;p&gt;Vous pouvez télécharger ici la vérification de notre certificat ISO 14001 sous forme de document PDF.&lt;/p&gt;
+&lt;h6&gt;Portée :&lt;/h6&gt;
+&lt;ul class=&quot;small&quot;&gt;
+&lt;li&gt;Recherche, développement, production, distribution et commercialisation de produits scolaires et de bureau, d'instruments d'écriture de haute gamme et d'articles spécifiques aux clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-2 col-10 order-0 order-sm-1&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/Certifications/Logo_tuev_2018.jpg&quot; alt=&quot;Logo tuev 2018&quot; width=&quot;198&quot; height=&quot;100&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;div style=&quot;min-height: 1vh;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/documents/Certifications/PPG_Zertifikat_14001_EN_2021-2024.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Télécharger&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-8 col-10 text-center&quot;&gt;
+&lt;div class=&quot;py-3 my-2&quot;&gt;
+&lt;h1 class=&quot;text-blue-title my-3 mb-sm-5 mt-sm-4&quot;&gt;Certificats Pelikan&lt;/h1&gt;
+&lt;h3 class=&quot;text-blue-flex my-2 my-sm-4&quot;&gt;Nos certificats Pelikan sont disponibles pour le téléchargement.&lt;/h3&gt;
+&lt;br /&gt;
+&lt;h4&gt;Certificat de l'usine Pelikan&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-3 my-sm-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;ISO 9001:2024&lt;/h4&gt;
+&lt;p&gt;Vous pouvez télécharger ici la vérification de notre certificat ISO 9001 sous forme de document PDF.&lt;/p&gt;
+&lt;h6&gt;Portée :&lt;/h6&gt;
+&lt;ul class=&quot;small&quot;&gt;
+&lt;li&gt;Recherche, développement, production, distribution et commercialisation de produits scolaires et de bureau, d'instruments d'écriture de haute gamme et d'articles spécifiques aux clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;order-0 order-sm-1 col-sm-2 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/Certifications/Logo_tuev_2018.jpg&quot; alt=&quot;Logo tuev 2018&quot; width=&quot;198&quot; height=&quot;100&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;div style=&quot;min-height: 1vh;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/documents/Certifications/PPG_Zertifikat_9001_EN_2021-2024.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Télécharger&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;order-1 order-sm-0 col-sm-4 my-auto col-10&quot;&gt;
+&lt;h4 class=&quot;text-blue mb-4 mt-2 mt-sm-0&quot;&gt;ISO 14001:2024&lt;/h4&gt;
+&lt;p&gt;Vous pouvez télécharger ici la vérification de notre certificat ISO 14001 sous forme de document PDF.&lt;/p&gt;
+&lt;h6&gt;Portée :&lt;/h6&gt;
+&lt;ul class=&quot;small&quot;&gt;
+&lt;li&gt;Recherche, développement, production, distribution et commercialisation de produits scolaires et de bureau, d'instruments d'écriture de haute gamme et d'articles spécifiques aux clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-2 col-10 order-0 order-sm-1&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/documents/Certifications/Logo_tuev_2018.jpg&quot; alt=&quot;Logo tuev 2018&quot; width=&quot;198&quot; height=&quot;100&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;div style=&quot;min-height: 1vh;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;a href=&quot;https://www.pelikan.com/images/documents/Certifications/PPG_Zertifikat_14001_EN_2021-2024.pdf&quot; target=&quot;_blank&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Télécharger&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;my-2 my-sm-3&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Marque" />
+	</entry>
+	<entry>
+		<title>La marque Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-lu/marque/la-marque-pelikan.html"/>
+		<published>2021-06-08T19:35:58+00:00</published>
+		<updated>2021-06-08T19:35:58+00:00</updated>
+		<id>https://www.pelikan.com/fr-lu/marque/la-marque-pelikan.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;C'est notre anniversaire, &lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 ans&lt;/span&gt; de Pelikan !&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pelikan, une entreprise de &lt;span class=&quot;text-blue_num&quot;&gt;longue tradition,&lt;/span&gt; écrit l'histoire depuis &lt;span class=&quot;text-blue_num&quot;&gt;180 ans.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Le 28 avril 1838, en publiant la première liste de prix de son usine de peinture, le chimiste Carl Hornemann a jeté les bases du succès de cette entreprise traditionnelle de Hanovre, en Allemagne, connue dans le monde entier.&lt;/p&gt;
+&lt;p&gt;2018 est une année particulière pour nous - le 28 avril, Pelikan a eu 180 ans et peut se retourner sur une histoire non seulement très longue, mais aussi très mouvementée. Tout a commencé il y a longtemps, lorsque le chimiste Carl Hornemann a fondé une usine de peinture et d'encre à Hanovre. Avec la publication de la première liste de prix, le 28 avril 1838, les activités commerciales ont commencé - et avec elles, l'histoire d'une marque à succès qui est maintenant connue dans le monde entier.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pour tous &lt;span class=&quot;text-blue_num&quot;&gt;ceux qui souhaitent s'intéresser de plus près à la réussite&lt;/span&gt; de Pelikan.&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Notre histoire interactive de l'entreprise et le livre sur l'histoire de la marque offrent un aperçu complet des 180 dernières années de Pelikan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Nouvelles découvertes des archives Pelikan&lt;/h1&gt;
+&lt;p&gt;Des lettres jusqu'alors inconnues du fondateur de la marque, Günther Wagner, à son successeur Fritz Beindorff ont été découvertes dans les archives de l'entreprise. Parmi les découvertes, on trouve également le blason original de la famille Wagner, qui était probablement déjà utilisé comme marque d'identification sur les aquarelles pour enfants avant 1873.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-dark&quot;&gt;Pelikan travaille &lt;span class=&quot;text-yellow&quot;&gt;avec soin et passion&lt;/span&gt; pour aider à améliorer le monde.&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;C'est Günther Wagner lui-même qui, sur la base de son emblème familial, a conçu le logo PELIKAN pour ses &quot;Petites couleurs de miel&quot;. Günther Wagner a pris le nombre de trois poussins dans le nid pour le logo de PELIKAN. Les couleurs au miel étaient un type d'aquarelle courant à l'époque, utilisant le miel comme liant. Selon une liste de prix datant de 1873, les petits pots ronds de couleur miel étaient proposés dans des boîtes en fer blanc de 12, 18 ou 24 couleurs différentes, les pots de peinture étant collés au métal de la boîte. Lors de la conception de la marque, Günther Wagner a abandonné la forme qu'il qualifiait d'&quot;ovale&quot; de l'écu qui représentait le pélican de son blason familial.&lt;/p&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Après la naissance d'un quatrième enfant Wagner, un autre poussin est apparu dans le nid - comme le montre la plus ancienne marque PELIKAN connue, qui a été enregistrée le 27 novembre 1878.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;La marque évolue &lt;br /&gt;avec son temps&lt;/h2&gt;
+&lt;p&gt;La marque Pelikan raconte toute une histoire, unie dans un seul symbole. C'est l'histoire de l'amour et de l'affection de la mère pélican pour son poussin, qui, comme nous le savons, ouvrira un jour ses ailes et volera. Ainsi, la marque Pelikan peut être comprise, depuis le début jusqu'à aujourd'hui, comme un symbole de l'histoire du succès de cette ancienne société allemande, une entreprise de classe mondiale.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;C'est notre anniversaire, &lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 ans&lt;/span&gt; de Pelikan !&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pelikan, une entreprise de &lt;span class=&quot;text-blue_num&quot;&gt;longue tradition,&lt;/span&gt; écrit l'histoire depuis &lt;span class=&quot;text-blue_num&quot;&gt;180 ans.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Le 28 avril 1838, en publiant la première liste de prix de son usine de peinture, le chimiste Carl Hornemann a jeté les bases du succès de cette entreprise traditionnelle de Hanovre, en Allemagne, connue dans le monde entier.&lt;/p&gt;
+&lt;p&gt;2018 est une année particulière pour nous - le 28 avril, Pelikan a eu 180 ans et peut se retourner sur une histoire non seulement très longue, mais aussi très mouvementée. Tout a commencé il y a longtemps, lorsque le chimiste Carl Hornemann a fondé une usine de peinture et d'encre à Hanovre. Avec la publication de la première liste de prix, le 28 avril 1838, les activités commerciales ont commencé - et avec elles, l'histoire d'une marque à succès qui est maintenant connue dans le monde entier.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pour tous &lt;span class=&quot;text-blue_num&quot;&gt;ceux qui souhaitent s'intéresser de plus près à la réussite&lt;/span&gt; de Pelikan.&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Notre histoire interactive de l'entreprise et le livre sur l'histoire de la marque offrent un aperçu complet des 180 dernières années de Pelikan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Nouvelles découvertes des archives Pelikan&lt;/h1&gt;
+&lt;p&gt;Des lettres jusqu'alors inconnues du fondateur de la marque, Günther Wagner, à son successeur Fritz Beindorff ont été découvertes dans les archives de l'entreprise. Parmi les découvertes, on trouve également le blason original de la famille Wagner, qui était probablement déjà utilisé comme marque d'identification sur les aquarelles pour enfants avant 1873.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-dark&quot;&gt;Pelikan travaille &lt;span class=&quot;text-yellow&quot;&gt;avec soin et passion&lt;/span&gt; pour aider à améliorer le monde.&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;C'est Günther Wagner lui-même qui, sur la base de son emblème familial, a conçu le logo PELIKAN pour ses &quot;Petites couleurs de miel&quot;. Günther Wagner a pris le nombre de trois poussins dans le nid pour le logo de PELIKAN. Les couleurs au miel étaient un type d'aquarelle courant à l'époque, utilisant le miel comme liant. Selon une liste de prix datant de 1873, les petits pots ronds de couleur miel étaient proposés dans des boîtes en fer blanc de 12, 18 ou 24 couleurs différentes, les pots de peinture étant collés au métal de la boîte. Lors de la conception de la marque, Günther Wagner a abandonné la forme qu'il qualifiait d'&quot;ovale&quot; de l'écu qui représentait le pélican de son blason familial.&lt;/p&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Après la naissance d'un quatrième enfant Wagner, un autre poussin est apparu dans le nid - comme le montre la plus ancienne marque PELIKAN connue, qui a été enregistrée le 27 novembre 1878.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;La marque évolue &lt;br /&gt;avec son temps&lt;/h2&gt;
+&lt;p&gt;La marque Pelikan raconte toute une histoire, unie dans un seul symbole. C'est l'histoire de l'amour et de l'affection de la mère pélican pour son poussin, qui, comme nous le savons, ouvrira un jour ses ailes et volera. Ainsi, la marque Pelikan peut être comprise, depuis le début jusqu'à aujourd'hui, comme un symbole de l'histoire du succès de cette ancienne société allemande, une entreprise de classe mondiale.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Marque" />
+	</entry>
+	<entry>
+		<title>Notre histoire</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-lu/marque/histoire-de-pelikan.html"/>
+		<published>2021-02-11T20:04:01+00:00</published>
+		<updated>2021-02-11T20:04:01+00:00</updated>
+		<id>https://www.pelikan.com/fr-lu/marque/histoire-de-pelikan.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;header class=&quot;_history_header&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/banners/history/1800.png&quot; alt=&quot;Our history&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_header_img&quot; class=&quot;&quot; /&gt;&lt;/header&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_tm_Header&quot;&gt;
+&lt;h1 class=&quot;text-blue-dark text-center&quot;&gt;Notre histoire&lt;/h1&gt;
+&lt;div class=&quot;_TheTimeLine&quot;&gt;&lt;a href=&quot;https://www.pelikan.com/#1800&quot; class=&quot;_clickTm active&quot; data-header=&quot;/images/banners/history/1800.png&quot; data-timeline=&quot;1&quot;&gt;1800&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#1900&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/1900.png&quot; data-timeline=&quot;2&quot;&gt;1900&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#2000&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/2000.png&quot; data-timeline=&quot;3&quot;&gt;2000&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm1&quot; class=&quot;_th&quot;&gt;
+&lt;div class=&quot;_elements_history _fr_be&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1800/Timeline1800_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1838&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1838&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Carl Hornemann&lt;br /&gt;première usine d'encre&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;En 1832, Carl Hornemann a fondé une usine de couleurs et d'encres à Hanovre, en Allemagne. La tradition veut que la date de fondation soit le 28 avril 1838.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1842&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-h6&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h6&gt;Un succès précoce &lt;br /&gt;permet l'expansion&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-p&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;p&gt;Le 15 juin, Hornemann achète un terrain dans la région de Hainholz à Hanovre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-1&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1863&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1863&lt;/h3&gt;
+&lt;h6&gt;Engagement en faveur &lt;br /&gt;de l'éducation&lt;/h6&gt;
+&lt;p&gt;Günther Wagner est promu chimiste et directeur d'usine. Il reprend l'entreprise en 1871.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-3&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1878&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1878&lt;/h3&gt;
+&lt;h6&gt;Enregistrement de la marque &lt;br /&gt; le 27 novembre 1878&lt;/h6&gt;
+&lt;p&gt;Le pélican avec ses quatre poussins est l'un des plus anciens enregistrements de marque en Allemagne.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-4&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1873&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1873&lt;/h3&gt;
+&lt;h6&gt;Petites couleurs de miel&lt;/h6&gt;
+&lt;p&gt;Günther Wagner a conçu la marque figurative PELIKAN pour la &quot;Petite peinture au miel&quot;, en se basant sur son blason familial.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-5&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;img-box-6&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1881&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1881&lt;/h3&gt;
+&lt;h6&gt;Expansion des &lt;br /&gt;activités internationales&lt;/h6&gt;
+&lt;p&gt;Les halls de production ont été agrandis. L'entreprise a gagné 39 employés et Fritz Beindorff. Sa tâche consistait à visiter des clients en Autriche, en Russie et en Italie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-7&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1895&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1895&lt;/h3&gt;
+&lt;h6&gt;Fritz Beindorff prend la direction de l'entreprise&lt;/h6&gt;
+&lt;p&gt;Fritz Beindorff épouse la fille aînée de Günther Wagner en 1888 et reprend l'entreprise. Il a introduit une nouvelle gamme de produits de copie, d'estampage, de collage et d'effacement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1896&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1896&lt;/h3&gt;
+&lt;h6&gt;L'encre de Chine Pelikan &lt;br /&gt;devient un best-seller&lt;/h6&gt;
+&lt;p&gt;Pelikan a commencé à produire de l'encre de Chine et a acquis une position forte sur le marché.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-8&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1898&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1898&lt;/h3&gt;
+&lt;h6&gt;1er concours de posters&lt;/h6&gt;
+&lt;p&gt;Le premier concours d'affiches de 1889/99 est un succès retentissant pour l'entreprise, avec plus de 500 dessins soumis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-9&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm2&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history _fr_be&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1900/Timeline1900_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive_2.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line-1 d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1902&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1902&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2ème concours d'affiches&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;En raison du grand succès rencontré, un nouveau concours a été organisé en 1902, mais cette fois, neuf grandes entreprises ont participé au concours d'affiches.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1906&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1906&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1906&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Les nouvelles installations de production&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le nouveau bâtiment, aujourd'hui classé (13 000 mètres carrés), a été construit après que le site de l'ancien emplacement n'ait pu être agrandi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1912&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1912&lt;/h3&gt;
+&lt;h6&gt;Le dévouement à&lt;br /&gt; l'éducation&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_text-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;p&gt;Depuis 1921, le magazine Der Pelikan a soutenu pendant de nombreuses années les cours de peinture et de dessin dans les écoles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-pen&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 class=&quot;aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1929&lt;/h3&gt;
+&lt;h6&gt;Le premier stylo-plume&lt;/h6&gt;
+&lt;p&gt;L'année de naissance du stylo plume Pelikan. La &quot;marque&quot; extérieure est la bande marbrée verte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1922&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_img-pen&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1913&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1913&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;75ème anniversaire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La capacité de production de l'usine double. 1057 nouveaux ouvriers et employés sont embauchés. Le chiffre d'affaires s'élève désormais à 4,4 millions de marks-or.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1922&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1922&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Marque commerciale illustrée&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Une nouvelle marque moderne et distinctive s'imprime dans la mémoire collective des consommateurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1929&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1931&lt;/h3&gt;
+&lt;h6 class=&quot;pt-2&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La première boîte de peinture opaque&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan introduit la première boîte de peinture opaque sur le marché sous le nom de 735 D / 12, depuis lors, elle a été un bon compagnon pour de nombreux étudiants allemands au fil des ans.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1931&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1931&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1938&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;100ème anniversaire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;O.H.W. Hadanck conçoit le catalogue du 100e anniversaire ; il est également responsable de la refonte du logo, une icône qui restera pendant les 60 années suivantes. 7300 employés ont célébré dans les usines de Pelikan à travers le monde.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1960&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1960&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1960&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La naissance d'un classique&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le stylo Pelikano est présenté comme le fruit d'une étroite collaboration entre des professeurs d'écriture et des concepteurs de stylos plume.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1972&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img10.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1972&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1972&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Les premières effaceurs&lt;br /&gt;ont été lancé&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Tintentiger, a été produit comme une méthode facile et propre pour effacer l'encre bleue royale. En 1974, le nom a été changé en &quot;Pelikan Tintenblitz&quot; et en 1976, il est devenu &quot;Super-Pirat&quot;. C'est l'effaceur la plus vendue en Allemagne.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1973&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img11.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1973&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1973&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Déménagement dans une nouvelle usine&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La production d'instruments d'écriture est transférée à Peine/Voehrum, à 30 km à l'est de Hanovre. Aujourd'hui encore, les stylos, peintures et articles de papeterie Pelikan y sont produits.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1974&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img12.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1974&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1974&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Caractère initial simplifié&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan a développé l'écriture simplifiée pour débutants en coopération avec des éducateurs sur le terrain. Elle y a démontré, pour la première fois, sa compétence pédagogique en matière d'écriture manuscrite. Cela a rendu le rôle du stylo plume Pelikano encore plus important.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm3&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/2000/Timeline2000_Line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_img-2003&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2003&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2003&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nouveau complexe &lt;br /&gt;immobilier à Hanovre&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan déménage dans son nouveau bâtiment de bureaux sur la Werftstrasse à Hanovre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2008&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2008&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2008&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le système Griffix&lt;sup&gt;®&lt;/sup&gt; pour apprendre à écrire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;griffix&lt;sup&gt;®&lt;/sup&gt; est le premier concept de produit holistique qui accompagne le processus d'apprentissage de l'écriture dès le début. Pelikan reçoit le &quot;red dot design award&quot; et le prix ISPA très convoité pour le concept griffix&lt;sup&gt;®&lt;/sup&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2010&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2010&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2010&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;50 ans de Pelikano&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le stylo plume fête son 50e anniversaire ! Pour marquer l'occasion, une nouvelle version tendance du classique apparaît en rouge, bleu et vert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2011&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2011&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2011&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;L'encre Edelstein&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan a la plus longue histoire de production d'encre. Avec la collection d'encre Edelstein, Pelikan a apporté une nouvelle vie étincelante au monde de l'encre. Des ingrédients spéciaux assurent une écriture extra-douce et soignent le stylo-plume, contenus dans un flacon en verre de haute qualité.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2014&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2014&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2014&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Réunis sur le marché&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Avec effet au 1er mars 2014, Pelikan Holding AG a acquis la société de distribution allemande et autrichienne Herlitz PBS AG. L'entreprise possède désormais les marques Pelikan, Herlitz, Susy Card et Geha.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2017&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2017&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2017&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan TintenTurm&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le 29 mars 2017, la Pelikan TintenTurm (tour d'encre) a été ouverte au public, dans le quartier historique de Pelikan à Hanovre. Des espaces nouvellement conçus dans les trois catégories suivantes : boutique, musée et événements. Des aperçus fascinants sont donnés dans le monde de Pelikan, sur plus de 657 m².&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2018&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2018&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2018&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;180 ans de Pelikan&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;L'année 2018 a été particulière - le 28 avril, Pelikan a eu 180 ans, et l'époque sur laquelle Pelikan se penche n'a pas seulement été très longue, mais aussi très riche en événements.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2019&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2019&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2021&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Notre nouvelle vision, mission et valeurs ont été lancées cette année&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Créer l'égalité des chances d'apprendre et de grandir pour tous.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;header class=&quot;_history_header&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/banners/history/1800.png&quot; alt=&quot;Our history&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_header_img&quot; class=&quot;&quot; /&gt;&lt;/header&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_tm_Header&quot;&gt;
+&lt;h1 class=&quot;text-blue-dark text-center&quot;&gt;Notre histoire&lt;/h1&gt;
+&lt;div class=&quot;_TheTimeLine&quot;&gt;&lt;a href=&quot;https://www.pelikan.com/#1800&quot; class=&quot;_clickTm active&quot; data-header=&quot;/images/banners/history/1800.png&quot; data-timeline=&quot;1&quot;&gt;1800&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#1900&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/1900.png&quot; data-timeline=&quot;2&quot;&gt;1900&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#2000&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/2000.png&quot; data-timeline=&quot;3&quot;&gt;2000&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm1&quot; class=&quot;_th&quot;&gt;
+&lt;div class=&quot;_elements_history _fr_be&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1800/Timeline1800_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1838&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1838&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Carl Hornemann&lt;br /&gt;première usine d'encre&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;En 1832, Carl Hornemann a fondé une usine de couleurs et d'encres à Hanovre, en Allemagne. La tradition veut que la date de fondation soit le 28 avril 1838.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1842&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-h6&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h6&gt;Un succès précoce &lt;br /&gt;permet l'expansion&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-p&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;p&gt;Le 15 juin, Hornemann achète un terrain dans la région de Hainholz à Hanovre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-1&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1863&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1863&lt;/h3&gt;
+&lt;h6&gt;Engagement en faveur &lt;br /&gt;de l'éducation&lt;/h6&gt;
+&lt;p&gt;Günther Wagner est promu chimiste et directeur d'usine. Il reprend l'entreprise en 1871.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-3&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1878&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1878&lt;/h3&gt;
+&lt;h6&gt;Enregistrement de la marque &lt;br /&gt; le 27 novembre 1878&lt;/h6&gt;
+&lt;p&gt;Le pélican avec ses quatre poussins est l'un des plus anciens enregistrements de marque en Allemagne.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-4&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1873&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1873&lt;/h3&gt;
+&lt;h6&gt;Petites couleurs de miel&lt;/h6&gt;
+&lt;p&gt;Günther Wagner a conçu la marque figurative PELIKAN pour la &quot;Petite peinture au miel&quot;, en se basant sur son blason familial.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-5&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;img-box-6&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1881&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1881&lt;/h3&gt;
+&lt;h6&gt;Expansion des &lt;br /&gt;activités internationales&lt;/h6&gt;
+&lt;p&gt;Les halls de production ont été agrandis. L'entreprise a gagné 39 employés et Fritz Beindorff. Sa tâche consistait à visiter des clients en Autriche, en Russie et en Italie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-7&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1895&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1895&lt;/h3&gt;
+&lt;h6&gt;Fritz Beindorff prend la direction de l'entreprise&lt;/h6&gt;
+&lt;p&gt;Fritz Beindorff épouse la fille aînée de Günther Wagner en 1888 et reprend l'entreprise. Il a introduit une nouvelle gamme de produits de copie, d'estampage, de collage et d'effacement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1896&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1896&lt;/h3&gt;
+&lt;h6&gt;L'encre de Chine Pelikan &lt;br /&gt;devient un best-seller&lt;/h6&gt;
+&lt;p&gt;Pelikan a commencé à produire de l'encre de Chine et a acquis une position forte sur le marché.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-8&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1898&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1898&lt;/h3&gt;
+&lt;h6&gt;1er concours de posters&lt;/h6&gt;
+&lt;p&gt;Le premier concours d'affiches de 1889/99 est un succès retentissant pour l'entreprise, avec plus de 500 dessins soumis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-9&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm2&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history _fr_be&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1900/Timeline1900_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive_2.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line-1 d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1902&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1902&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2ème concours d'affiches&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;En raison du grand succès rencontré, un nouveau concours a été organisé en 1902, mais cette fois, neuf grandes entreprises ont participé au concours d'affiches.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1906&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1906&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1906&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Les nouvelles installations de production&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le nouveau bâtiment, aujourd'hui classé (13 000 mètres carrés), a été construit après que le site de l'ancien emplacement n'ait pu être agrandi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1912&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3&gt;1912&lt;/h3&gt;
+&lt;h6&gt;Le dévouement à&lt;br /&gt; l'éducation&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_text-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;p&gt;Depuis 1921, le magazine Der Pelikan a soutenu pendant de nombreuses années les cours de peinture et de dessin dans les écoles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-pen&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 class=&quot;aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1929&lt;/h3&gt;
+&lt;h6&gt;Le premier stylo-plume&lt;/h6&gt;
+&lt;p&gt;L'année de naissance du stylo plume Pelikan. La &quot;marque&quot; extérieure est la bande marbrée verte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1922&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_img-pen&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1913&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1913&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;75ème anniversaire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La capacité de production de l'usine double. 1057 nouveaux ouvriers et employés sont embauchés. Le chiffre d'affaires s'élève désormais à 4,4 millions de marks-or.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1922&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1922&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Marque commerciale illustrée&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Une nouvelle marque moderne et distinctive s'imprime dans la mémoire collective des consommateurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1929&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1931&lt;/h3&gt;
+&lt;h6 class=&quot;pt-2&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La première boîte de peinture opaque&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan introduit la première boîte de peinture opaque sur le marché sous le nom de 735 D / 12, depuis lors, elle a été un bon compagnon pour de nombreux étudiants allemands au fil des ans.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1931&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1931&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1938&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;100ème anniversaire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;O.H.W. Hadanck conçoit le catalogue du 100e anniversaire ; il est également responsable de la refonte du logo, une icône qui restera pendant les 60 années suivantes. 7300 employés ont célébré dans les usines de Pelikan à travers le monde.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1960&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1960&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1960&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La naissance d'un classique&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le stylo Pelikano est présenté comme le fruit d'une étroite collaboration entre des professeurs d'écriture et des concepteurs de stylos plume.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1972&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img10.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1972&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1972&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Les premières effaceurs&lt;br /&gt;ont été lancé&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Tintentiger, a été produit comme une méthode facile et propre pour effacer l'encre bleue royale. En 1974, le nom a été changé en &quot;Pelikan Tintenblitz&quot; et en 1976, il est devenu &quot;Super-Pirat&quot;. C'est l'effaceur la plus vendue en Allemagne.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1973&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img11.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1973&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1973&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Déménagement dans une nouvelle usine&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;La production d'instruments d'écriture est transférée à Peine/Voehrum, à 30 km à l'est de Hanovre. Aujourd'hui encore, les stylos, peintures et articles de papeterie Pelikan y sont produits.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1974&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img12.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1974&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1974&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Caractère initial simplifié&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan a développé l'écriture simplifiée pour débutants en coopération avec des éducateurs sur le terrain. Elle y a démontré, pour la première fois, sa compétence pédagogique en matière d'écriture manuscrite. Cela a rendu le rôle du stylo plume Pelikano encore plus important.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm3&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/2000/Timeline2000_Line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_img-2003&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2003&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2003&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nouveau complexe &lt;br /&gt;immobilier à Hanovre&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan déménage dans son nouveau bâtiment de bureaux sur la Werftstrasse à Hanovre.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2008&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2008&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2008&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le système Griffix&lt;sup&gt;®&lt;/sup&gt; pour apprendre à écrire&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;griffix&lt;sup&gt;®&lt;/sup&gt; est le premier concept de produit holistique qui accompagne le processus d'apprentissage de l'écriture dès le début. Pelikan reçoit le &quot;red dot design award&quot; et le prix ISPA très convoité pour le concept griffix&lt;sup&gt;®&lt;/sup&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2010&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2010&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2010&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;50 ans de Pelikano&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le stylo plume fête son 50e anniversaire ! Pour marquer l'occasion, une nouvelle version tendance du classique apparaît en rouge, bleu et vert.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2011&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2011&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2011&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;L'encre Edelstein&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan a la plus longue histoire de production d'encre. Avec la collection d'encre Edelstein, Pelikan a apporté une nouvelle vie étincelante au monde de l'encre. Des ingrédients spéciaux assurent une écriture extra-douce et soignent le stylo-plume, contenus dans un flacon en verre de haute qualité.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2014&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2014&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2014&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Réunis sur le marché&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Avec effet au 1er mars 2014, Pelikan Holding AG a acquis la société de distribution allemande et autrichienne Herlitz PBS AG. L'entreprise possède désormais les marques Pelikan, Herlitz, Susy Card et Geha.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2017&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2017&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2017&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan TintenTurm&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Le 29 mars 2017, la Pelikan TintenTurm (tour d'encre) a été ouverte au public, dans le quartier historique de Pelikan à Hanovre. Des espaces nouvellement conçus dans les trois catégories suivantes : boutique, musée et événements. Des aperçus fascinants sont donnés dans le monde de Pelikan, sur plus de 657 m².&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2018&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2018&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2018&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;180 ans de Pelikan&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;L'année 2018 a été particulière - le 28 avril, Pelikan a eu 180 ans, et l'époque sur laquelle Pelikan se penche n'a pas seulement été très longue, mais aussi très riche en événements.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2019&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2019&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2021&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Notre nouvelle vision, mission et valeurs ont été lancées cette année&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Créer l'égalité des chances d'apprendre et de grandir pour tous.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Marque" />
+	</entry>
+</feed>

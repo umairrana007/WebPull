@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/de/246-deutschland/unternehmen.feed</id>
+	<updated>2025-04-10T13:28:01+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/de/246-deutschland/unternehmen.feed?type=atom"/>
+	<entry>
+		<title>Pelikan Tinten Turm</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen/pelikan-tintenturm.html"/>
+		<published>2021-06-09T20:27:10+00:00</published>
+		<updated>2021-06-09T20:27:10+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen/pelikan-tintenturm.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<category term="Unternehmen" />
+	</entry>
+	<entry>
+		<title>Unternehmen</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen.html"/>
+		<published>2021-02-11T20:16:52+00:00</published>
+		<updated>2021-02-11T20:16:52+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen.html</id>
+		<author>
+			<name>Pelikan</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_company_home d-nones&quot;&gt;
+&lt;div class=&quot;_sec_two&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-4 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Weltweite Präsenz&lt;/h2&gt;
+&lt;p&gt;Die Pelikan Group ist mit 16 Landes-und Vertriebsgesellschaften und vier Produktionsstätten global aufgestellt.&lt;/p&gt;
+&lt;p&gt;Rund 1.300 Mitarbeiter sind für die Gruppe tätig.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=193&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-sm-block d-none&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 order-sm-1 order-0 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_2.jpg&quot; alt=&quot;&quot; width=&quot;670&quot; height=&quot;468&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_three bg-blue-num&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_3.jpg&quot; alt=&quot;&quot; width=&quot;585&quot; height=&quot;516&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text_blue_flex&quot;&gt;Unsere Mission, Vision &amp;amp; Werte&lt;/h2&gt;
+&lt;p class=&quot;text-white&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;color: #003366;&quot;&gt;Grundlagen des Unternehmenserfolgs sind die strategische Ausrichtung, die hohe Leistungsfähigkeit unserer Mitarbeiter und die Erreichung unserer Ziele. Die Leitsätze der Pelikan Group und die gelebte Unternehmenskultur dahinter verbinden uns weltweit.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=196&quot; class=&quot;btn btn-white&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Nachhaltigkeit&lt;/h2&gt;
+&lt;p&gt;Unsere Ziele, um unsere Umwelt für die nächsten Generationen zu bewahren.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=197&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_4.jpg&quot; alt=&quot;&quot; width=&quot;554&quot; height=&quot;497&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_five bg-blue-num d-none&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_iconHolding.svg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text_blue_flex&quot;&gt;Pelikan Holding AG&lt;/h2&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Wir stellen Ihnen gerne unsere Geschäftsberichte zur Verfügung sowie weitere Meldungen, Wirtschaftsinformationen und einen Blick in die Börse.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=202&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_six&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h2&gt;Pelikan Tintenturm&lt;/h2&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Mitten im historischen Pelikan-Viertel warten legendäre Klassiker, innovative Produktneuheiten, wechselnde Ausstellungen und Veranstaltungen auf Sie. Die einmalige Atmosphäre verleiht unserem Werksverkauf und den Events im Pelikan TintenTurm ein ganz besonderes Flair.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=201&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_5.jpg&quot; alt=&quot;&quot; width=&quot;584&quot; height=&quot;517&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;_company_home d-nones&quot;&gt;
+&lt;div class=&quot;_sec_two&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-4 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Weltweite Präsenz&lt;/h2&gt;
+&lt;p&gt;Die Pelikan Group ist mit 16 Landes-und Vertriebsgesellschaften und vier Produktionsstätten global aufgestellt.&lt;/p&gt;
+&lt;p&gt;Rund 1.300 Mitarbeiter sind für die Gruppe tätig.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=193&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-sm-block d-none&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-7 order-sm-1 order-0 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_2.jpg&quot; alt=&quot;&quot; width=&quot;670&quot; height=&quot;468&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_three bg-blue-num&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_3.jpg&quot; alt=&quot;&quot; width=&quot;585&quot; height=&quot;516&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text_blue_flex&quot;&gt;Unsere Mission, Vision &amp;amp; Werte&lt;/h2&gt;
+&lt;p class=&quot;text-white&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;color: #003366;&quot;&gt;Grundlagen des Unternehmenserfolgs sind die strategische Ausrichtung, die hohe Leistungsfähigkeit unserer Mitarbeiter und die Erreichung unserer Ziele. Die Leitsätze der Pelikan Group und die gelebte Unternehmenskultur dahinter verbinden uns weltweit.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=196&quot; class=&quot;btn btn-white&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Nachhaltigkeit&lt;/h2&gt;
+&lt;p&gt;Unsere Ziele, um unsere Umwelt für die nächsten Generationen zu bewahren.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=197&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_4.jpg&quot; alt=&quot;&quot; width=&quot;554&quot; height=&quot;497&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_five bg-blue-num d-none&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_iconHolding.svg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text_blue_flex&quot;&gt;Pelikan Holding AG&lt;/h2&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Wir stellen Ihnen gerne unsere Geschäftsberichte zur Verfügung sowie weitere Meldungen, Wirtschaftsinformationen und einen Blick in die Börse.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=202&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_six&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h2&gt;Pelikan Tintenturm&lt;/h2&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;Mitten im historischen Pelikan-Viertel warten legendäre Klassiker, innovative Produktneuheiten, wechselnde Ausstellungen und Veranstaltungen auf Sie. Die einmalige Atmosphäre verleiht unserem Werksverkauf und den Events im Pelikan TintenTurm ein ganz besonderes Flair.&lt;/p&gt;
+&lt;a href=&quot;https://www.pelikan.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=201&quot; class=&quot;btn btn-outlined-flex&quot;&gt;Mehr sehen&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/Company_image_5.jpg&quot; alt=&quot;&quot; width=&quot;584&quot; height=&quot;517&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Unternehmen" />
+	</entry>
+	<entry>
+		<title>Nachhaltigkeit</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen/nachhaltigkeit.html"/>
+		<published>2021-02-11T20:14:38+00:00</published>
+		<updated>2021-02-11T20:14:38+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen/nachhaltigkeit.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;h2 style=&quot;text-align: center;&quot;&gt;Zum Erhalt unserer Umwelt für nächste Generationen&lt;/h2&gt;
+</summary>
+		<content type="html">&lt;h2 style=&quot;text-align: center;&quot;&gt;Zum Erhalt unserer Umwelt für nächste Generationen&lt;/h2&gt;
+</content>
+		<category term="Unternehmen" />
+	</entry>
+	<entry>
+		<title>Unsere Mission Vision und Werte</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen/vision.html"/>
+		<published>2021-02-11T20:14:13+00:00</published>
+		<updated>2021-02-11T20:14:13+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen/vision.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_our_mvv&quot;&gt;
+&lt;div class=&quot;_sec_one&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-8 text-center&quot;&gt;
+&lt;h2&gt;Unsere Vision&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_pelikanCare.svg&quot; alt=&quot;&quot; width=&quot;290&quot; height=&quot;162&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;p&gt;Wir schaffen gleiche Chancen, um Lernen und Wachsen für jeden zu ermöglichen&lt;span class=&quot;text-yellow&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_two&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-4 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_pelikan.svg&quot; alt=&quot;Pelikan&quot; width=&quot;190&quot; height=&quot;41&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;h2&gt;Mission&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Wir stellen für noch mehr Menschen zuverlässige, gut durchdachte Schreibwarenprodukte und -lösungen bereit, die mit Know-how, Leidenschaft und Verantwortung entwickelt wurden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 text-center d-sm-block d-none&quot;&gt;&lt;span class=&quot;_line_ver&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_herlitz.svg&quot; alt=&quot;Herlitz&quot; width=&quot;168&quot; height=&quot;41&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;h2&gt;Mission&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Wir bieten praktische und nachhaltigere Produkte in den Bereichen Büro, Textil und Papier für einen bunteren Alltag.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;d-none d-sm-block&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_three&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5 text-center&quot;&gt;
+&lt;h2&gt;Unsere Werte&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Alle unsere Handlungen, Entscheidungen und Beziehungen sind durch einen gemeinsamen Wert und ein Leitprinzip definiert: &lt;span&gt;Pelikan Cares.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_one&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Unsere Tradition&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_heritage.svg&quot; alt=&quot;&quot; width=&quot;195&quot; height=&quot;119&quot; class=&quot;img-fluid _one&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir berücksichtigen die langjährige Geschichte unserer Marken und finden Inspiration in unserer Tradition.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_two&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2 class=&quot;text-blue-flex&quot;&gt;Unsere Produkte&lt;/h2&gt;
+&lt;/div&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_products.svg&quot; alt=&quot;&quot; width=&quot;127&quot; height=&quot;180&quot; class=&quot;img-fluid _two&quot; /&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir arbeiten mit Leidenschaft, Know-how und Engagement, um innovative und qualitativ hochwertige Produkte zu schaffen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_three&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Menschen&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_people.svg&quot; alt=&quot;&quot; width=&quot;171&quot; height=&quot;115&quot; class=&quot;img-fluid _three&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir gehen respektvoll und wertschätzend mit unseren Kollegen, Kunden und Geschäftspartnern um, unabhängig von Geschlecht und Herkunft. Wir arbeiten mit Integrität und als Team.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_four&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Lernen &amp;amp; Bildung&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_learning.svg&quot; alt=&quot;&quot; width=&quot;175&quot; height=&quot;128&quot; class=&quot;img-fluid _four&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir wollen kontinuierlich daran arbeiten, unsere Produkte und Lösungen möglichst vielen Menschen zugänglich zu machen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_five&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Unsere Erde&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_planet.svg&quot; alt=&quot;&quot; width=&quot;233&quot; height=&quot;124&quot; class=&quot;img-fluid _five&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir hinterfragen ständig die Wege der Herstellung und des Vertriebs unserer Produkte, mit dem Ziel, jeden Tag ein nachhaltigeres Unternehmen zu sein.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;_our_mvv&quot;&gt;
+&lt;div class=&quot;_sec_one&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-8 text-center&quot;&gt;
+&lt;h2&gt;Unsere Vision&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_pelikanCare.svg&quot; alt=&quot;&quot; width=&quot;290&quot; height=&quot;162&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;p&gt;Wir schaffen gleiche Chancen, um Lernen und Wachsen für jeden zu ermöglichen&lt;span class=&quot;text-yellow&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_two&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-4 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_pelikan.svg&quot; alt=&quot;Pelikan&quot; width=&quot;190&quot; height=&quot;41&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;h2&gt;Mission&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Wir stellen für noch mehr Menschen zuverlässige, gut durchdachte Schreibwarenprodukte und -lösungen bereit, die mit Know-how, Leidenschaft und Verantwortung entwickelt wurden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 text-center d-sm-block d-none&quot;&gt;&lt;span class=&quot;_line_ver&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 text-center&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/Logo_herlitz.svg&quot; alt=&quot;Herlitz&quot; width=&quot;168&quot; height=&quot;41&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;h2&gt;Mission&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Wir bieten praktische und nachhaltigere Produkte in den Bereichen Büro, Textil und Papier für einen bunteren Alltag.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;d-none d-sm-block&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_three&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-5 text-center&quot;&gt;
+&lt;h2&gt;Unsere Werte&lt;/h2&gt;
+&lt;p class=&quot;text-blue-flex&quot;&gt;Alle unsere Handlungen, Entscheidungen und Beziehungen sind durch einen gemeinsamen Wert und ein Leitprinzip definiert: &lt;span&gt;Pelikan Cares.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_one&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Unsere Tradition&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_heritage.svg&quot; alt=&quot;&quot; width=&quot;195&quot; height=&quot;119&quot; class=&quot;img-fluid _one&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir berücksichtigen die langjährige Geschichte unserer Marken und finden Inspiration in unserer Tradition.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_two&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2 class=&quot;text-blue-flex&quot;&gt;Unsere Produkte&lt;/h2&gt;
+&lt;/div&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_products.svg&quot; alt=&quot;&quot; width=&quot;127&quot; height=&quot;180&quot; class=&quot;img-fluid _two&quot; /&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir arbeiten mit Leidenschaft, Know-how und Engagement, um innovative und qualitativ hochwertige Produkte zu schaffen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_three&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Menschen&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_people.svg&quot; alt=&quot;&quot; width=&quot;171&quot; height=&quot;115&quot; class=&quot;img-fluid _three&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir gehen respektvoll und wertschätzend mit unseren Kollegen, Kunden und Geschäftspartnern um, unabhängig von Geschlecht und Herkunft. Wir arbeiten mit Integrität und als Team.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_four&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Lernen &amp;amp; Bildung&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_learning.svg&quot; alt=&quot;&quot; width=&quot;175&quot; height=&quot;128&quot; class=&quot;img-fluid _four&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir wollen kontinuierlich daran arbeiten, unsere Produkte und Lösungen möglichst vielen Menschen zugänglich zu machen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-10&quot;&gt;
+&lt;div class=&quot;_box&quot;&gt;
+&lt;div class=&quot;_five&quot;&gt;
+&lt;h4&gt;&quot;Care&quot; für&lt;/h4&gt;
+&lt;h2&gt;Unsere Erde&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/mision_vision/icon_planet.svg&quot; alt=&quot;&quot; width=&quot;233&quot; height=&quot;124&quot; class=&quot;img-fluid _five&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_txt&quot;&gt;
+&lt;p&gt;Wir hinterfragen ständig die Wege der Herstellung und des Vertriebs unserer Produkte, mit dem Ziel, jeden Tag ein nachhaltigeres Unternehmen zu sein.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Unternehmen" />
+	</entry>
+	<entry>
+		<title>Pelikan Group</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen/pelikan-group.html"/>
+		<published>2021-02-11T20:08:21+00:00</published>
+		<updated>2021-02-11T20:08:21+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen/pelikan-group.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_p_pelikan_group _p_group_new&quot;&gt;
+&lt;div class=&quot;_sec_one&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4 text-center pl-0 pr-0 pl-sm-3 pr-sm-3&quot;&gt;
+&lt;div class=&quot;_video-wrapper_player _pelikano&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com//images/company/pelikan_group/pelikano.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;muted&quot; width=&quot;500&quot; height=&quot;500&quot; playsinline=&quot;playsinline&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 offset-sm-1 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;h1 class=&quot;title-blue&quot;&gt;Pelikan Group&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&quot;text-purple text-bold&quot;&gt;Die Pelikan Group GmbH&lt;/span&gt; mit Verwaltungssitz in Falkensee bei Berlin zählt zu den führenden Markenanbietern von Qualitätsprodukten aus den Bereichen Papier-, Büro- und Schreibwaren (PBS). Das Sortiment &lt;span class=&quot;text-purple text-bold&quot;&gt;umfasst mehr als 12.000 Artikel&lt;/span&gt; vom Anspitzer über Schulranzen bis zu hochwertigen Schreibgeräten. Das attraktive und vielfältige Produktangebot unterteilt sich in die Segmente &quot;Schreiben/Malen/Basteln&quot;, &quot;Büro&quot;, &quot;Ranzen/Taschen/Schulrucksäcke&quot; und &quot;Hochwertiges Schreiben&quot;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _sec_one_one&quot;&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;p&gt;Neben diesen Produktbereichen besitzt die Pelikan Group GmbH ein Dienstleistungsgeschäft, mit dem Logistiklösungen erbracht werden. Kernstück des Unternehmens sind die Marken Pelikan und herlitz, die in Deutschland über eine hohe Markenbekanntheit verfügen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0 pl-0 pr-0 pl-sm-3 pr-sm-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/2015-06-10_Gebaeude_5811-min-min.JPG&quot; alt=&quot;2015 06 10 Gebaeude 5811 min min&quot; width=&quot;4256&quot; height=&quot;2832&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_r_bg_blue&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/PelikanGrup_bannerImages_GER.jpg&quot; alt=&quot;PelikanGrup bannerImages de&quot; class=&quot;img-fluid d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com//images/group/p_group_items_banner.png&quot; alt=&quot;&quot; class=&quot;img-fluid d-block d-sm-none&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_two bg_light_silver&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-6 pl-0 pr-0 pl-sm-0 pr-sm-3&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/PelikanGroup_imag_3.jpg&quot; alt=&quot;Pelikanos animation 500x500&quot; width=&quot;670&quot; height=&quot;468&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;h3 class=&quot;text-blue-flex&quot;&gt;Global Player&lt;/h3&gt;
+&lt;p&gt;Das internationale Markenartikelunternehmen mit einer traditionsreichen, über 100-jährigen Firmengeschichte ist heute mit 15 Landes- und Vertriebsgesellschaften in Deutschland, Argentinien, Kolumbien, Mexiko, Belgien, Schweiz, Italien, Polen, Ungarn, Tschechien, Bulgarien, Rumänien, Vereinigte Arabische Emirate (VAE), Japan und Taiwan global aufgestellt. Neben einer Produktionsstätte in Deutschland über die Schwestergesellschaft in Vöhrum bei Hannover fertigt die Pelikan Gruppe auch in Mexiko, Kolumbien und Polen. Die Produkte werden in nahezu alle Länder der Welt geliefert.&lt;/p&gt;
+&lt;p&gt;Geschäftsführung: Eric Joan&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_our_brands&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 text-center&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Die Pelikan Vertriebsgesellschaft hat zum 1. März 2014 die Vertriebs- und Marketingaktivitäten der Herlitz PBS AG für Deutschland und Österreich übernommen.&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2 class=&quot;text-blue&quot;&gt;Unsere Marken&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;p&gt;Informieren Sie sich über die Marken durch Klicken auf das entsprechende Logo:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_logos&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;_trades&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://www.pelikan.com//de/marke/die-marke-pelikan.html&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/group/logo-pelikan.png&quot; alt=&quot;Logo Pelikan&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.herlitz.de/herlitzhp/Pulsar/de.CMS.display.1./herlitz&quot; target=&quot;_new&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/group/herlitz.png&quot; alt=&quot;Logo Herlitz&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_1 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-12 col-sm-4&quot;&gt;
+&lt;div class=&quot;_des_statics _page_group&quot;&gt;
+&lt;h3 class=&quot;d-none&quot;&gt;Pelikan Group Gmbh&lt;/h3&gt;
+&lt;h1&gt;Structure&lt;/h1&gt;
+&lt;p&gt;From March 1, 2014 on, the company Pelikan will be taking over the distribution and marketing activities of the company Herlitz PBS AG for Germany and Austria.&lt;/p&gt;
+&lt;p&gt;Alongside with Pelikan and Herlitz, the brands Geha and SusyCard top off the product line of the Pelikan Group.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-2&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-5 my-ms-0 col-sm-3&quot;&gt;
+&lt;div class=&quot;_des_statics _col2 _page_group&quot;&gt;
+&lt;h2&gt;Production&lt;br /&gt; &lt;span&gt;&amp;amp;&lt;/span&gt; Distribution&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/fab_truck.svg&quot; alt=&quot;&quot; class=&quot;_fab_truck&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7 col-sm-3&quot;&gt;
+&lt;div class=&quot;_des_statics _col_3 _page_group&quot;&gt;
+&lt;div class=&quot;p_g_sec_6&quot;&gt;
+&lt;h2&gt;3.24%&lt;/h2&gt;
+&lt;h5&gt;Argentinien&lt;/h5&gt;
+&lt;p&gt;Pelikan Argentina S.A.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p_g_sec_6&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Polen&lt;/h5&gt;
+&lt;p&gt;Herlitz Spolka z.o.o.&lt;/p&gt;
+&lt;h5&gt;Mexiko&lt;/h5&gt;
+&lt;p&gt;Pelikan México S.A. de C.V.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_2 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_1&quot;&gt;
+&lt;h2&gt;Service&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/hans.svg&quot; alt=&quot;&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_2&quot; style=&quot;max-width: 200px;&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;eCom Logistik GmbH &amp;amp; Co.KG&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;eCom Logistik Verwaltungs GmbH&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Procurement Sdn Bhd&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_3&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Inaktiv&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/Icon_inaktiv.svg&quot; alt=&quot;&quot; width=&quot;161&quot; height=&quot;167&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_4&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5 class=&quot;text-yellow&quot;&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Herlitz Papierverarbeitung GmbH&lt;/p&gt;
+&lt;h5 class=&quot;text-yellow&quot;&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Convex Schreibwaren-Handels GmbH&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_3 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_1&quot;&gt;
+&lt;h2&gt;Distribution&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/truck.svg&quot; alt=&quot;&quot; width=&quot;161&quot; height=&quot;103&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_2&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Vertriebsgesellschaft mbH &amp;amp; Co.KG&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Vertrieb Verwaltungs- GmbH&lt;/p&gt;
+&lt;h5&gt;Belgien&lt;/h5&gt;
+&lt;p&gt;Pelikan N.V./S.A.&lt;/p&gt;
+&lt;h5&gt;Italien&lt;/h5&gt;
+&lt;p&gt;Pelikan Italia S.p.A.&lt;/p&gt;
+&lt;h5&gt;Bulgarien&lt;/h5&gt;
+&lt;p&gt;Herlitz Bulgaria EooD&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-6&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_3&quot;&gt;
+&lt;h5&gt;Ungam&lt;/h5&gt;
+&lt;p&gt;Herlitz Hungária Kft.&lt;/p&gt;
+&lt;h5&gt;Spanien&lt;/h5&gt;
+&lt;p&gt;Pelikan S.A.&lt;/p&gt;
+&lt;h5&gt;Tschechien&lt;/h5&gt;
+&lt;p&gt;Herlitz Spols.s.o.&lt;/p&gt;
+&lt;h5&gt;Japan&lt;/h5&gt;
+&lt;p&gt;Pelikan Japan K.K.&lt;/p&gt;
+&lt;h5&gt;Vereinigte Arabische Emirate&lt;/h5&gt;
+&lt;p&gt;Pelikan Middle East FZE&lt;/p&gt;
+&lt;h5&gt;Taiwan&lt;/h5&gt;
+&lt;p&gt;Pelikan Taiwan Co.,ltd.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-6&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_4&quot;&gt;
+&lt;h2&gt;60%&lt;/h2&gt;
+&lt;h5&gt;Slowakel&lt;/h5&gt;
+&lt;p&gt;Herlitz Slovakia s.s.o.&lt;/p&gt;
+&lt;h2&gt;51%&lt;/h2&gt;
+&lt;h5&gt;RumÄnien&lt;/h5&gt;
+&lt;p&gt;Herlitz RomÂnia S.R.L.&lt;/p&gt;
+&lt;h2&gt;3.24%&lt;/h2&gt;
+&lt;h5&gt;Schweiz&lt;/h5&gt;
+&lt;p&gt;Pelikan (Schweiz) AG&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_map&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-12 text-center&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;_p_pelikan_group _p_group_new&quot;&gt;
+&lt;div class=&quot;_sec_one&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-4 text-center pl-0 pr-0 pl-sm-3 pr-sm-3&quot;&gt;
+&lt;div class=&quot;_video-wrapper_player _pelikano&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com//images/company/pelikan_group/pelikano.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;muted&quot; width=&quot;500&quot; height=&quot;500&quot; playsinline=&quot;playsinline&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 offset-sm-1 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;h1 class=&quot;title-blue&quot;&gt;Pelikan Group&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&quot;text-purple text-bold&quot;&gt;Die Pelikan Group GmbH&lt;/span&gt; mit Verwaltungssitz in Falkensee bei Berlin zählt zu den führenden Markenanbietern von Qualitätsprodukten aus den Bereichen Papier-, Büro- und Schreibwaren (PBS). Das Sortiment &lt;span class=&quot;text-purple text-bold&quot;&gt;umfasst mehr als 12.000 Artikel&lt;/span&gt; vom Anspitzer über Schulranzen bis zu hochwertigen Schreibgeräten. Das attraktive und vielfältige Produktangebot unterteilt sich in die Segmente &quot;Schreiben/Malen/Basteln&quot;, &quot;Büro&quot;, &quot;Ranzen/Taschen/Schulrucksäcke&quot; und &quot;Hochwertiges Schreiben&quot;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _sec_one_one&quot;&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 order-sm-0 order-1 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;p&gt;Neben diesen Produktbereichen besitzt die Pelikan Group GmbH ein Dienstleistungsgeschäft, mit dem Logistiklösungen erbracht werden. Kernstück des Unternehmens sind die Marken Pelikan und herlitz, die in Deutschland über eine hohe Markenbekanntheit verfügen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 order-sm-1 order-0 pl-0 pr-0 pl-sm-3 pr-sm-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/2015-06-10_Gebaeude_5811-min-min.JPG&quot; alt=&quot;2015 06 10 Gebaeude 5811 min min&quot; width=&quot;4256&quot; height=&quot;2832&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_r_bg_blue&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/PelikanGrup_bannerImages_GER.jpg&quot; alt=&quot;PelikanGrup bannerImages de&quot; class=&quot;img-fluid d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com//images/group/p_group_items_banner.png&quot; alt=&quot;&quot; class=&quot;img-fluid d-block d-sm-none&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_two bg_light_silver&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-6 pl-0 pr-0 pl-sm-0 pr-sm-3&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/PelikanGroup_imag_3.jpg&quot; alt=&quot;Pelikanos animation 500x500&quot; width=&quot;670&quot; height=&quot;468&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;h3 class=&quot;text-blue-flex&quot;&gt;Global Player&lt;/h3&gt;
+&lt;p&gt;Das internationale Markenartikelunternehmen mit einer traditionsreichen, über 100-jährigen Firmengeschichte ist heute mit 15 Landes- und Vertriebsgesellschaften in Deutschland, Argentinien, Kolumbien, Mexiko, Belgien, Schweiz, Italien, Polen, Ungarn, Tschechien, Bulgarien, Rumänien, Vereinigte Arabische Emirate (VAE), Japan und Taiwan global aufgestellt. Neben einer Produktionsstätte in Deutschland über die Schwestergesellschaft in Vöhrum bei Hannover fertigt die Pelikan Gruppe auch in Mexiko, Kolumbien und Polen. Die Produkte werden in nahezu alle Länder der Welt geliefert.&lt;/p&gt;
+&lt;p&gt;Geschäftsführung: Eric Joan&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_our_brands&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 text-center&quot;&gt;
+&lt;div class=&quot;_des_statics&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Die Pelikan Vertriebsgesellschaft hat zum 1. März 2014 die Vertriebs- und Marketingaktivitäten der Herlitz PBS AG für Deutschland und Österreich übernommen.&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2 class=&quot;text-blue&quot;&gt;Unsere Marken&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;p&gt;Informieren Sie sich über die Marken durch Klicken auf das entsprechende Logo:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_logos&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-11&quot;&gt;
+&lt;div class=&quot;_trades&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://www.pelikan.com//de/marke/die-marke-pelikan.html&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/group/logo-pelikan.png&quot; alt=&quot;Logo Pelikan&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.herlitz.de/herlitzhp/Pulsar/de.CMS.display.1./herlitz&quot; target=&quot;_new&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/group/herlitz.png&quot; alt=&quot;Logo Herlitz&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_1 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-12 col-sm-4&quot;&gt;
+&lt;div class=&quot;_des_statics _page_group&quot;&gt;
+&lt;h3 class=&quot;d-none&quot;&gt;Pelikan Group Gmbh&lt;/h3&gt;
+&lt;h1&gt;Structure&lt;/h1&gt;
+&lt;p&gt;From March 1, 2014 on, the company Pelikan will be taking over the distribution and marketing activities of the company Herlitz PBS AG for Germany and Austria.&lt;/p&gt;
+&lt;p&gt;Alongside with Pelikan and Herlitz, the brands Geha and SusyCard top off the product line of the Pelikan Group.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-2&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-5 my-ms-0 col-sm-3&quot;&gt;
+&lt;div class=&quot;_des_statics _col2 _page_group&quot;&gt;
+&lt;h2&gt;Production&lt;br /&gt; &lt;span&gt;&amp;amp;&lt;/span&gt; Distribution&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/fab_truck.svg&quot; alt=&quot;&quot; class=&quot;_fab_truck&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7 col-sm-3&quot;&gt;
+&lt;div class=&quot;_des_statics _col_3 _page_group&quot;&gt;
+&lt;div class=&quot;p_g_sec_6&quot;&gt;
+&lt;h2&gt;3.24%&lt;/h2&gt;
+&lt;h5&gt;Argentinien&lt;/h5&gt;
+&lt;p&gt;Pelikan Argentina S.A.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p_g_sec_6&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Polen&lt;/h5&gt;
+&lt;p&gt;Herlitz Spolka z.o.o.&lt;/p&gt;
+&lt;h5&gt;Mexiko&lt;/h5&gt;
+&lt;p&gt;Pelikan México S.A. de C.V.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_2 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_1&quot;&gt;
+&lt;h2&gt;Service&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/hans.svg&quot; alt=&quot;&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_2&quot; style=&quot;max-width: 200px;&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;eCom Logistik GmbH &amp;amp; Co.KG&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;eCom Logistik Verwaltungs GmbH&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Procurement Sdn Bhd&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_3&quot;&gt;
+&lt;h2 class=&quot;text-yellow&quot;&gt;Inaktiv&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/Icon_inaktiv.svg&quot; alt=&quot;&quot; width=&quot;161&quot; height=&quot;167&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_4&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5 class=&quot;text-yellow&quot;&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Herlitz Papierverarbeitung GmbH&lt;/p&gt;
+&lt;h5 class=&quot;text-yellow&quot;&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Convex Schreibwaren-Handels GmbH&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_spacers_block _sec_3 d-none&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-3 col-5&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_1&quot;&gt;
+&lt;h2&gt;Distribution&lt;/h2&gt;
+&lt;img src=&quot;https://www.pelikan.com//images/pelikan/group/truck.svg&quot; alt=&quot;&quot; width=&quot;161&quot; height=&quot;103&quot; class=&quot;_pg_img_services img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-7&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_2&quot;&gt;
+&lt;h2&gt;100%&lt;/h2&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Vertriebsgesellschaft mbH &amp;amp; Co.KG&lt;/p&gt;
+&lt;h5&gt;Deutschland&lt;/h5&gt;
+&lt;p&gt;Pelikan Vertrieb Verwaltungs- GmbH&lt;/p&gt;
+&lt;h5&gt;Belgien&lt;/h5&gt;
+&lt;p&gt;Pelikan N.V./S.A.&lt;/p&gt;
+&lt;h5&gt;Italien&lt;/h5&gt;
+&lt;p&gt;Pelikan Italia S.p.A.&lt;/p&gt;
+&lt;h5&gt;Bulgarien&lt;/h5&gt;
+&lt;p&gt;Herlitz Bulgaria EooD&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-6&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_3&quot;&gt;
+&lt;h5&gt;Ungam&lt;/h5&gt;
+&lt;p&gt;Herlitz Hungária Kft.&lt;/p&gt;
+&lt;h5&gt;Spanien&lt;/h5&gt;
+&lt;p&gt;Pelikan S.A.&lt;/p&gt;
+&lt;h5&gt;Tschechien&lt;/h5&gt;
+&lt;p&gt;Herlitz Spols.s.o.&lt;/p&gt;
+&lt;h5&gt;Japan&lt;/h5&gt;
+&lt;p&gt;Pelikan Japan K.K.&lt;/p&gt;
+&lt;h5&gt;Vereinigte Arabische Emirate&lt;/h5&gt;
+&lt;p&gt;Pelikan Middle East FZE&lt;/p&gt;
+&lt;h5&gt;Taiwan&lt;/h5&gt;
+&lt;p&gt;Pelikan Taiwan Co.,ltd.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-6&quot;&gt;
+&lt;div class=&quot;_pg_d_1 _col_4&quot;&gt;
+&lt;h2&gt;60%&lt;/h2&gt;
+&lt;h5&gt;Slowakel&lt;/h5&gt;
+&lt;p&gt;Herlitz Slovakia s.s.o.&lt;/p&gt;
+&lt;h2&gt;51%&lt;/h2&gt;
+&lt;h5&gt;RumÄnien&lt;/h5&gt;
+&lt;p&gt;Herlitz RomÂnia S.R.L.&lt;/p&gt;
+&lt;h2&gt;3.24%&lt;/h2&gt;
+&lt;h5&gt;Schweiz&lt;/h5&gt;
+&lt;p&gt;Pelikan (Schweiz) AG&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_map&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-12 text-center&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Unternehmen" />
+	</entry>
+	<entry>
+		<title>Pelikan Weltweit</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de/unternehmen/standorte.html"/>
+		<published>2021-02-11T18:46:58+00:00</published>
+		<updated>2021-02-11T18:46:58+00:00</updated>
+		<id>https://www.pelikan.com/de/unternehmen/standorte.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/map_wordwide.png&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/group/map_wordwide.png&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Unternehmen" />
+	</entry>
+</feed>

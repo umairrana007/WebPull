@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Psaní - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/cs/produkty/psani.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 10:29:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/cs/produkty/psani.feed?type=rss"/>
+		<language>cs-cz</language>
+		<item>
+			<title>griffix® Plnicí pero</title>
+			<link>https://www.pelikan.com/cs/produkty/psani/4554-griffix-plnici-pero.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/cs/produkty/psani/4554-griffix-plnici-pero.html</guid>
+			<description><![CDATA[<p><img src="https://www.pelikan.com/images/category/writing/product/griffix/Product_intro_description_400x400_Schreiben_griffix_Füller_2.png" /></p><h2 class="text-blue-title">griffix® Plnicí pero</h2>
+<p>Plnicí pero je 4. úroveň čtyřstupňového systému učení se psaní grifixů® - první třída ve výuce psaní.</p>]]></description>
+			<category>Psaní</category>
+			<pubDate>Tue, 20 Jul 2021 16:54:44 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

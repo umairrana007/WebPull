@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-ch">
+	<title type="text">Coller - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides.feed</id>
+	<updated>2025-04-10T13:27:06+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides.feed?type=atom"/>
+	<entry>
+		<title>Colle pailletée en tube</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3789-colle-pailletee-en-tube.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3789-colle-pailletee-en-tube.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Colle pour décorer le tissu, le bois, le papier, le carton, le caoutchouc et d'autres matériaux.&lt;br /&gt; Excellente adhérence.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Colle pour décorer le tissu, le bois, le papier, le carton, le caoutchouc et d'autres matériaux.&lt;br /&gt; Excellente adhérence.&lt;/p&gt;</content>
+		<category term="Colles liquides" />
+	</entry>
+	<entry>
+		<title>Colle pailletée en flacon</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3790-colle-pailletee-en-flacon.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3790-colle-pailletee-en-flacon.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Colle pour décorer le tissu, le bois, le papier, le carton, le caoutchouc et d'autres matériaux.&lt;br /&gt; Excellente adhérence.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Colle pour décorer le tissu, le bois, le papier, le carton, le caoutchouc et d'autres matériaux.&lt;br /&gt; Excellente adhérence.&lt;/p&gt;</content>
+		<category term="Colles liquides" />
+	</entry>
+	<entry>
+		<title>Colle de bricolage PELIFIX®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3876-colle-de-bricolage-pelifix.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3876-colle-de-bricolage-pelifix.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;Avec notre colle de bricolage PELIFIX&lt;sup&gt;®&lt;/sup&gt;, chaque heure de bricolage devient une véritable expérience.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Avec notre colle de bricolage PELIFIX&lt;sup&gt;®&lt;/sup&gt;, chaque heure de bricolage devient une véritable expérience.&lt;/p&gt;</content>
+		<category term="Colles liquides" />
+	</entry>
+	<entry>
+		<title>Colle universelle PELIFIX®</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3877-colle-universelle-pelifix.html"/>
+		<published>2021-07-23T18:44:37+00:00</published>
+		<updated>2021-07-23T18:44:37+00:00</updated>
+		<id>https://www.pelikan.com/fr-ch/produits/coller/3371-colles-liquides/3877-colle-universelle-pelifix.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;La colle universelle PELIFIX&lt;sup&gt;®&lt;/sup&gt; colle presque tout ce qui va ensemble. Papier, verre, bois, utilisation polyvalente et utilisation facile&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;La colle universelle PELIFIX&lt;sup&gt;®&lt;/sup&gt; colle presque tout ce qui va ensemble. Papier, verre, bois, utilisation polyvalente et utilisation facile&lt;/p&gt;</content>
+		<category term="Colles liquides" />
+	</entry>
+</feed>

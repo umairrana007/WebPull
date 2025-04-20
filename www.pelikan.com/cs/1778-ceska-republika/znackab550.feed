@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="cs-cz">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/cs/1778-ceska-republika/znacka.feed</id>
+	<updated>2025-04-10T13:28:30+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/cs/1778-ceska-republika/znacka.feed?type=atom"/>
+	<entry>
+		<title>Značka Pelikan</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/cs/znacka/znacka-pelikan.html"/>
+		<published>2021-06-08T19:35:58+00:00</published>
+		<updated>2021-06-08T19:35:58+00:00</updated>
+		<id>https://www.pelikan.com/cs/znacka/znacka-pelikan.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Naše výročí&lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 let&amp;nbsp;&lt;/span&gt;Pelikan!&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pelikan, &lt;span class=&quot;text-blue_num&quot;&gt;společnost s dlouholetou tradicí&lt;/span&gt;, tvoří historii již &lt;span class=&quot;text-blue_num&quot;&gt;180 let&lt;/span&gt;.&lt;/h3&gt;
+&lt;p&gt;Pelikan, společnost s dlouholetou tradicí, tvoří historii již 180 let. Dne 28. dubna 1838 položil chemik Carl Hornemann vydáním prvního ceníku své továrny na barvy základ úspěchu této světoznámé tradiční firmy z německého Hannoveru.&lt;/p&gt;
+&lt;p&gt;Rok 2018 je pro nás výjimečný - 28. dubna se společnost Pelikan dožila 180 let a nyní se může ohlédnout za svou historií, která je nejen velmi dlouhá, ale také bohatá na události. Vše začalo kdysi dávno, když chemik Carl Hornemann založil v Hannoveru továrnu na barvy a inkousty. Obchodní aktivity byly zahájeny zveřejněním prvního ceníku 28. dubna 1838 - a s nimi i historie úspěšné značky, která je dnes známá po celém světě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pro každého, &lt;span class=&quot;text-blue_num&quot;&gt;kdo by se chtěl podívat blíže na úspěšný&lt;/span&gt; příběh Pelikan,&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;naše interaktivní historie společnosti, stejně jako kniha o historii značky, poskytují úplný přehled o uplynulých 180 letech společnosti Pelikan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Nové objevy z archivu Pelikan&lt;/h1&gt;
+&lt;p&gt;Ve firemním archivu byly objeveny dosud neznámé dopisy původce značky Günthera Wagnera jeho nástupci Fritzi Beindorffovi. Mezi objevy byl také původní erb rodiny Wagnerů, který se pravděpodobně používal jako identifikační značka na dětských medových barvách již před rokem 1873.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-purple&quot;&gt;Pelikan &lt;span class=&quot;text-yellow&quot;&gt;pracuje s péčí a vášní&lt;/span&gt;, aby pomohl udělat svět lepším.&lt;/h2&gt;
+&lt;p&gt;Byl to sám Günther Wagner, kdo na základě svého rodinného erbu navrhl obrazovou ochrannou známku PELIKAN pro své &quot;Malé medové barvy&quot;. Günther Wagner převzal pro obrazovou ochrannou známku PELIKAN počet tří mláďat v hnízdě. Medové barvy byly tehdy běžným druhem akvarelu, v němž se jako pojivo používal med. Podle ceníku z roku 1873 byly malé kulaté misky s medovými barvami nabízeny v plechových krabičkách, které obsahovaly 12, 18 nebo 24 různých barev, přičemž misky s barvami byly přilepeny ke kovu krabičky. Při navrhování ochranné známky Günther Wagner upustil od tzv. oválného tvaru štítu, na němž byl zobrazen pelikán v jeho rodovém erbu.&lt;/p&gt;
+&lt;p&gt;Po narození čtvrtého Wagnerova dítěte se v hnízdě objevilo další mládě - jak je vidět na nejstarší dosud známé ochranné známce PELIKAN, která byla zapsána 27. listopadu 1878.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Značka se mění&lt;br /&gt;s dobou&lt;/h2&gt;
+&lt;p&gt;Značka Pelikan vypráví celý příběh vtěsnaný do jediného nápisu. Je to příběh o lásce a náklonnosti matky pelikána ke svému mláděti, které, jak víme, jednoho dne otevře křídla a vzlétne. Značku Pelikan tak lze od jejích počátků až do dnešních dnů chápat jako symbol příběhu úspěchu této staronové německé společnosti, společnosti světového významu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;div class=&quot;_com_brand&quot;&gt;
+&lt;div class=&quot;container _sec_one&quot;&gt;
+&lt;div class=&quot;row justify-content-center&quot;&gt;
+&lt;div class=&quot;col-sm-10 text-center&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Naše výročí&lt;br /&gt;&lt;span class=&quot;text-blue_num&quot;&gt;180 let&amp;nbsp;&lt;/span&gt;Pelikan!&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-8&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/making_history.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;560&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 my-auto _txt&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pelikan, &lt;span class=&quot;text-blue_num&quot;&gt;společnost s dlouholetou tradicí&lt;/span&gt;, tvoří historii již &lt;span class=&quot;text-blue_num&quot;&gt;180 let&lt;/span&gt;.&lt;/h3&gt;
+&lt;p&gt;Pelikan, společnost s dlouholetou tradicí, tvoří historii již 180 let. Dne 28. dubna 1838 položil chemik Carl Hornemann vydáním prvního ceníku své továrny na barvy základ úspěchu této světoznámé tradiční firmy z německého Hannoveru.&lt;/p&gt;
+&lt;p&gt;Rok 2018 je pro nás výjimečný - 28. dubna se společnost Pelikan dožila 180 let a nyní se může ohlédnout za svou historií, která je nejen velmi dlouhá, ale také bohatá na události. Vše začalo kdysi dávno, když chemik Carl Hornemann založil v Hannoveru továrnu na barvy a inkousty. Obchodní aktivity byly zahájeny zveřejněním prvního ceníku 28. dubna 1838 - a s nimi i historie úspěšné značky, která je dnes známá po celém světě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg-light-blue _sec_two&quot;&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-7 p-0&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_img2.webp&quot; alt=&quot;Company history&quot; width=&quot;910&quot; height=&quot;650&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-3 col-8 _txt my-auto&quot;&gt;
+&lt;h3 class=&quot;text_blue_flex&quot;&gt;Pro každého, &lt;span class=&quot;text-blue_num&quot;&gt;kdo by se chtěl podívat blíže na úspěšný&lt;/span&gt; příběh Pelikan,&lt;/h3&gt;
+&lt;p class=&quot;text_blue_flex&quot;&gt;naše interaktivní historie společnosti, stejně jako kniha o historii značky, poskytují úplný přehled o uplynulých 180 letech společnosti Pelikan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container _sec_three&quot;&gt;
+&lt;div class=&quot;row _spacers&quot;&gt;
+&lt;div class=&quot;col-sm-6 _txt order-sm-0 order-1 my-auto&quot;&gt;
+&lt;h1 class=&quot;text_blue_menu&quot;&gt;Nové objevy z archivu Pelikan&lt;/h1&gt;
+&lt;p&gt;Ve firemním archivu byly objeveny dosud neznámé dopisy původce značky Günthera Wagnera jeho nástupci Fritzi Beindorffovi. Mezi objevy byl také původní erb rodiny Wagnerů, který se pravděpodobně používal jako identifikační značka na dětských medových barvách již před rokem 1873.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 offset-sm-1 col-8 order-sm-1 order-0 text-right&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_logo_img3.jpg&quot; alt=&quot;Pelikan archive&quot; width=&quot;400&quot; height=&quot;400&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;bg_gray_dis _sec_four&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-5 col-10&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/TheBrand_book_img4.jpg&quot; alt=&quot;&quot; width=&quot;510&quot; height=&quot;610&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-1 d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 _txt my-auto&quot;&gt;
+&lt;h2 class=&quot;text-purple&quot;&gt;Pelikan &lt;span class=&quot;text-yellow&quot;&gt;pracuje s péčí a vášní&lt;/span&gt;, aby pomohl udělat svět lepším.&lt;/h2&gt;
+&lt;p&gt;Byl to sám Günther Wagner, kdo na základě svého rodinného erbu navrhl obrazovou ochrannou známku PELIKAN pro své &quot;Malé medové barvy&quot;. Günther Wagner převzal pro obrazovou ochrannou známku PELIKAN počet tří mláďat v hnízdě. Medové barvy byly tehdy běžným druhem akvarelu, v němž se jako pojivo používal med. Podle ceníku z roku 1873 byly malé kulaté misky s medovými barvami nabízeny v plechových krabičkách, které obsahovaly 12, 18 nebo 24 různých barev, přičemž misky s barvami byly přilepeny ke kovu krabičky. Při navrhování ochranné známky Günther Wagner upustil od tzv. oválného tvaru štítu, na němž byl zobrazen pelikán v jeho rodovém erbu.&lt;/p&gt;
+&lt;p&gt;Po narození čtvrtého Wagnerova dítěte se v hnízdě objevilo další mládě - jak je vidět na nejstarší dosud známé ochranné známce PELIKAN, která byla zapsána 27. listopadu 1878.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec_slider&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div id=&quot;_slider1&quot; class=&quot;owl-carousel loop&quot;&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;item&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row justify-content-center _sec_slider_txt&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-11 text-center&quot;&gt;
+&lt;h2 class=&quot;text-blue-title&quot;&gt;Značka se mění&lt;br /&gt;s dobou&lt;/h2&gt;
+&lt;p&gt;Značka Pelikan vypráví celý příběh vtěsnaný do jediného nápisu. Je to příběh o lásce a náklonnosti matky pelikána ke svému mláděti, které, jak víme, jednoho dne otevře křídla a vzlétne. Značku Pelikan tak lze od jejích počátků až do dnešních dnů chápat jako symbol příběhu úspěchu této staronové německé společnosti, společnosti světového významu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;container-fluid _sec-video&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;video src=&quot;https://www.pelikan.com/images/pelikan/company/brand/Years.mp4&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; muted=&quot;&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_videoContainer&quot;&gt; Your browser does not support HTML5 video. &lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	jQuery('.loop').owlCarousel({
+		center: true,
+		items: 3,
+		loop: true,
+		margin: 30,
+		dots: false,
+		nav: false,
+		navText: ['&lt;i class=&quot;fa fa-angle-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;'],
+		autoplay: true,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			600: {
+				items: 2
+			},
+			700: {
+				items: 2
+			},
+			1370: {
+				items: 3
+			},
+			1400: {
+				items: 3
+			}
+		}
+	});
+&lt;/script&gt;
+&lt;p class=&quot;d-none d-sm-block&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Značka" />
+	</entry>
+	<entry>
+		<title>Naše historie</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/cs/znacka/historie-spolecnosti-pelikan.html"/>
+		<published>2021-02-11T20:04:01+00:00</published>
+		<updated>2021-02-11T20:04:01+00:00</updated>
+		<id>https://www.pelikan.com/cs/znacka/historie-spolecnosti-pelikan.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;header class=&quot;_history_header&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/banners/history/1800.png&quot; alt=&quot;Out history&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_header_img&quot; class=&quot;&quot; /&gt;&lt;/header&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_tm_Header&quot;&gt;
+&lt;h1 class=&quot;text-blue-dark text-center&quot;&gt;Naše historie&lt;/h1&gt;
+&lt;div class=&quot;_TheTimeLine&quot;&gt;&lt;a href=&quot;https://www.pelikan.com/#1800&quot; class=&quot;_clickTm active&quot; data-header=&quot;/images/banners/history/1800.png&quot; data-timeline=&quot;1&quot;&gt;1800&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#1900&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/1900.png&quot; data-timeline=&quot;2&quot;&gt;1900&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#2000&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/2000.png&quot; data-timeline=&quot;3&quot;&gt;2000&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm1&quot; class=&quot;_th&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1800/Timeline1800_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1838&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1838&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Carl Hornemann&lt;br /&gt;první továrna na inkoust&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;V roce 1832 založil Carl Hornemann v německém Hannoveru továrnu na barvy a inkoust, i když se za datum založení tradičně považuje 28. duben 1838.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1842&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-h6&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První úspěch&lt;br /&gt;umožňuje expanzi&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-p aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;p&gt;Dne 15. června zakoupil Hornemann část pozemků v hannoverské oblasti Hainholz.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-1&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1863&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1863&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Věnování vzdělávání se&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Günther Wagner byl povýšen na chemika a ředitele závodu. Podnik převzal v roce 1871.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-3&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1878&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1878&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Registrace ochranné známky&lt;br /&gt;27. listopadu 1878&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikán se čtyřmi mláďaty je jednou z nejstarších ochranných známek v Německu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-4&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1873&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1873&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Malé medové barvy&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Günther Wagner navrhl obrazovou ochrannou známku PELIKAN pro &quot;Malé medové barvy&quot; podle svého rodinného erbu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-5&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;img-box-6&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1881&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1881&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rozšíření mezinárodního obchodu&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Byly rozšířeny výrobní haly. Společnost zaměstnávala dalších 39 lidí a Fritze Beindorffa. Jeho úkolem bylo navštěvovat zákazníky v Rakousku, Rusku a Itálii.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-7&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1895&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1895&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Fritz Beindorff přebírá funkci&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Fritz Beindorff se v roce 1888 oženil s nejstarší dcerou Günthera Wagnera, převzal firmu a zavedl novou řadu kopírovacích, razítkovacích, lepicích a mazacích produktů.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1896&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1896&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan Indian inkoust se stává bestsellerem&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan začal vyrábět indický inkoust a získal si silné postavení na trhu.&lt;/p&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; style=&quot;font-size: 1rem; caret-color: auto;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1898&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1898&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1. ročník soutěže o nejlepší plakát&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První soutěž na plakáty z let 1889/99 je pro firmu velmi úspěšná, přišlo více než 500 návrhů.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-9&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm2&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1900/Timeline1900_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive_2.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line-1 d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1902&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1902&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2. ročník plakátové soutěže&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Vzhledem k velkému úspěchu byla v roce 1902 zahájena další soutěž, tentokrát se však výběrového řízení na plakátovou soutěž účastní devět významných firem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1906&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1906&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1906&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nové výrobní závody&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nová budova, která je dnes památkově chráněná (13 000 m2), byla postavena poté, co již nebylo možné rozšiřovat pozemek na starém místě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1912&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1912&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Věnování&lt;br /&gt; vzdělávání&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_text-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Od roku 1921 časopis Der Pelikan, který již řadu let podporuje výuku malování a kreslení ve školách.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-pen&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 class=&quot;aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1929&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První plnicí pero&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rok zrodu plnicího pera Pelikan. Vnější &quot;ochrannou známkou&quot; je zelený mramorovaný pásek.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1922&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_img-pen&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1913&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1913&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;75. výročí&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Výrobní kapacita továrny se zdvojnásobuje. Je přijato 1057 nových dělníků a zaměstnanců. Obrat nyní činí 4,4 milionu zlatých marek.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1922&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1922&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Obrazová ochranná známka&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Do kolektivní paměti spotřebitelů se vtiskuje nová moderní a výrazná značka.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1929&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1931&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První neprůhledná krabička na barvy&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan přináší na trh první neprůhlednou krabičku na barvy pod názvem 735 D/12, od té doby je dobrým společníkem mnoha německých studentů napříč lety.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1931&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1931&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1938&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;100. výročí&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;O. H. W. Hadanck navrhl katalog 100 let; je také zodpovědný za změnu designu loga, ikony, která zůstane po dalších 60 let. V továrnách Pelikan po celém světě slavilo 7300 zaměstnanců.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1960&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1960&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1960&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Zrození klasiky&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Představuje se pero Pelikano jako produkt úzké spolupráce mezi učiteli psaní a konstruktéry plnicích per.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1972&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img10.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1972&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1972&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Na trh jsou uvedeny první&lt;br /&gt; inkoustové erodovače.&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Tintentiger, byl vyroben jako snadná a čistá metoda vymazávání inkoustu královské modři. V roce 1974 se název změnil na &quot;&quot;Pelikan Tintenblitz&quot;&quot; a v roce 1976 na &quot;Super-Pirat&quot;. Jedná se o nejprodávanější vymazávač inkoustu v Německu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1973&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img11.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1973&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1973&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Přemístění nové továrny&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Výroba psacích potřeb byla přesunuta do Peine/Voehrum, 30 km východně od Hannoveru. Dodnes se zde vyrábějí pera Pelikan, malířské a kancelářské výrobky.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1974&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img12.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1974&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1974&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Zjednodušené počáteční písmo&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společnost Pelikan vyvinula ve spolupráci s pedagogy z tohoto oboru zjednodušené písmo pro začátečníky. Právě zde společnost poprvé projevila své vzdělávací kompetence týkající se Ručního písma. Díky tomu se role plnicího pera Pelikano stala ještě zásadnější.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm3&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/2000/Timeline2000_Line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_img-2003&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2003&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2003&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nový komplex budov&lt;br /&gt;v Hannoveru&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společnost Pelikan se přestěhovala do nové kancelářské budovy na Werftstrasse v Hannoveru.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2008&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2008&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2008&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Systém griffix&lt;sup&gt;®&lt;/sup&gt; learn-to-write&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Griffix&lt;sup&gt;®&lt;/sup&gt; je první ucelený koncept produktu, který od samého počátku provází proces učení se psaní. Společnost Pelikan získala za produkt griffix&lt;sup&gt;®&lt;/sup&gt; ocenění &quot;red dot design award&quot; a žádané ocenění ISPA.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2010&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2010&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2010&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;50 let společnosti Pelikano&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Plnicí pero slaví 50. výročí! U příležitosti tohoto výročí se objeví nová módní designová verze klasického pera v červené, modré a zelené barvě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2011&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2011&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2011&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Inkoust Edelstein&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan má nejdelší historii výroby inkoustů, s kolekcí inkoustů Edelstein vnesl Pelikan do světa inkoustů nový jiskřivý život. Speciální přísady zajišťují mimořádně hladké psaní a péči o plnicí pero, obsažené ve vysoce hodnotném skleněném flakonu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2014&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2014&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2014&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společně na trhu&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;S účinností od 1. března 2014 převzala společnost Pelikan Holding AG německou a rakouskou distribuční společnost Herlitz PBS AG. Ta nyní vlastní značky Pelikan, Herlitz, Susy Card a Geha.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2017&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2017&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2017&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan TintenTurm&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Dne 29. března 2017 je pro veřejnost otevřena Pelikan Tinten Turm (inkoustová věž) v historické hannoverské čtvrti Pelikan. Nově navržené prostory ve třech kategoriích obchod, muzeum, akce umožňují na více než 657 m² vzrušující vhled do světa Pelikan.z&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2018&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2018&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2018&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;180 let společnosti Pelikan&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rok 2018 byl výjimečný - 28. dubna uplynulo 180 let od založení společnosti Pelikan a doba, za kterou se Pelikan ohlíží, byla nejen velmi dlouhá, ale také velmi bohatá na události.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2019&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2019&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2021&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;V tomto roce byla představena naše nová vize, poslání a hodnoty.&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Vytvářet rovné příležitosti k učení a růstu pro každého.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;header class=&quot;_history_header&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/banners/history/1800.png&quot; alt=&quot;Out history&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;_header_img&quot; class=&quot;&quot; /&gt;&lt;/header&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;_tm_Header&quot;&gt;
+&lt;h1 class=&quot;text-blue-dark text-center&quot;&gt;Naše historie&lt;/h1&gt;
+&lt;div class=&quot;_TheTimeLine&quot;&gt;&lt;a href=&quot;https://www.pelikan.com/#1800&quot; class=&quot;_clickTm active&quot; data-header=&quot;/images/banners/history/1800.png&quot; data-timeline=&quot;1&quot;&gt;1800&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#1900&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/1900.png&quot; data-timeline=&quot;2&quot;&gt;1900&lt;/a&gt; &lt;a href=&quot;https://www.pelikan.com/#2000&quot; class=&quot;_clickTm&quot; data-header=&quot;/images/banners/history/2000.png&quot; data-timeline=&quot;3&quot;&gt;2000&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm1&quot; class=&quot;_th&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1800/Timeline1800_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1838&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1838&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Carl Hornemann&lt;br /&gt;první továrna na inkoust&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;V roce 1832 založil Carl Hornemann v německém Hannoveru továrnu na barvy a inkoust, i když se za datum založení tradičně považuje 28. duben 1838.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1842&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-h6&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První úspěch&lt;br /&gt;umožňuje expanzi&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1842-p aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;p&gt;Dne 15. června zakoupil Hornemann část pozemků v hannoverské oblasti Hainholz.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-1&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1863&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1863&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Věnování vzdělávání se&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Günther Wagner byl povýšen na chemika a ředitele závodu. Podnik převzal v roce 1871.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-3&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1878&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1878&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Registrace ochranné známky&lt;br /&gt;27. listopadu 1878&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikán se čtyřmi mláďaty je jednou z nejstarších ochranných známek v Německu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-4&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1873&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1873&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Malé medové barvy&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Günther Wagner navrhl obrazovou ochrannou známku PELIKAN pro &quot;Malé medové barvy&quot; podle svého rodinného erbu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-5&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;img-box-6&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1881&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1881&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rozšíření mezinárodního obchodu&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Byly rozšířeny výrobní haly. Společnost zaměstnávala dalších 39 lidí a Fritze Beindorffa. Jeho úkolem bylo navštěvovat zákazníky v Rakousku, Rusku a Itálii.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-7&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event-1895&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1895&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Fritz Beindorff přebírá funkci&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Fritz Beindorff se v roce 1888 oženil s nejstarší dcerou Günthera Wagnera, převzal firmu a zavedl novou řadu kopírovacích, razítkovacích, lepicích a mazacích produktů.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1896&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1896&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan Indian inkoust se stává bestsellerem&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan začal vyrábět indický inkoust a získal si silné postavení na trhu.&lt;/p&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; style=&quot;font-size: 1rem; caret-color: auto;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1898&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1898&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1. ročník soutěže o nejlepší plakát&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První soutěž na plakáty z let 1889/99 je pro firmu velmi úspěšná, přišlo více než 500 návrhů.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;img-box-9&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1800/Timeline1800_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm2&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/1900/Timeline1900_line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive_2.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line-1 d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_event _1902&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1902&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2. ročník plakátové soutěže&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Vzhledem k velkému úspěchu byla v roce 1902 zahájena další soutěž, tentokrát se však výběrového řízení na plakátovou soutěž účastní devět významných firem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1906&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1906&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1906&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nové výrobní závody&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nová budova, která je dnes památkově chráněná (13 000 m2), byla postavena poté, co již nebylo možné rozšiřovat pozemek na starém místě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-1912&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1912&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Věnování&lt;br /&gt; vzdělávání&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_text-1912&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Od roku 1921 časopis Der Pelikan, který již řadu let podporuje výuku malování a kreslení ve školách.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event-pen&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;
+&lt;div class=&quot;_style&quot;&gt;
+&lt;h3 class=&quot;aos-init aos-animate&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1929&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První plnicí pero&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rok zrodu plnicího pera Pelikan. Vnější &quot;ochrannou známkou&quot; je zelený mramorovaný pásek.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1922&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_img-pen&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1913&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1913&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;75. výročí&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Výrobní kapacita továrny se zdvojnásobuje. Je přijato 1057 nových dělníků a zaměstnanců. Obrat nyní činí 4,4 milionu zlatých marek.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1922&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1922&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Obrazová ochranná známka&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Do kolektivní paměti spotřebitelů se vtiskuje nová moderní a výrazná značka.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_event _1929&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot; /&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1931&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;První neprůhledná krabička na barvy&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan přináší na trh první neprůhlednou krabičku na barvy pod názvem 735 D/12, od té doby je dobrým společníkem mnoha německých studentů napříč lety.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1931&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1931&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1938&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;100. výročí&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;O. H. W. Hadanck navrhl katalog 100 let; je také zodpovědný za změnu designu loga, ikony, která zůstane po dalších 60 let. V továrnách Pelikan po celém světě slavilo 7300 zaměstnanců.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1960&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img9.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1960&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1960&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Zrození klasiky&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Představuje se pero Pelikano jako produkt úzké spolupráce mezi učiteli psaní a konstruktéry plnicích per.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1972&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img10.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1972&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1972&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Na trh jsou uvedeny první&lt;br /&gt; inkoustové erodovače.&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Tintentiger, byl vyroben jako snadná a čistá metoda vymazávání inkoustu královské modři. V roce 1974 se název změnil na &quot;&quot;Pelikan Tintenblitz&quot;&quot; a v roce 1976 na &quot;Super-Pirat&quot;. Jedná se o nejprodávanější vymazávač inkoustu v Německu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1973&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img11.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1973&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1973&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Přemístění nové továrny&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Výroba psacích potřeb byla přesunuta do Peine/Voehrum, 30 km východně od Hannoveru. Dodnes se zde vyrábějí pera Pelikan, malířské a kancelářské výrobky.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-1974&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/1900/Timeline1900_img12.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _1974&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;1974&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Zjednodušené počáteční písmo&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společnost Pelikan vyvinula ve spolupráci s pedagogy z tohoto oboru zjednodušené písmo pro začátečníky. Právě zde společnost poprvé projevila své vzdělávací kompetence týkající se Ručního písma. Díky tomu se role plnicího pera Pelikano stala ještě zásadnější.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;_tm3&quot; class=&quot;_th&quot; style=&quot;display: none;&quot;&gt;
+&lt;div class=&quot;_elements_history&quot;&gt;&lt;img src=&quot;https://www.pelikan.com//images/timeline/2000/Timeline2000_Line.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-none d-sm-block&quot; /&gt; &lt;img src=&quot;https://www.pelikan.com/images/timeline/Timeline_line_responsive.png&quot; alt=&quot;Timeline&quot; class=&quot;_time-line d-block d-sm-none&quot; /&gt;
+&lt;div class=&quot;_img-2003&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img1.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2003&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2003&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Nový komplex budov&lt;br /&gt;v Hannoveru&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společnost Pelikan se přestěhovala do nové kancelářské budovy na Werftstrasse v Hannoveru.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2008&quot; data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img2.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2008&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2008&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Systém griffix&lt;sup&gt;®&lt;/sup&gt; learn-to-write&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Griffix&lt;sup&gt;®&lt;/sup&gt; je první ucelený koncept produktu, který od samého počátku provází proces učení se psaní. Společnost Pelikan získala za produkt griffix&lt;sup&gt;®&lt;/sup&gt; ocenění &quot;red dot design award&quot; a žádané ocenění ISPA.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2010&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img3.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2010&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2010&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;50 let společnosti Pelikano&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Plnicí pero slaví 50. výročí! U příležitosti tohoto výročí se objeví nová módní designová verze klasického pera v červené, modré a zelené barvě.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2011&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img4.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2011&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2011&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Inkoust Edelstein&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan má nejdelší historii výroby inkoustů, s kolekcí inkoustů Edelstein vnesl Pelikan do světa inkoustů nový jiskřivý život. Speciální přísady zajišťují mimořádně hladké psaní a péči o plnicí pero, obsažené ve vysoce hodnotném skleněném flakonu.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2014&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img5.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2014&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2014&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Společně na trhu&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;S účinností od 1. března 2014 převzala společnost Pelikan Holding AG německou a rakouskou distribuční společnost Herlitz PBS AG. Ta nyní vlastní značky Pelikan, Herlitz, Susy Card a Geha.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2017&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img6.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2017&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2017&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Pelikan TintenTurm&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Dne 29. března 2017 je pro veřejnost otevřena Pelikan Tinten Turm (inkoustová věž) v historické hannoverské čtvrti Pelikan. Nově navržené prostory ve třech kategoriích obchod, muzeum, akce umožňují na více než 657 m² vzrušující vhled do světa Pelikan.z&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2018&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img7.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2018&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2018&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;180 let společnosti Pelikan&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Rok 2018 byl výjimečný - 28. dubna uplynulo 180 let od založení společnosti Pelikan a doba, za kterou se Pelikan ohlíží, byla nejen velmi dlouhá, ale také velmi bohatá na události.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;_img-2019&quot; data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;&lt;img src=&quot;https://www.pelikan.com/images/timeline/2000/Timeline2000_img8.png&quot; alt=&quot;&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;_event _2019&quot;&gt;
+&lt;div class=&quot;_ev_box&quot;&gt;
+&lt;h3 data-aos=&quot;fade-down&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;2021&lt;/h3&gt;
+&lt;h6 data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;V tomto roce byla představena naše nová vize, poslání a hodnoty.&lt;/h6&gt;
+&lt;p data-aos=&quot;fade-up&quot; data-aos-easing=&quot;linear&quot; data-aos-duration=&quot;1500&quot;&gt;Vytvářet rovné příležitosti k učení a růstu pro každého.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Značka" />
+	</entry>
+</feed>

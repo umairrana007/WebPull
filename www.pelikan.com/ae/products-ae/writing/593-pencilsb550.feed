@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-ae">
+	<title type="text">Writing - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/ae/products-ae/writing/593-pencils.feed</id>
+	<updated>2025-04-10T13:11:57+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/ae/products-ae/writing/593-pencils.feed?type=atom"/>
+	<entry>
+		<title>Graphite pencils</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/ae/products-ae/writing/593-pencils/1306-graphite-pencil.html"/>
+		<published>2021-07-21T21:20:58+00:00</published>
+		<updated>2021-07-21T21:20:58+00:00</updated>
+		<id>https://www.pelikan.com/ae/products-ae/writing/593-pencils/1306-graphite-pencil.html</id>
+		<author>
+			<name>Mariela</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/graphite_pencil/graphite_pencil_w_eraser_product_intro.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue&quot;&gt;Graphite pencils&lt;/h2&gt;
+&lt;p&gt;Classic design.&lt;br /&gt;Quality graphite pencils with various hardness grades for all needs: HB (2), 2B (0).&amp;nbsp;HB pencil is available with or without eraser in hexagonal or triangular shapes, with FREE sharpener.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/writing/product/graphite_pencil/graphite_pencil_w_eraser_product_intro.png&quot; /&gt;&lt;/p&gt;&lt;h2 class=&quot;text-blue&quot;&gt;Graphite pencils&lt;/h2&gt;
+&lt;p&gt;Classic design.&lt;br /&gt;Quality graphite pencils with various hardness grades for all needs: HB (2), 2B (0).&amp;nbsp;HB pencil is available with or without eraser in hexagonal or triangular shapes, with FREE sharpener.&lt;/p&gt;
+</content>
+		<category term="Pencils" />
+	</entry>
+</feed>

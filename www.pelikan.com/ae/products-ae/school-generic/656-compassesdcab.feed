@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>School generic - Pelikan</title>
+		<description><![CDATA[Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen & Basteln Büroprodukte Ersatzteile & Zubehör Twist Lehrer-Portal Pelikan Group...]]></description>
+		<link>https://www.pelikan.com/ae/products-ae/school-generic/656-compasses.html</link>
+		<lastBuildDate>Thu, 10 Apr 2025 13:30:06 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.pelikan.com/ae/products-ae/school-generic/656-compasses.feed?type=rss"/>
+		<language>en-ae</language>
+		<item>
+			<title>Precision compass</title>
+			<link>https://www.pelikan.com/ae/products-ae/school-generic/656-compasses/2049-precision-compass.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ae/products-ae/school-generic/656-compasses/2049-precision-compass.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">Precision compass</h2>
+<p>Metal precision compass with adjustable knob. An ideal drawing instrument to<br /> create perfect circles, can be used in mathematics and technical drawing.</p>
+]]></description>
+			<category>Compasses</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Compass case</title>
+			<link>https://www.pelikan.com/ae/products-ae/school-generic/656-compasses/2050-compass-case.html</link>
+			<guid isPermaLink="true">https://www.pelikan.com/ae/products-ae/school-generic/656-compasses/2050-compass-case.html</guid>
+			<description><![CDATA[<h2 class="text-yellow">Compass case</h2>
+<p>Basic metal compass with adjustable arms to create perfect circles. <br />A resistant tool made of high durability materials. Includes spare leads and plastic carrying case<br /> for an easy transportation.</p>
+]]></description>
+			<category>Compasses</category>
+			<pubDate>Wed, 21 Jul 2021 19:47:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

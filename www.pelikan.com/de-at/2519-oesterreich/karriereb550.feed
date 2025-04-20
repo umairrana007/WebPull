@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-at">
+	<title type="text">Pelikan - Pelikan</title>
+	<subtitle type="text">Pelikan - a strong brand at your side. Edles Schreiben Design Schreibgeräte Schreiben Malen &amp; Basteln Büroprodukte Ersatzteile &amp; Zubehör Twist Lehrer-Portal Pelikan Group...</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.pelikan.com"/>
+	<id>https://www.pelikan.com/de-at/2519-oesterreich/karriere.feed</id>
+	<updated>2025-04-10T13:30:39+00:00</updated>
+	<author>
+		<name>Pelikan</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.pelikan.com/de-at/2519-oesterreich/karriere.feed?type=atom"/>
+	<entry>
+		<title>Stellenangebote</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-at/karriere/stellenangebote.html"/>
+		<published>2021-12-08T15:27:23+00:00</published>
+		<updated>2021-12-08T15:27:23+00:00</updated>
+		<id>https://www.pelikan.com/de-at/karriere/stellenangebote.html</id>
+		<author>
+			<name>Developer</name>
+		</author>
+		<summary type="html">&lt;h1 class=&quot;text-blue&quot;&gt;Stellenangebote für die Pelikan Group&lt;/h1&gt;
+&lt;p&gt;Seit über 180 Jahren steht das Unternehmen Pelikan für Innovationskraft, Zuverlässigkeit und Qualität. Auf der ganzen Welt vertrauen deshalb Menschen in den Bereichen Schreiben, Malen und Korrigieren den Produkten aus Hannover und Falkensee.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;h1 class=&quot;text-blue&quot;&gt;Stellenangebote für die Pelikan Group&lt;/h1&gt;
+&lt;p&gt;Seit über 180 Jahren steht das Unternehmen Pelikan für Innovationskraft, Zuverlässigkeit und Qualität. Auf der ganzen Welt vertrauen deshalb Menschen in den Bereichen Schreiben, Malen und Korrigieren den Produkten aus Hannover und Falkensee.&lt;/p&gt;
+</content>
+		<category term="Karriere" />
+	</entry>
+	<entry>
+		<title>Häufig gestellte Fragen</title>
+		<link rel="alternate" type="text/html" href="https://www.pelikan.com/de-at/2519-oesterreich/karriere/2547-haeufig-gestellte-fragen.html"/>
+		<published>2021-10-01T18:03:16+00:00</published>
+		<updated>2021-10-01T18:03:16+00:00</updated>
+		<id>https://www.pelikan.com/de-at/2519-oesterreich/karriere/2547-haeufig-gestellte-fragen.html</id>
+		<author>
+			<name>Mahonia</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/career/FAQsvg.svg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Wann muss ich mich bewerben? Zu welchem Zeitpunkt beginnt die Ausbildung? Wir haben einmal die Antworten auf die häufigsten Fragen zusammengestellt.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pelikan.com/images/category/career/FAQsvg.svg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Wann muss ich mich bewerben? Zu welchem Zeitpunkt beginnt die Ausbildung? Wir haben einmal die Antworten auf die häufigsten Fragen zusammengestellt.&lt;/p&gt;
+</content>
+		<category term="Karriere" />
+	</entry>
+</feed>
